@@ -1,0 +1,2202 @@
+[
+  {
+    "difficulty": "-",
+    "question": "1. Vasiy - bu tizim/ma\u0027lumotlar bazasini har doim unga tegishli bo\u0027lmasdan \"himoya qiluvchi\" funktsiya. Bunga kim javobgar?",
+    "correct_answer": "A. Tarmoq ma\u0027murlari yoki operatorlari.",
+    "incorrect_answers": [
+      "B. Kotiblar.",
+      "C. Tashkilotlar rahbarlari.",
+      "D. Vasiylik va homiylik xodimlari mavjud emas."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "2. Foydalanuvchilar - ……… ..",
+    "correct_answer": "A. Resurslardan foydalanish va aktivlarning mavjudligi, yaxlitligi va maxfiyligini ta\u0027minlash uchun mas\u0027ul - Xavfsizlik siyosatini amalga oshirish uchun mas\u0027ul.",
+    "incorrect_answers": [
+      "B. tashkilot uchun xavfsizlik siyosati, standartlari, yoʻriqnomalari, tartiblari va yoʻriqnomalarini ishlab chiqish, amalga oshirish, boshqarish va koʻrib chiqish uchun javobgardir.",
+      "C. xavfsizlik siyosatini amalga oshirish va amalga oshirish uchun javobgardir.",
+      "D. to\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "3. Tashkilot egalari nima uchun javobgardir?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. ularning axborot tizimlari tashkilotning xavfsizlik siyosatiga muvofiq tegishli xavfsizlikni amalga oshirishini ta\u0027minlaydi.",
+      "C. Tegishli sezuvchanlik darajalari yoki tasnifi haqida qaror qabul qiling.",
+      "D. Kirish huquqlariga ruxsat berish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "4. Axborot tizimlari auditori nima uchun javob beradi?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. xavfsizlik maqsadlariga erishilayotganligi to\u0027g\u0027risida rahbariyatga mustaqil ishonchni ta\u0027minlash.",
+      "C. Xavfsizlik siyosatlari, standartlari, tamoyillari, protseduralari va yo\u0027riqnomalari tashkilotning xavfsizlik maqsadlariga erishish uchun mos keladimi yoki yo\u0027qligini aniqlang.",
+      "D. maqsadlar va nazorat amalga oshirilayotganligini aniqlash."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "5. Xavfsizlik tashkilotini ishga olish tartibini belgilang.",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. O\u0027tgan faoliyat haqida so\u0027rov.",
+      "C. Ta\u0027lim hujjatlarini ekspertizadan o\u0027tkazish.",
+      "D. Mehnat shartnomalarini tuzish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "6. Xavfsizlik tashkilotlari mehnat shartnomalarini tuzishda nimalarga e\u0027tibor berishadi?",
+    "correct_answer": "A. Ma\u0027lumotni oshkor qilmaslik, ish axloqi, telefon yoki internetdan foydalanmaslik.",
+    "incorrect_answers": [
+      "B. Mehnat odob-axloqi.",
+      "C. telefon va internetdan foydalanmaslik ..",
+      "D. Javoblar orasida to‘g‘ri javob yo‘q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "7. Xavfsizlik tashkilotiga ishga qabul qilingan xodimlarga qanday imtiyozlar beriladi?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Kalitlar, shaxsiy guvohnomalar.",
+      "C. Parollar.",
+      "D. Xodimga jihozlar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "8. Xodim xavfsizlik tashkilotida ishlashni to\u0027xtatganda, ishdan bo\u0027shatish tartibida tashkilot nimaga e\u0027tibor berishi kerak?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Xodim muassasani tark etganda barcha kirish kartalari va jihozlari qaytarilishini ta\u0027minlash.",
+      "C. Xodim ishdan bo\u0027shatilgandan so\u0027ng darhol foydalanuvchi ruxsatini olib tashlang.",
+      "D. To\u0027xtatib turish sezilganda intizomiy jazo choralariga rioya qiling."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "9. Xavfsizlik tushunchasiga nimalar kiradi?",
+    "correct_answer": "A. Ogohlantirish materiallari, treninglar, yangiliklardan xabardorlik.",
+    "incorrect_answers": [
+      "B. Treninglarda qatnashish.",
+      "C. axborot xavfsizligini ta\u0027minlash.",
+      "D. Turli ommaviy axborot vositalarida yoritilgan yangiliklar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "10. ......... tashkilotni himoya qilish uchun qabul qilingan xavfsizlik choralarini tavsiflovchi yuqori darajadagi hujjat yoki hujjatlar to\u0027plami?",
+    "correct_answer": "A. Xavfsizlik siyosati.",
+    "incorrect_answers": [
+      "B. Tashkilot siyosati.",
+      "C. Kiberhujum siyosati.",
+      "D. Hujjat siyosati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "11. Xavfsizlik siyosati qanday qadriyatlarni saqlaydi?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Maxfiylik.",
+      "C. Aktiv, mavjudlik.",
+      "D. Yaxlitlik. "
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "12. Xavfsizlik siyosati qanday toifalarga bo\u0027linadi?",
+    "correct_answer": "A. Jismoniy xavfsizlik, xodimlarni boshqarish, apparat va dasturiy ta\u0027minot.",
+    "incorrect_answers": [
+      "B. Xodimlarni boshqarish, IT vakillari.",
+      "C. Texnik va dasturiy ta’minot, ishchilar toifasi.",
+      "D. IT vakillari, investorlar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "13. Jismoniy xavfsizlik nima?",
+    "correct_answer": "A. Xodimlar va rahbariyat uchun jismoniy aktivlarni himoya qilish uchun qaysi himoya vositalaridan foydalanishni tavsiflaydi, eshiklar, kirish punktlari, kuzatuv, signalizatsiya va boshqalarni o\u0027z ichiga oladi.",
+    "incorrect_answers": [
+      "B. Xodimlaringizga kundalik faoliyatlarini, masalan, parollarni boshqarish, maxfiy ma\u0027lumotlarni xavfsiz saqlash va h.k.larni xavfsiz boshqarish yoki amalga oshirishni ayting.",
+      "C. Administratorga qanday turdagi texnologiyadan foydalanishni, tarmoqni qanday boshqarishni, nimani sozlashni va qanday qilishni aytadi va tizim va tarmoq ma\u0027murlari uchun amal qiladi.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "14. Xodimlarni boshqarish nima?",
+    "correct_answer": "A. Xodimlaringizga kundalik ishlarini, masalan, parollarni boshqarish, maxfiy ma\u0027lumotlarni xavfsiz saqlash va h.k.larni xavfsiz boshqarish yoki amalga oshirishni ayting.",
+    "incorrect_answers": [
+      "B. Xodimlar va rahbariyat uchun jismoniy aktivlarni himoya qilish uchun qanday himoya vositalaridan foydalanishni tavsiflaydi, eshiklar, kirishlar, kuzatuv, signalizatsiya va boshqalarni o\u0027z ichiga oladi.",
+      "C. Administratorga qanday turdagi texnologiyadan foydalanishni, tarmoqni qanday boshqarishni, nimani sozlashni va qanday qilishni aytadi va tizim va tarmoq ma\u0027murlari uchun amal qiladi.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "15. Birinchi raqamli kompyuter qachon yaratilgan?",
+    "correct_answer": "A. 1943 yilda",
+    "incorrect_answers": [
+      "B. 1940 yilda",
+      "C. 1942 yilda",
+      "D. 1945 yilda"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "16. Kompyuter viruslari nazariyasi ilk bor nechanchi yilda nashr etilgan?",
+    "correct_answer": "A. 1949 yilda",
+    "incorrect_answers": [
+      "B. 1950 yilda",
+      "C. 1945 yilda",
+      "D. 1947 yilda"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "17. 1950-yillarning oxirida nimalar paydo bo\u0027ldi?",
+    "correct_answer": "A. Telefon qo\u0027ng\u0027irog\u0027i imkoniyati.",
+    "incorrect_answers": [
+      "B. Kiberjinoyat boshlandi.",
+      "C. Kiberxavfsizlik fan sifatida kiritildi.",
+      "D. Hech qanday yangiliklar yo\u0027q edi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "18. Zararli xakerlik haqida birinchi marta qayerda xabar berilgan?",
+    "correct_answer": "MIT gazetasida A..",
+    "incorrect_answers": [
+      "B. New York Times gazetasida.",
+      "C. Oksford universiteti byulletenida.",
+      "D. Bu haqda hech qayerda xabar berilmagan."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "19. Xavfsizlik xizmatining maqsadlari nimalardan iborat?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Axborot xavfsizligining asosiy tamoyillarini belgilang.",
+      "C. AT xavfsizligi talablarini tavsiflab bering.",
+      "D. Axborot xavfsizligi talablari va Blueprints zarurligini muhokama qiling."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "20. Axborot xavfsizligi maqsadlarining asosiy tamoyillari nimalardan iborat?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Tizimlar va ma\u0027lumotlarning ruxsatsiz oshkor etilishining oldini olish.",
+      "C. Tizim va ma\u0027lumotlarga ruxsatsiz o\u0027zgartirishlarning oldini olish.",
+      "D. Ishlab chiqarish va xizmatlar ko\u0027rsatishdagi uzilishlarning oldini olish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "21. Tashkilotning o\u0027ziga xos talablariga moslashtirilgan talablar, qonunchilik, me\u0027yoriy-huquqiy hujjatlar, biznes, IT rahbarlarining ta\u0027siri. Bu tushunchalar qaysi yo\u0027nalishga tegishli?",
+    "correct_answer": "A. Shaxsiy xavfsizlik rejasi",
+    "incorrect_answers": [
+      "B. Xavfsizlik.",
+      "C. Shaxsiy ma\u0027lumotlar.",
+      "D. Axborot xavfsizligi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "22. Tashkilotning xavfsizlik siyosati, standartlari, asosiy qoidalari, protseduralari va yo\u0027riqnomalarini ishlab chiqish, amalga oshirish, boshqarish va ko\u0027rib chiqish uchun kim javobgar?",
+    "correct_answer": "A. Axborot tizimlari xavfsizligi bo\u0027yicha mutaxassislar.",
+    "incorrect_answers": [
+      "B. Kiberxavfsizlik vakillari.",
+      "C. Ijro hujjatlariga mas’ul shaxslar.",
+      "D. Tarmoq xavfsizligi bo\u0027yicha mutaxassislar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "23. Xavfsizlik siyosatining afzalliklarini eng yaxshi tavsiflovchi javobni toping.",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Kengaytirilgan ma\u0027lumotlar va tarmoq xavfsizligi.",
+      "C. Xatarlarni kamaytirish.",
+      "D. Tarmoqning yuqori ishlashi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "24. Kiberfazoning nechta darajasi mavjud?",
+    "correct_answer": "A. 4",
+    "incorrect_answers": [
+      "B. 6",
+      "C. 3",
+      "D. 2"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "25. Yaxshi xavfsizlik siyosati nechta xususiyatga ega?",
+    "correct_answer": "A. 8",
+    "incorrect_answers": [
+      "B. 6",
+      "C. 5",
+      "D. 7"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "26. Xavfsizlik siyosatingizning o\u0027ziga xos xususiyatlaridan kelib chiqqan holda javob toping?",
+    "correct_answer": "A. Ixchamlik va ravshanlik, tushunarlilik, amaliylik, barqarorlik.",
+    "incorrect_answers": [
+      "B. Protsessual tolerantlik, qisqalik va ravshanlik, tartib-intizom, maxfiylik.",
+      "C. Foydalilik, maqsadlilik, ixchamlik va tushunarlilik, mahalliylik.",
+      "D. Tushunuvchanlik, amaliylik, oshkoralik, bag‘rikenglik."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "27. Xavfsizlik talablarining nechta turi mavjud?",
+    "correct_answer": "A. 4",
+    "incorrect_answers": [
+      "B. 3",
+      "C. 2",
+      "D. 5"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "28. Qaysi bo\u0027limda xavfsizlik tartib-qoidalari, xavfsizlik, protseduralar, o\u0027zaro bog\u0027liqlik va hujjatlarga e\u0027tibor qaratilgan?",
+    "correct_answer": "A. Siyosat tavsifi.",
+    "incorrect_answers": [
+      "B. Amaliy tavsif.",
+      "C. Xavfsizlikning tavsifi.",
+      "D. Hujjat tavsifi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "29. Ishlash xavfsizligi tushunchasiga to\u0027g\u0027ri javobni toping?",
+    "correct_answer": "A. Xavfsizlik siyosatining roli, mas\u0027uliyati va funksiyalarini belgilaydi.",
+    "incorrect_answers": [
+      "B. Siyosat dasturdagi har bir tizim uchun kompyuter tizimlari arxitekturasining joylashishini nazarda tutadi.",
+      "C. Siyosat nima uchun tuzilganligi haqida batafsil tushuntirish.",
+      "D. Asosiy e\u0027tibor xavfsizlik tartib-qoidalari, xavfsizlik, o\u0027zaro bog\u0027liqlik va hujjatlarga qaratiladi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "30. Quyidagi javoblardan qaysi biri xavfsizlik siyosati hisobga olinishi kerak bo\u0027lgan asosiy ma\u0027lumotlarni taqdim etadi?",
+    "correct_answer": "A. Umumiy tavsif.",
+    "incorrect_answers": [
+      "B. harakat maydoni.",
+      "C. siyosatning tavsifi.",
+      "D. Protsessual xavfsizlik."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "31. ............ - bu siyosat nima uchun tuzilganligi haqida batafsil tushuntirish. Nuqtalar o‘rniga to‘g‘ri javobni toping?",
+    "correct_answer": "A. Maqsad.",
+    "incorrect_answers": [
+      "B. Siyosat.",
+      "C. Aloqa ma\u0027lumotlari.",
+      "D. Maqsadli auditoriya."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "32 ............. bu xavfsizlik siyosatining har bir jihati uchun bayonotdir. Nuqtalar o‘rniga to‘g‘ri javobni toping?",
+    "correct_answer": "A. Siyosat.",
+    "incorrect_answers": [
+      "B. Maqsad.",
+      "C. Aloqa ma\u0027lumotlari.",
+      "D. Maqsadli auditoriya."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "33. Axborot xavfsizligi siyosatining asosiy turlari qanday?",
+    "correct_answer": "A. 3",
+    "incorrect_answers": [
+      "B. 5",
+      "P. 7",
+      "D. 4"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "34. Axborot xavfsizligi siyosatini ishlab chiqishning yakuniy bosqichini ko\u0027rsating.",
+    "correct_answer": "A. Xizmat bosqichi",
+    "incorrect_answers": [
+      "B. Tekshirish bosqichi",
+      "C. Tahlil bosqichi",
+      "D. Dizayn bosqichi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "35. Axborot xavfsizligi siyosatini amalga oshirish bosqichini to‘g‘ri tavsiflovchi javobni toping.",
+    "correct_answer": "A. Xorijiy nashriyotlar",
+    "incorrect_answers": [
+      "B. Internet",
+      "C. NIST kabi hukumat saytlari",
+      "D. Professional adabiyot"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "36. Axborot xavfsizligi siyosatini monitoring qilish, yuritish va o‘zgartirish uchun mas’ul bo‘lgan siyosatni ishlab chiqish guruhi qaysi bosqichdan iborat?",
+    "correct_answer": "A. A. Xizmat",
+    "incorrect_answers": [
+      "B. Amalga oshirish",
+      "C. Tahlil",
+      "D. Tekshirish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "37. Siyosatni tasdiqlash va amalga oshirish uchun markazlashtirilgan avtomatlashtirilgan vosita …….",
+    "correct_answer": "A. VigilEnt",
+    "incorrect_answers": [
+      "B. EISP",
+      "C. ISSP",
+      "D. NIST"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "38. Axborot xavfsizligi siyosatini tarqatish vositasi noto‘g‘ri yozilgan qatorni toping.",
+    "correct_answer": "A. OAV",
+    "incorrect_answers": [
+      "B. Siyosatni e\u0027lonlar taxtasida joylashtirish",
+      "C. Elektron pochta",
+      "D. Intranet"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "39. Tashkilot tomonidan baholanadigan resurs qanday nomlanadi?",
+    "correct_answer": "A. Aktiv",
+    "incorrect_answers": [
+      "B. Tahdid agenti",
+      "C. Xavf",
+      "D. Qarshi choralar va himoya choralari"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "40. Nomaqbul hodisaning yuz berish ehtimoli qanday nomlanadi?",
+    "correct_answer": "A. Xavf",
+    "incorrect_answers": [
+      "B. Hujum",
+      "C. Zaiflik",
+      "D. Tahdid"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "41. Xatarlarni tahlil qilishning qo\u0027shimcha afzalliklari noto\u0027g\u0027ri ko\u0027rsatilgan qatorni qidiring.",
+    "correct_answer": "A. Tabiiy ofatlarning ta\u0027sirini yumshatish uchun ishlatilishi mumkin.",
+    "incorrect_answers": [
+      "B. Sug\u0027urta va javobgarlik uchun ishlatilishi mumkin.",
+      "C. Qarshi choralar ko\u0027rish va yangi nazorat va tartiblarni amalga oshirish uchun ishlatilishi mumkin.",
+      "D. Xavfsizlikdan xabardorlik dasturlarini qonuniylashtirish uchun foydalanish mumkin."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "42. Miqdoriy tavakkalchilikni tahlil qilish uchun nechta usuldan foydalaniladi?",
+    "correct_answer": "A. 2",
+    "incorrect_answers": [
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "43. Qarshi va himoya choralari …….",
+    "correct_answer": "A. Potensial xavfni kamaytirish tashkiloti",
+    "incorrect_answers": [
+      "B. Qoldiq xavf",
+      "C. Tashkilot tomonidan baholangan manba (jismoniy yoki mantiqiy)",
+      "D. To\u0027g\u0027ri javob yo\u0027q"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "44. Boshqarishning bo\u0027shashishi tushunchasining to\u0027g\u0027ri ifodasini toping.",
+    "correct_answer": "A. Qoldiq xavf \u003d Umumiy zaiflik - Qarshi choralar",
+    "incorrect_answers": [
+      "B. Qoldiq xavf \u003d Umumiy xavf - tahdid",
+      "C. Qoldiq xavf \u003d Umumiy xavf - zaiflik",
+      "D. Qoldiq xavf \u003d Umumiy zaiflik - tahdid"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "45. Axborot xavfsizligi bo\u0027yicha samarali ta\u0027lim va xabardorlik kampaniyasini boshlashdan oldin nima qilish kerak?",
+    "correct_answer": "A. Axborot xavfsizligi siyosatini ishlab chiqish",
+    "incorrect_answers": [
+      "B. Axborot tizimlarini qo\u0027llab-quvvatlashni tekshiring",
+      "C. Axborot xavfsizligini monitoring qilish",
+      "D. Xavflarni tahlil qilish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "46. Maslahatchini yollash narxi texnik nazorat narxi bilan qanday taqqoslanadi?",
+    "correct_answer": "A. Minimal",
+    "incorrect_answers": [
+      "B. Maksimal",
+      "C. Deyarli teng",
+      "D. Ularni solishtirish mantiqqa to‘g‘ri kelmaydi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "47. Yaxshi axborot xavfsizligi dasturi .............. boshlanadi va tugaydimi?",
+    "correct_answer": "A. Axborot xavfsizligi siyosati",
+    "incorrect_answers": [
+      "B. Axborot tizimlarining xavfsizligi",
+      "C. Kiberxavfsizlik",
+      "D. Audit"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "48. Ko\u0027pincha eng arzon boshqaruv vositasi bo\u0027lsa ham amalga oshirish eng qiyin bo\u0027lgan tizimni toping.",
+    "correct_answer": "A. Axborot xavfsizligi siyosati",
+    "incorrect_answers": [
+      "B. Ichki audit",
+      "C. Tashqi audit",
+      "D. Jismoniy himoya"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "49. Axborot tizimlaridan to\u0027g\u0027ri foydalanish uchun javobgarlikning adekvat taqsimlanishini ta\u0027minlash uchun kim javobgar?",
+    "correct_answer": "A. Boshqaruv",
+    "incorrect_answers": [
+      "B. Tizim administratori",
+      "C. IS siyosatini ishlab chiquvchi",
+      "D. Tarmoq administratori"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "50. Murakkab o\u0027zgarishlarga ustuvorlik berishning tasdiqlangan mexanizmi.",
+    "correct_answer": "A. Buqaning ko\u0027zlari modeli",
+    "incorrect_answers": [
+      "B. Hisob ma’lumotlari modeli",
+      "C. Rol namunasi",
+      "D. Bell-LaPadula modeli"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "51. Bullseye modelining ichki bosqichi qanday nomlanadi?",
+    "correct_answer": "A. Ilova",
+    "incorrect_answers": [
+      "B. Siyosat",
+      "C. Tarmoq",
+      "D. Tizim"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "52. Bull\u0027s Eye modeli …….",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri",
+    "incorrect_answers": [
+      "B. Murakkab o\u0027zgarishlarga ustuvorlik berishning isbotlangan mexanizmi",
+      "C. Muammoni hal qilish umumiydan xususiyga o\u0027tish",
+      "D. Shaxsiy muammolarni emas, balki tizimli yechimlarga e\u0027tibor qarating"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "53. Axborot yoki axborot tizimi uchun har qanday potentsial xavf …… hisoblanadi.",
+    "correct_answer": "A. Tahdid",
+    "incorrect_answers": [
+      "B. Hujum",
+      "C. Zaiflik",
+      "D. Xavf"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "54. Tahdid agenti - …….",
+    "correct_answer": "A. Xavf keltirishi mumkin bo\u0027lgan manba",
+    "incorrect_answers": [
+      "B. Tashkilot tomonidan baholanadigan resurs",
+      "C. Mavjud axborot tizimining kamchiliklari",
+      "D. Nomaqbul hodisaning yuzaga kelish ehtimoli"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "55. Quyidagilardan qaysi biri xavfni baholash va yuzaga keladigan tahdidlarni o\u0027z ichiga olmaydi?",
+    "correct_answer": "A. Xavfsizlik xabari",
+    "incorrect_answers": [
+      "B. Yangi texnologiya",
+      "C. Madaniy o\u0027zgarishlar",
+      "D. Texnologiyadan ruxsatsiz foydalanish (masalan, simsiz texnologiyalar, soxta modemlar, PDA - shaxsiy raqamli yordamchilar, kontrafakt dasturiy ta\u0027minot)"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "56. Quyidagilardan qaysi biri tahdidga misol emas?",
+    "correct_answer": "A. Server xonasiga talablarning yetarli emasligi",
+    "incorrect_answers": [
+      "B. Ruxsatsiz kirish",
+      "C. Uskuna xatosi",
+      "D. Asosiy xodimlarni yo\u0027qotish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "57. Axborot tizimlarida konfidensiallikka nisbatan qanday qiyinchiliklar yuzaga keladi?",
+    "correct_answer": "A. axborot chiqib ketishining texnik kanallari haqidagi maʼlumotlar yopiladi",
+    "incorrect_answers": [
+      "B. Shaxsiy kriptografiya yo\u0027lida ko\u0027plab texnik muammolar to\u0027sqinlik qiladi",
+      "C. barcha javoblar to\u0027g\u0027ri",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "58. Tahdid - bu ...",
+    "correct_answer": "A. ma\u0027lum bir tarzda axborot xavfsizligini buzish imkoniyati",
+    "incorrect_answers": [
+      "B. ma\u0027lumotlarni to\u0027plash va jamoaviy foydalanish uchun mo\u0027ljallangan dasturiy ta\u0027minot tilining tashkiliy-texnik vositalari tizimi",
+      "C. Identifikatsiya jarayoni rivojlanishning hozirgi holatiga ushbu bosqich talablariga javob beradi",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "59. Xavf manbai ..",
+    "correct_answer": "A. potentsial hujumchi",
+    "incorrect_answers": [
+      "B. hujumchi",
+      "C. to\u0027g\u0027ri javob yo\u0027q",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "60. Xavf oynasi - bu ...",
+    "correct_answer": "A. Zaif nuqta ehtimoli paydo bo\u0027lgan paytdan boshlab bo\u0027shliq yopilgan paytgacha bo\u0027lgan vaqt oralig\u0027i.",
+    "incorrect_answers": [
+      "B. maʼlum bir fan sohasining maʼlum sinfi masalalarini yechish uchun oʻzaro bogʻliq dasturlar majmuasi",
+      "C. kompyuterda foydalanuvchi muammosini hal qilish algoritmi vazifalarini tavsiflash uchun rasmiylashtirilgan til.",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "61. Foydalanish imkoniyatlariga tahdidlar qanday komponentlar bo‘yicha tasniflanadi:",
+    "correct_answer": "A. qo\u0027llab-quvvatlovchi infratuzilmaning ishlamay qolishi",
+    "incorrect_answers": [
+      "B. foydalanuvchining voz kechishi",
+      "C. dasturdagi xatolik",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "62. Ichki nosozliklarning asosiy manbalari quyidagilardir:",
+    "correct_answer": "A. belgilangan ishlash qoidalaridan chetga chiqish",
+    "incorrect_answers": [
+      "B. ma\u0027lumotlarni yo\u0027q qilish",
+      "C. barcha javoblar to\u0027g\u0027ri",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "63. Virus bu ...",
+    "correct_answer": "A. boshqa dasturlarga kiritish orqali qayta taqsimlanadigan kod",
+    "incorrect_answers": [
+      "B. ob\u0027ektning so\u0027rovga o\u0027z turiga ko\u0027ra javob berish qobiliyati, shu bilan birga bir xil usul nomi turli sinf ob\u0027ektlari uchun ishlatilishi mumkin.",
+      "C. muayyan vazifani bajarish uchun kichik dastur",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "64. Tahdidlarning kelib chiqish tabiati:",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri",
+    "incorrect_answers": [
+      "B. qasddan",
+      "C. tabiiy",
+      "D. tasodifiy"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "65. Tahdidlar paydo bo\u0027lishining zaruriy shartlari:",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri",
+    "incorrect_answers": [
+      "B. subyektiv",
+      "C. qasddan",
+      "D. maqsadli"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "66. Birovning huquqini tortib olish tahdidlarning qaysi turiga kiradi?",
+    "correct_answer": "A. mulk huquqining buzilishi",
+    "incorrect_answers": [
+      "B. tarkibni buzish",
+      "C. tashqi muhit",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "67. Axborot xavfsizligiga tahdidlarning asosiy manbalari quyidagilardan iborat:",
+    "correct_answer": "A. Ma\u0027lumotlarni ushlash, ma\u0027lumotlarni o\u0027g\u0027irlash, tizim arxitekturasini o\u0027zgartirish",
+    "incorrect_answers": [
+      "B. Ma\u0027lumotlarni o\u0027g\u0027irlash, tizim ma\u0027murlariga pora berish, ish qoidalarini buzish",
+      "C. Qattiq disklarni o\u0027g\u0027irlash, tarmoqqa ulanish, insayder savdosi",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "68. Axborot xavfsizligi turlari:",
+    "correct_answer": "A. Shaxsiy, korporativ, davlat",
+    "incorrect_answers": [
+      "B. Mijoz, server, tarmoq",
+      "C. Mahalliy, global, aralash",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "69. Axborot xavfsizligi siyosatining printsipi quyidagilardan iborat:",
+    "correct_answer": "A. Tarmoq (tizim) himoyasini chetlab o\u0027tishning mumkin emasligi",
+    "incorrect_answers": [
+      "B. Tarmoq, tizimning asosiy bo\u0027g\u0027inini mustahkamlash",
+      "C. Kirishni to\u0027liq blokirovka qilish",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "70. Axborot xavfsizligi siyosatining printsipi quyidagilardan iborat:",
+    "correct_answer": "A. Tarmoq (tizim)dagi eng himoyalanmagan bo‘g‘inning xavfsizligini kuchaytirish.",
+    "incorrect_answers": [
+      "B. Ishning xavfsiz holatiga o\u0027tish",
+      "C. To\u0027liq foydalanuvchi ruxsati",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "71. Axborot xavfsizligi siyosatining printsipi - bu:",
+    "correct_answer": "A. Tarmoq mijozlari (tizimi)ga kirish huquqini (mas\u0027uliyat, imtiyozlarni) bo\u0027lishish.",
+    "incorrect_answers": [
+      "B. Tengdoshli tarmoqni himoya qilish, tizim",
+      "C. Mos, bir xil turdagi dasturiy ta\u0027minot va apparat",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "72. Xavfsizlik siyosati quyidagilarga asoslanadi:",
+    "correct_answer": "A. tashkilot IP haqida umumiy tushuncha;",
+    "incorrect_answers": [
+      "B. tegishli tashkilotlarning siyosatini o\u0027rganish;",
+      "C. xavf tahlili.",
+      "D. barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "73. Risk funksiya hisoblanadi:",
+    "correct_answer": "A. mumkin bo\u0027lgan zarar miqdori;",
+    "incorrect_answers": [
+      "B. axborot tizimidan foydalanuvchilar soni;",
+      "C. tashkilotning ustav kapitali",
+      "D. barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "74. Risklarni boshqarish bosqichlariga quyidagilar kiradi:",
+    "correct_answer": "A. aktivlarni aniqlash;",
+    "incorrect_answers": [
+      "B. majburiyatlarni tugatish;",
+      "C. baholash ob\u0027ektlarini tanlash.",
+      "D. barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "75. Tahdidlarni tahlil qilishning birinchi bosqichi:",
+    "correct_answer": "A. tahdidlarni aniqlash;",
+    "incorrect_answers": [
+      "B. tahdidning autentifikatsiyasi;",
+      "C. tahdidlarni bartaraf etish.",
+      "D. barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "76. Axborot tizimida parollarni saqlashning eng yaxshi usuli qanday?",
+    "correct_answer": "A. Hashing",
+    "incorrect_answers": [
+      "B. Umuman saqlamang",
+      "C. Arxivlash",
+      "D. Faqat xavfsizlik devori yoqilgan holda saqlang"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "77. Viruslar qaysi tizimlarda dinamikroq tarqaladi?",
+    "correct_answer": "A. Android",
+    "incorrect_answers": [
+      "B. L.inux",
+      "C. macOS",
+      "D. Windows"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "78. Kompyuter xavfsizligiga eng katta tahdid:",
+    "correct_answer": "A. Troyanlar",
+    "incorrect_answers": [
+      "B. Spam",
+      "C. Qurtlar",
+      "D. Spyware"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "79. Axborot tizimlari nima uchun yaratilgan?",
+    "correct_answer": "A. muayyan axborot xizmatlarini olish",
+    "incorrect_answers": [
+      "B. axborotni qayta ishlash",
+      "C. barcha javoblar to\u0027g\u0027ri",
+      "D. Barcha javoblar noto\u0027g\u0027ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "80 Butunlikni quyidagilarga bo\u0027lish mumkin:",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri",
+    "incorrect_answers": [
+      "B. statik",
+      "C. dinamik",
+      "D. strukturaviy"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "81. IBM qachon talabalarni yangi kompyuterini sinab ko\u0027rishga taklif qildi?",
+    "correct_answer": "A. 1967 yilda",
+    "incorrect_answers": [
+      "B. 1963 yilda",
+      "C. 1969 yilda",
+      "D. 1965 yilda"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "82. Creeper kompyuter dasturini kim yaratgan?",
+    "correct_answer": "A. Bob Tomas.",
+    "incorrect_answers": [
+      "B. Rey Tomilson.",
+      "C. Stiv Jobs.",
+      "D. Stiv Voznak."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "83. Elektron pochta ixtirochisi kim?",
+    "correct_answer": "A. Rey Tomilson.",
+    "incorrect_answers": [
+      "B. Bob Tomas.",
+      "C. Stiv Voznak.",
+      "D. Stiv Jobs."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "84. ARK operatsion tizimini ishlab chiqishda foydalanilgan raqamli apparat korporatsiyasi kompyuteri qachon va kim tomonidan buzilgan va nusxalangan?",
+    "correct_answer": "A. 1979 yilda Kevin Mitnik.",
+    "incorrect_answers": [
+      "B. 1978 yilda Stiv Jobs.",
+      "C. 1976 yilda Bob Tomas.",
+      "D. 1974 yilda Rey Tomilson."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "85. Troyan otlari va kompyuter viruslari birinchi marta nechanchi yildan boshlab qo\u0027llanila boshlandi?",
+    "correct_answer": "A. 1980 yildan",
+    "incorrect_answers": [
+      "B. 1981 yildan",
+      "C. 1983 yildan",
+      "D. 1985 yildan"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "86. KGBga axborot sotish maqsadida 400 ta harbiy kompyuterlarni, jumladan, Pentagonning asosiy kadrlarini sindirgan odam kim?",
+    "correct_answer": "A. Markus Xess Berkli.",
+    "incorrect_answers": [
+      "B. Rey Tomilson.",
+      "C. Bob Tomas.",
+      "D. Stiv Voznak."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "87. 1987 yil nechanchi yil tug\u0027ilgan?",
+    "correct_answer": "A. antivirus.",
+    "incorrect_answers": [
+      "B. virus.",
+      "C. telefoniya.",
+      "D. kompyuter."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "88. Birinchi …… dasturlar noyob virus kodlari ketma-ketligini aniqlash uchun kontekstli qidiruvni amalga oshiruvchi noyob skanerlardan iborat edi. Nuqtalar o‘rniga to‘g‘ri javobni toping.",
+    "correct_answer": "A. antivirus dasturi.",
+    "incorrect_answers": [
+      "B. viruslar.",
+      "C. seyflar.",
+      "D. telefonlar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "89. Polimorf viruslar nima?",
+    "correct_answer": "A. Aniqlanmaslik uchun dastlabki algoritmni saqlagan holda mutatsiyaga uchragan kod",
+    "incorrect_answers": [
+      "B. Oddiy virus.",
+      "C. Kompyuterlarni butunlay o\u0027chirib qo\u0027yadigan viruslar.",
+      "D. Bunday virus yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "90. EICAR (European Institute for Computer Antivirus Research) qachon tashkil etilgan?",
+    "correct_answer": "A. 1990 yilda",
+    "incorrect_answers": [
+      "B. 1991 yil",
+      "C. 1993 yilda",
+      "D. 1995 yilda"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "91. Birinchi antiviruslar nimaga asoslangan edi?",
+    "correct_answer": "A. imzo bilan.",
+    "incorrect_answers": [
+      "B. kodlar bo\u0027yicha.",
+      "C. asosda.",
+      "D. hech narsaga asoslanmagan."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "92. Birinchi antivirus qachon paydo bo\u0027lgan?",
+    "correct_answer": "A. 1992 yilda",
+    "incorrect_answers": [
+      "B. 1991 yil",
+      "C. 1993 yilda",
+      "D. 1995 yilda"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "93. Umumiydan xususiyga o‘tish bilan bog‘liq masalalar qanday modelda hal qilinadi?",
+    "correct_answer": "A. Buqaning ko\u0027zlari modeli",
+    "incorrect_answers": [
+      "B. Hisob ma’lumotlari modeli",
+      "C. Rol namunasi",
+      "D. Bell-LaPadula modeli"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "94. Buqa ko‘zi modeli nechta sathdan iborat?",
+    "correct_answer": "A. 4",
+    "incorrect_answers": [
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "95. Axborot xavfsizligi siyosati nima?",
+    "correct_answer": "A. Tashkilotning boshqaruv siyosatining rasmiy bayonotini ifodalaydi.",
+    "incorrect_answers": [
+      "B. Uskunaning to\u0027g\u0027ri ishlashini ko\u0027rsatadi.",
+      "C. Xizmat nazoratini ifodalaydi",
+      "D. Dasturiy ta\u0027minotning to\u0027g\u0027ri ishlashini ko\u0027rsatadi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "96. Axborot xavfsizligi siyosatiga rioya qilish uchun nimalar qilish zarurligini batafsilroq tavsiflovchi ushbu vosita nima?",
+    "correct_answer": "A. Standart",
+    "incorrect_answers": [
+      "B. Jarayon",
+      "C. Nafaqa",
+      "D. Boshqarish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "97. NIST 800-14 maxsus nashriga ko‘ra, axborot xavfsizligi siyosatining nechta turi mavjud?",
+    "correct_answer": "A. 3",
+    "incorrect_answers": [
+      "B. 4",
+      "C. 6",
+      "D. 5"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "98. Quyidagilardan qaysi biri AX siyosatining eng yuqori darajasi hisoblanadi?",
+    "correct_answer": "A. Korporativ axborot xavfsizligi dasturi siyosati",
+    "incorrect_answers": [
+      "B. Muayyan muammo uchun xavfsizlik siyosati",
+      "C. Tizimga xos xavfsizlik siyosati",
+      "D. Barcha javoblar to‘g‘ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "99. Quyidagi fikrlardan qaysi biri EISP uchun mos emas?",
+    "correct_answer": "A. EISP to\u0027g\u0027ridan-to\u0027g\u0027ri missiya va qarash bayonotlarini to\u0027g\u0027ridan-to\u0027g\u0027ri tasdiqlamasligi kerak.",
+    "incorrect_answers": [
+      "B. EISP tashkilotdagi barcha xavfsizlik sa\u0027y-harakatlari uchun strategik yo\u0027nalish, ko\u0027lam va ohangni belgilaydi.",
+      "C. EISP axborot xavfsizligining turli sohalari, jumladan, axborot xavfsizligi siyosati, amaliyoti va boshqa foydalanuvchilarning mas\u0027uliyatini ta\u0027minlash uchun mas\u0027uliyatni yuklaydi.",
+      "D. EISP axborot xavfsizligi dasturini ishlab chiqish, amalga oshirish va boshqarish uchun talablarni boshqaradi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "100. Korporativ xavfsizlik falsafasining umumiy ko\u0027rinishi bu ...",
+    "correct_answer": "A. EISP",
+    "incorrect_answers": [
+      "B. NIST 800-14",
+      "C. Buqaning ko\u0027zi",
+      "D. To\u0027g\u0027ri javob yo\u0027q"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "101. Xodimni ham, tashkilotni ham samarasizlik va noaniqlikdan himoya qiluvchi AX siyosatining turini toping.",
+    "correct_answer": "A. Muayyan muammo uchun xavfsizlik siyosati",
+    "incorrect_answers": [
+      "B. Korporativ axborot xavfsizligi dasturi siyosati",
+      "C. Texnik yordamni nazorat qilishni ifodalaydi",
+      "D. Barcha javoblar to‘g‘ri"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "102. Quyidagilardan qaysi biri sizning muayyan muammoingiz uchun xavfsizlik siyosatiga mos kelmaydi?",
+    "correct_answer": "A. Tashkilotning barcha xavfsizlik sa\u0027y-harakatlari uchun strategik yo\u0027nalish, ko\u0027lam va ohangni aniqlash",
+    "incorrect_answers": [
+      "B. Texnologiyaga asoslangan tizimdan foydalanish haqida taxminlar qilish",
+      "C. Hujjatli nazoratni ta\u0027minlovchi jarayonlar va organlarni aniqlash",
+      "D. Xodimning texnologiyadan qanday maqsadlarda foydalanishi va foydalana olmasligi haqida umumiy tushuncha berish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "103. Quyidagilardan qaysi biri biznesning uzluksizligini rejalashtirishga tegishli?",
+    "correct_answer": "A. ISSP",
+    "incorrect_answers": [
+      "B. EISP",
+      "C. NIST 800-14",
+      "D. AXXB"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "104. Quyidagi bayonotlarning qaysi biri “Foydalanuvchilar siyosatda ko‘rsatilganidan boshqa maxsus kirish huquqlariga ega emas” degan gapga tegishli?",
+    "correct_answer": "A. Ruxsat etilgan kirish",
+    "incorrect_answers": [
+      "B. Maqsad bayoni",
+      "C. Ruxsatsiz kirish",
+      "D. Tizimni boshqarish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "105. Axborot resurslarini muhofaza qilish bo\u0027yicha qo\u0027llanma …….",
+    "correct_answer": "A. NIST",
+    "incorrect_answers": [
+      "B. ISSP",
+      "C. EISP",
+      "D. DRM"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "106. Axborot xavfsizligi siyosatining noto‘g‘ri ifodasini toping",
+    "correct_answer": "A. Axborot xavfsizligi siyosati doimiy ravishda yangilanib turishi kerak",
+    "incorrect_answers": [
+      "B. Axborot xavfsizligi siyosati hech qachon qonunga zid kelmasligi kerak",
+      "C. IBX siyosati, agar e\u0027tiroz bildirilsa, sudga tortilishi kerak.",
+      "D. IS siyosatini to\u0027g\u0027ri saqlash va boshqarish kerak"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "107. Bull\u0027s Eyening qaysi darajasida tizimlar server kompyuterlari, ish stoli kompyuterlari, jarayon va ishlab chiqarishni boshqarish tizimlari sifatida ishlatiladi?",
+    "correct_answer": "A. Tizimlar",
+    "incorrect_answers": [
+      "B. Siyosat",
+      "C. Tarmoqlar",
+      "D. Ilovalar"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "108. “Tashkilotning tarmoq infratuzilmasi va umumiy tarmoqlardagi tahdidlar uchrashadigan joy” bayonoti “Buqa ko‘zi” modelining qaysi darajasiga tegishli?",
+    "correct_answer": "A. Tarmoqlar",
+    "incorrect_answers": [
+      "B. Siyosat",
+      "C. Tizimlar",
+      "D. Ilovalar"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "109. Buqa ko\u0027zi diagrammasidagi tashqi qatlam Buqa ko\u0027zining qaysi darajasiga tegishli?",
+    "correct_answer": "A. Siyosat",
+    "incorrect_answers": [
+      "B. Tarmoqlar",
+      "C. Tizimlar",
+      "D. Ilovalar"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "110. Amaliy tizimlar Bull\u0027s Eye modelining qaysi darajasiga to\u0027g\u0027ri keladi, ya\u0027ni ofis avtomatizatsiyasi va elektron pochta ilovalari kabi paketlangan ilovalardan yuqori samarali ERP paketlar va tashkilot tomonidan ishlab chiqilgan maxsus ilovalargacha?",
+    "correct_answer": "A. Ilovalar",
+    "incorrect_answers": [
+      "B. Siyosat",
+      "C. Tarmoqlar",
+      "D. Tizimlar"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "111. Quyidagi mulohazalardan qaysi biri axborot xavfsizligi siyosatiga mos kelmaydi?",
+    "correct_answer": "A. Axborot xavfsizligi siyosati apparat yoki dasturiy ta\u0027minotning to\u0027g\u0027ri ishlashini aniqlashi kerak.",
+    "incorrect_answers": [
+      "B. Axborot xavfsizligi siyosati - bu tashkilotda maqbul va nomaqbul xatti-harakatlarni belgilovchi qoidalar to\u0027plami.",
+      "C. Axborot xavfsizligi siyosati tashkilotning boshqaruv siyosatining rasmiy bayonotidir.",
+      "D. IS siyosati noto\u0027g\u0027ri xatti-harakatlar uchun jazo belgilashi va apellyatsiya tartibini ta\u0027minlashi kerak."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "112. IS standarti …….",
+    "correct_answer": "A. Axborot xavfsizligi siyosatiga rioya qilish uchun nima qilish kerakligi haqida batafsil ko\u0027rsatmalar",
+    "incorrect_answers": [
+      "B. Axborot tizimlarini texnik ta\u0027minlash",
+      "C. Axborot tizimlarining dasturiy ta\u0027minoti",
+      "D. Qurilmaning nosozliklarini bartaraf etish bo\u0027yicha ko\u0027rsatmalar"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "113. Quyidagilardan qaysi biri Korxona axborot xavfsizligi siyosatiga (EISP) taalluqli emas?",
+    "correct_answer": "A. EISP IS siyosatiga rioya qilish uchun nima qilish kerakligi haqida batafsilroq bayonot.",
+    "incorrect_answers": [
+      "B. EISP tashkilotdagi barcha xavfsizlik sa\u0027y-harakatlari uchun strategik yo\u0027nalish, ko\u0027lam va ohangni belgilaydi.",
+      "C. EISP axborot xavfsizligining turli sohalari, jumladan, axborot xavfsizligi siyosati, amaliyoti va boshqa foydalanuvchilarning mas\u0027uliyatini ta\u0027minlash uchun mas\u0027uliyatni yuklaydi.",
+      "D. EISP axborot xavfsizligi dasturini ishlab chiqish, amalga oshirish va boshqarish uchun talablarni boshqaradi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "114. Quyidagilardan qaysi biri ISSPga taalluqli emas?",
+    "correct_answer": "A. Tashkilotning barcha a\u0027zolari birgalikda xavfsizlik uchun javobgarlikni to\u0027liq ifoda etdi",
+    "incorrect_answers": [
+      "B. ISSP xodimi texnologiyadan qanday maqsadlarda foydalanishi yoki foydalanmasligi haqida umumiy ma\u0027lumot berish.",
+      "C. ISSP yuridik harakatlar uchun asos sifatida foydalanilmasligi kerak",
+      "D. ISSP ham xodimni, ham tashkilotni samarasizlik va noaniqlikdan himoya qiladi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "115. Samarali ISSP bu ……",
+    "correct_answer": "A. Texnologiyaga asoslangan tizimdan foydalanish haqida taxminlar qilish",
+    "incorrect_answers": [
+      "B. Axborot texnologiyalari xavfsizligi elementlari",
+      "C. Axborot texnologiyalari xavfsizligiga bo\u0027lgan ehtiyoj",
+      "D. Axborot texnologiyalari xavfsizligidagi mas\u0027uliyat va rol"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "116. Quyidagi komponentlardan qaysi biri ISSP komponenti emas?",
+    "correct_answer": "A. Korporativ xavfsizlik falsafasiga umumiy nuqtai",
+    "incorrect_answers": [
+      "B. Maqsad bayoni",
+      "C. Ruxsat etilgan foydalanish",
+      "D. Tizimni boshqarish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "117. Quyidagi javoblarning qaysi biri “Maqsad nima va unga erishish uchun kim mas’ul?” gapiga tegishli.",
+    "correct_answer": "A. Maqsad bayoni",
+    "incorrect_answers": [
+      "B. Siyosatning buzilishi",
+      "C. Mas\u0027uliyat chegaralari",
+      "D. Ruxsat berilgan kirish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "118. Quyidagi javoblarning qaysi biriga “jinoiy, shaxsiy, buzg‘unchi va haqoratli foydalanishni taqiqlash” iborasi tegishli?",
+    "correct_answer": "A. Taqiqlangan foydalanish",
+    "incorrect_answers": [
+      "B. Maqsad bayoni",
+      "C. Ruxsat etilgan kirish",
+      "D. Tizimni boshqarish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "119. Foydalanuvchilar va ma\u0027murlarning mas\u0027uliyatini aniqlash uchun qaysi komponent javobgar?",
+    "correct_answer": "A. Tizim boshqaruvi",
+    "incorrect_answers": [
+      "B. Siyosatning buzilishi",
+      "C. Ruxsat etilgan kirish",
+      "D. Taqiqlangan foydalanish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "120. Har bir qoidabuzarlik uchun jazo belgilash qaysi tarkibiy qism tomonidan amalga oshiriladi?",
+    "correct_answer": "A. Siyosatni buzish",
+    "incorrect_answers": [
+      "B. Tizimni boshqarish",
+      "C. Maqsad bayoni",
+      "D. Mas\u0027uliyat chegaralari"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "121. Axborot xavfsizligi siyosatini ishlab chiqish necha bosqichdan iborat?",
+    "correct_answer": "A. 5",
+    "incorrect_answers": [
+      "B. 7",
+      "C. 3",
+      "D. 6"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "122. Axborot xavfsizligi siyosatini ishlab chiqish loyihasi doirasining batafsil tavsifi qaysi bosqichga tegishli?",
+    "correct_answer": "A. Tekshirish bosqichi",
+    "incorrect_answers": [
+      "B. Tahlil bosqichi",
+      "C. Dizayn bosqichi",
+      "D. Amalga oshirish bosqichi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "123. Tashkilotning axborot xavfsizligi hujjatlashtirish, yangi yoki yaqinda yuzaga kelgan xavflarni baholash yoki IT auditi qaysi bosqichga tegishli?",
+    "correct_answer": "A. Tahlil bosqichi",
+    "incorrect_answers": [
+      "B. Tekshirish bosqichi",
+      "C. Dizayn bosqichi",
+      "D. Amalga oshirish bosqichi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "124. Qaysi komponent siyosatni ishlab chiqish uchun mas\u0027ul, siyosatni monitoring qilish, qo\u0027llab-quvvatlash va o\u0027zgartirish uchun javob beradi?",
+    "correct_answer": "A. Xizmat ko\u0027rsatish bosqichi",
+    "incorrect_answers": [
+      "B. Amalga oshirish bosqichi",
+      "C. Dizayn bosqichi",
+      "D. Tekshirish bosqichi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "125. VigilEnt siyosat markazi - ...",
+    "correct_answer": "A. Siyosatni tasdiqlash va amalga oshirishning markazlashgan markazi",
+    "incorrect_answers": [
+      "B. Ehtiyotkorlik siyosatini boshqarishning yuqori standartlari - ishdan bo\u0027shatilgan xodimlarning da\u0027volaridan himoya qilish",
+      "C. Siyosatni monitoring qilish, qo\u0027llab-quvvatlash va o\u0027zgartirish uchun mas\u0027ul siyosat ishlab chiqish guruhi",
+      "D. Tashkilotning axborot xavfsizligiga bo\u0027lgan ehtiyojlarini hujjatlashtiradigan yangi yoki yaqinda xavflarni baholash yoki IT auditi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "126. Axborot xavfsizligi siyosatini ishlab chiqishda birinchi qadam nimadan iborat?",
+    "correct_answer": "A. Tekshirish bosqichi",
+    "incorrect_answers": [
+      "B. Tahlil bosqichi",
+      "C. Dizayn bosqichi",
+      "D. Texnik xizmat ko\u0027rsatish bosqichi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "127. Axborot xavfsizligi siyosatini tahlil qilish bosqichi quyidagilardan qaysi biriga olib keladi?",
+    "correct_answer": "A. Tashkilotning axborot xavfsizligiga bo\u0027lgan ehtiyojlarini hujjatlashtirgan yangi yoki yaqinda xavflarni baholash yoki IT auditi.",
+    "incorrect_answers": [
+      "B. Siyosatni ishlab chiqish loyihasi doirasining batafsil tavsifi",
+      "C. Ta\u0027sir etuvchi manfaatdor tomonlarning ishtiroki",
+      "D. Texnologiyani qo\u0027llashni yuqori darajadagi siyosatni qo\u0027llashga yo\u0027naltirilganligi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "128. Axborot xavfsizligini ta’minlash dasturining muvaffaqiyatini nima belgilaydi?",
+    "correct_answer": "A. Axborot xavfsizligi siyosati",
+    "incorrect_answers": [
+      "B. O\u0027z vaqtida tekshirish",
+      "C. To\u0027g\u0027ri o\u0027rnatilgan dasturiy ta\u0027minot",
+      "D. Xodimlarning bilim darajasi "
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "129. ISSP ni yaratish/boshqarishning nechta umumiy yondashuvlari mavjud?",
+    "correct_answer": "A. 3",
+    "incorrect_answers": [
+      "B. 4",
+      "C. 2",
+      "D. 5"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "130. ISSP ni yaratish/boshqarishga umumiy yondashuvga mos kelmaydigan javobni toping.",
+    "correct_answer": "A. ISSP ilovasini yuqori darajadagi siyosatni qo\u0027llashga yo\u0027naltirish",
+    "incorrect_answers": [
+      "B. Muayyan masalalarga moslashtirilgan alohida mustaqil ISSP hujjatlarini yaratish",
+      "C. Barcha masalalarni qamrab oluvchi yagona ISSP hujjatini yaratish",
+      "D. Tanlangan masalalar bo\u0027yicha aniq tafsilotlarni ko\u0027rib chiqishda umumiy siyosatni yaratish / boshqarishni birlashtiradigan modulli ISSP hujjatini yaratish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "131. Texnik xizmat ko\u0027rsatish bosqichi - ...",
+    "correct_answer": "A. Siyosatni monitoring qilish, qo\u0027llab-quvvatlash va o\u0027zgartirish uchun mas\u0027ul siyosat ishlab chiqish",
+    "incorrect_answers": [
+      "B. Asosiy adabiyotlar to\u0027plami",
+      "C. Tashkilotning axborot xavfsizligiga bo\u0027lgan ehtiyojlarini hujjatlashtirish",
+      "D. Yuqoridagi barcha javoblar to‘g‘ri."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "132. Mavjud AT siyosati va asosiy ma’lumotnoma materiallari majmuasi AT siyosatining qaysi bosqichiga tegishli?",
+    "correct_answer": "A. Tahlil bosqichi",
+    "incorrect_answers": [
+      "B. Tekshirish bosqichi",
+      "C. Dizayn bosqichi",
+      "D. Amalga oshirish bosqichi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "133. Tizim xavfsizligi siyosati bo\u0027yicha qanday ko\u0027rsatmalar va tartiblar muayyan tizimlar, texnologiyalar va ilovalarni konfiguratsiya qilishni nazarda tutmaydi?",
+    "correct_answer": "A. To\u0027g\u0027ri javob yo\u0027q",
+    "incorrect_answers": [
+      "B. Bosqinlarni aniqlash tizimlari (IDS)",
+      "C. Xavfsizlik devori konfiguratsiyasi",
+      "D. Ish stantsiyasining konfiguratsiyasi"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "134. Quyidagilardan qaysi biri ISSPga taalluqli emas?",
+    "correct_answer": "A. Xavfsizlik devori konfiguratsiyasi",
+    "incorrect_answers": [
+      "B. Xavfsizlik nazorati / sinovini buzishni taqiqlash",
+      "C. Uyda korporativ tizimlardan foydalanish",
+      "D. Korporativ tarmoqlarda shaxsiy jihozlardan foydalanish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "135. Quyidagilardan qaysi biri tashkilotning xavfsizlikni ta’minlash bo‘yicha umumiy sa’y-harakatlarining strategik yo‘nalishi, ko‘lami va ohangini aniqlash uchun javobgardir?",
+    "correct_answer": "A. EISP",
+    "incorrect_answers": [
+      "B. NIST",
+      "C. ISSP",
+      "D. VigilEnt"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "136. Tahdidlarni aniqlash uchun kirish manbasini ko\u0027rsating.",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri",
+    "incorrect_answers": [
+      "B. Tizim administratorlari",
+      "C. Auditorlar",
+      "D. Xavfsizlik xodimlari"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "137. Xakerlik - bu …….",
+    "correct_answer": "A. Tahdid",
+    "incorrect_answers": [
+      "B. Hujum",
+      "C. Zaiflik",
+      "D. Xavf"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "138. Hujum - …….",
+    "correct_answer": "A. Zaifliklar orqali zarar yetkazishga qaratilgan harakat",
+    "incorrect_answers": [
+      "B. Potentsial xavf manbai",
+      "C. Nomaqbul voqea sodir bo\u0027lish ehtimoli",
+      "D. Axborot yoki axborot tizimi uchun har qanday ehtimoliy tahdid"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "139. Risk tahlilining nechta turi mavjud?",
+    "correct_answer": "A. 2",
+    "incorrect_answers": [
+      "B. 3",
+      "C. 5",
+      "D. 4"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "140. Xatarlarni tahlil qilish …….",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri",
+    "incorrect_answers": [
+      "B. Biznes jarayonlari va axborot tizimlariga tahdidlarni aniqlash.",
+      "C. Xatarlarni yumshatish bo\u0027yicha maxsus chora-tadbirlarni amalga oshirishni ko\u0027rib chiqish",
+      "D. Yaxshiroq nazoratni talab qilishi mumkin bo\u0027lgan aniq vaziyatlarni tahlil qilish  "
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "141. Eng yaxshi foydalanish siyosati to\u0027g\u0027ri amalga oshirilishini ta\u0027minlash uchun nima qilish kerak?",
+    "correct_answer": "A. Administrator muntazam ravishda xavfsizlik tekshiruvlarini o\u0027tkazishi kerak.",
+    "incorrect_answers": [
+      "B. Jazolar qo\u0027llanilishi kerak.",
+      "C. hujumlar yoki harakatlarni blokirovka qilish.",
+      "D. Hech qanday cheklovlar bo\u0027lmasligi kerak."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "142. Ushbu siyosatlarning qaysi biri tashkilotdagi xavfsizlikning muayyan muammosini hal qiladi?",
+    "correct_answer": "A. Muammoli xavfsizlik siyosati.",
+    "incorrect_answers": [
+      "B. Tashkilotning axborot xavfsizligi siyosati.",
+      "C. Tizim xavfsizligi siyosati.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "143. Xavfsizlik siyosatini muvaffaqiyatli amalga oshirish bo\u0027yicha tavsiyalardan noto\u0027g\u0027ri javobni toping?",
+    "correct_answer": "A. Ruxsat berilgan har qanday narsani inkor eting.",
+    "incorrect_answers": [
+      "B. Har bir siyosatni ko\u0027rib chiqing va tashkilotda qanday amalga oshirilishi haqida o\u0027ylang.",
+      "C. Tegishli siyosat vositalari mavjudligini ta\u0027minlash.",
+      "D. Tarmoq yoki siyosatni ixtiyoriy ravishda o\u0027zgartirish kerakmi yoki yo\u0027qmi, reja tuzing."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "144. Xavfsizlik siyosatini ishlab chiqish necha bosqichdan o\u0027tadi?",
+    "correct_answer": "A. 8",
+    "incorrect_answers": [
+      "B. 7",
+      "P. 9",
+      "D. 12"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "145. Qanday bayonotlar tashkilotning xavfsizlik siyosatini muvaffaqiyatli qiladi?",
+    "correct_answer": "A. Aniq va ixcham gaplardan.",
+    "incorrect_answers": [
+      "B. Uzoq va qisqa gaplardan.",
+      "C. To‘liq va uzun gaplardan.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "146. Quyidagilardan qaysi biri xavfsizlik siyosatini ishlab chiqish va amalga oshirish bosqichlariga misol emas?",
+    "correct_answer": "A. Tashkilotning asosiy maqsadlarini taqdim etish.",
+    "incorrect_answers": [
+      "B. Standart umumiy qoidalar.",
+      "C. Penaltilar.",
+      "D. Xavfni baholash."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "147. Siyosat bayonoti nima?",
+    "correct_answer": "A. Tashkiliy siyosatning asosiy tuzilmasini belgilovchi tuzilma.",
+    "incorrect_answers": [
+      "B. Tashkilotning ish jarayoni haqida ma\u0027lumot.",
+      "C. Xodimlar faoliyatini belgilovchi bayonot.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "148. Siyosat nechta muhim bo\u0027limdan iborat?",
+    "correct_answer": "A. 10",
+    "incorrect_answers": [
+      "B. 7",
+      "P. 8",
+      "D. 12"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "149. Harakat zonasi nima?",
+    "correct_answer": "A. Kim va nimani qamrab olishi haqida ma\u0027lumotni o\u0027z ichiga oladi.",
+    "incorrect_answers": [
+      "B. Xodimlar va boshqaruv uchun belgilangan.",
+      "C. Foydalanuvchilar va mijozlar tomonidan ishlab chiqilgan siyosat.",
+      "D. xavfsizlik siyosatining har bir jihati haqidagi bayonotdir."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "150. Aloqa ma’lumotlari nima?",
+    "correct_answer": "A. Siyosiy sanktsiyalar va/yoki huquqbuzarliklar yuzaga kelganda kimga murojaat qilish kerakligi haqida ma\u0027lumot.",
+    "incorrect_answers": [
+      "B. Mijozlar va foydalanuvchilar amal qilishi kerak bo\u0027lgan avtorizatsiya/rad etish jarayonini belgilaydi.",
+      "C. Kimni va nimani qamrab olishi haqida ma\u0027lumot beradi.",
+      "D. Xavfsizlik siyosatining har bir jihati bo\u0027yicha bayonot."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "151. Quyidagilardan qaysi biri xavfsizlik talablari turiga tegishli emas?",
+    "correct_answer": "A. To\u0027g\u0027ri javob yo\u0027q.",
+    "incorrect_answers": [
+      "B. Intizomiy xavfsizlik talablari.",
+      "C. Xavfsizlik talablari.",
+      "D. Protsessual xavfsizlik talablari."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "152. Quyidagilardan qaysi biri xavfsizlik talablari emas?",
+    "correct_answer": "A. Umumiy qoidalar.",
+    "incorrect_answers": [
+      "B. Siyosat.",
+      "C. Standartlar.",
+      "D. Jarayonlar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "153. ......... bular siyosat ishlab chiqilayotgan foydalanuvchilar va mijozlardir. Nuqtalar o‘rniga to‘g‘ri javobni toping?",
+    "correct_answer": "A. Maqsadli auditoriya.",
+    "incorrect_answers": [
+      "B. Siyosat.",
+      "C. Aloqa ma\u0027lumotlari.",
+      "D. Siyosat."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "154. Xavfsizlik talablarining to\u0027g\u0027ri turlari qaysi to\u0027g\u0027ri javob?",
+    "correct_answer": "A. Intizomiy xavfsizlik talablari, xavfsizlik talablari.",
+    "incorrect_answers": [
+      "B. Protsessual xavfsizlik talablari, qoidalar va xavfsizlik javobgarligi talablari.",
+      "C. Kafolat xavfsizligi talablari, xavfsizlik qoidalari va javobgarlik talablari.",
+      "D. Barcha javoblar to‘g‘ri."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "155. Xavfsizlik siyosati ierarxiyasini to‘g‘ri ko‘rsatuvchi javobni toping?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Qonunlar, nizomlar.",
+      "C. Siyosat, standartlar, ko\u0027rsatmalar.",
+      "D. Jarayonlar, umumiy qoidalar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "156. ......... - tashkiliy siyosatning chuqur tuzilishini belgilovchi tuzilma. Nuqtalar o‘rniga to‘g‘ri javobni toping?",
+    "correct_answer": "A. Siyosat bayonoti.",
+    "incorrect_answers": [
+      "B. Siyosatning tipik mazmuni.",
+      "C. Siyosatning tavsifi.",
+      "D. Standartlar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "157. Xavfsizlik siyosatini yaratish va amalga oshirish necha bosqichdan iborat?",
+    "correct_answer": "A. 9",
+    "incorrect_answers": [
+      "B. 8",
+      "P. 7",
+      "D. 6"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "158. Xavfsizlik siyosatini ishlab chiqish va amalga oshirish bosqichlariga to\u0027g\u0027ri javob nima?",
+    "correct_answer": "A. Barcha javoblar to‘g‘ri.",
+    "incorrect_answers": [
+      "B. Xavfni baholash, standart umumiy qoidalar, nazoratni joriy etish, jarimalar, yakuniy loyiha.",
+      "C. Xodimlar tomonidan qabul qilish, standart umumiy qoidalarni, siyosatlarni joriy etish, nazoratni joriy etish.",
+      "D. Xodimlarni tayyorlash, tekshirish va yangilash, jarimalar, yakunlash."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "159. Eng yaxshi foydalanish siyosati ................?",
+    "correct_answer": "A. resurslardan toʻgʻri foydalanishni belgilaydi.",
+    "incorrect_answers": [
+      "B. resurslardan foydalanishga hech qanday cheklovlar qoʻymaydi.",
+      "C. faqat ayrim xavfli xizmatlar/hujumlar yoki harakatlar bloklanadi.",
+      "D. hamma narsa taqiqlangan."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "160. Internetdan foydalanish siyosatining nechta turi mavjud?",
+    "correct_answer": "A. 4",
+    "incorrect_answers": [
+      "B. 5",
+      "C. 3",
+      "D. 6"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "161. Qaysi siyosat tizim resurslaridan foydalanishga hech qanday cheklovlar qo\u0027ymaydi?",
+    "correct_answer": "A. Noqonuniy siyosat.",
+    "incorrect_answers": [
+      "B. Ruxsat beruvchi siyosat.",
+      "C. Paranoid siyosat",
+      "D. Tegishli tekshirish siyosati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "162. Qaysi siyosat faqat ayrim xavfli xizmatlar/hujumlar yoki harakatlarni bloklaydi?",
+    "correct_answer": "A. Ruxsatga asoslangan siyosat.",
+    "incorrect_answers": [
+      "B. Noqonuniy siyosat.",
+      "C. Paranoid siyosat",
+      "D. Tegishli tekshirish siyosati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "163. Qaysi siyosatda hamma narsa taqiqlangan?",
+    "correct_answer": "A. Paranoid siyosat.",
+    "incorrect_answers": [
+      "B. Noqonuniy siyosat.",
+      "C. Ruxsatga asoslangan siyosat.",
+      "D. Tegishli tekshirish siyosati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "164. Barcha xizmatlar bloklangandan keyin qanday turdagi siyosat ishga tushiriladi?",
+    "correct_answer": "A. Tegishli tekshirish siyosati.",
+    "incorrect_answers": [
+      "B. Noqonuniy siyosat.",
+      "C. Ruxsatga asoslangan siyosat.",
+      "D. Paranoid siyosat."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "165. \"........ Risk tahdidlar va zaifliklarni aniqlash va nazorat qilish orqali xavfni kamaytiradi.\" Nuqtalar o‘rniga to‘g‘ri javobni toping",
+    "correct_answer": "A. Boshqaruv",
+    "incorrect_answers": [
+      "B. Tahlil",
+      "C. Baholash",
+      "D. Sinov"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "166. \"........... riski tashkilotning resurslari va siyosatining to\u0027g\u0027ri yo\u0027naltirilganligini ta\u0027minlash uchun muhimdir\". Nuqtalar o‘rniga to‘g‘ri javobni toping",
+    "correct_answer": "A. Tahlil",
+    "incorrect_answers": [
+      "B. Baholash",
+      "C. Boshqaruv",
+      "D. Sinov"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "167. Kiberxavfsizlik nima?",
+    "correct_answer": "A. Tarmoqli tizimlarga va ulardagi ma\u0027lumotlarga kirishni boshqarish qobiliyati.",
+    "incorrect_answers": [
+      "B. Bulutli tizimlarga kirish va tadqiq qilish",
+      "C. Qalbaki mahsulotlarni aniqlash",
+      "D. Tizimlardagi xatolarni tekshirish"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "168. Maxfiylik - bu ...",
+    "correct_answer": "A. Tizimning ruxsat etilgan foydalanish uchun ma\u0027lumotlarning tarqalishini cheklash qobiliyati.",
+    "incorrect_answers": [
+      "B. Yozib olingan va xabar qilingan ma\u0027lumotlarning haqiqiyligi, aniqligi va ishonchliligini saqlash qobiliyati.",
+      "C. Funktsionallikni o\u0027z vaqtida ta\u0027minlash.",
+      "D. Tarmoqli tizimlarga va ulardagi ma\u0027lumotlarga kirishni boshqarish qobiliyati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "169. Yaxlitlik - bu ...",
+    "correct_answer": "A. Yozib olingan va xabar qilingan ma\u0027lumotlarning haqiqiyligi, aniqligi va ishonchliligini saqlash qobiliyati.",
+    "incorrect_answers": [
+      "B. Funktsionallikni o\u0027z vaqtida ta\u0027minlash.",
+      "C. Tizimning ruxsat etilgan foydalanish uchun ma\u0027lumotlarning tarqalishini cheklash qobiliyati.",
+      "D. Tarmoqli tizimlarga va ulardagi ma\u0027lumotlarga kirishni boshqarish qobiliyati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "170. Foydalanish imkoniyati - bu ...",
+    "correct_answer": "A. Funktsionallikni o\u0027z vaqtida ta\u0027minlash.",
+    "incorrect_answers": [
+      "B. Yozib olingan va xabar qilingan ma\u0027lumotlarning haqiqiyligi, aniqligi va ishonchliligini saqlash qobiliyati.",
+      "C. Tizimning ruxsat etilgan foydalanish uchun ma\u0027lumotlarning tarqalishini cheklash qobiliyati.",
+      "D. Tarmoqli tizimlarga va ulardagi ma\u0027lumotlarga kirishni boshqarish qobiliyati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "171. Xavfsizlikni rejalashtirishning asosiy maqsadi nima?",
+    "correct_answer": "A. Muvaffaqiyatli dushman hujumining oldini olish.",
+    "incorrect_answers": [
+      "B. Xodimlar nizosining oldini olish.",
+      "C. Tashkilotga hujumni aniqlash.",
+      "D. Uning maqsadi yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "172. Internet tarmog\u0027ida ishlaydigan axborot tizimlari tomonidan qayta ishlanadigan, saqlanadigan va uzatiladigan ma\u0027lumotlarga tahdidlarni bartaraf etish bilan nima himoyalangan?",
+    "correct_answer": "A. Axborot aktivlari.",
+    "incorrect_answers": [
+      "B. B. Ma\u0027lumot.",
+      "C. Aktivlar.",
+      "D. Maxfiylik."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "173. Axborot xavfsizligida nimalar himoyalanadi?",
+    "correct_answer": "A. Qog\u0027oz hujjatlar, raqamli va intellektual mulk, og\u0027zaki yoki vizual aloqa.",
+    "incorrect_answers": [
+      "B. Tarmoq uskunalari.",
+      "C. Dasturiy ta\u0027minot.",
+      "D. Qog\u0027oz hujjatlar va tarmoq uskunalari."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "174. Kiberxavfsizlik aktivlarini himoya qilishga nimalar kiradi?",
+    "correct_answer": "A. Tarmoq uskunalari, dasturiy ta\u0027minot, izolyatsiyalangan yoki tarmoqqa ulangan tizimlarda qayta ishlanadigan va saqlanadigan ma\u0027lumotlar.",
+    "incorrect_answers": [
+      "B. B. Raqamli va intellektual mulk.",
+      "C. Og\u0027zaki va vizual aloqa.",
+      "D. Dasturiy ta\u0027minot."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "175. Xavfsizlik siyosati nima?",
+    "correct_answer": "A. Kompaniyaning muhim jismoniy va axborot aktivlarini himoya qilish mexanizmi bo\u0027yicha qaror qabul qiluvchi mas\u0027ul shaxslarning bayonoti.",
+    "incorrect_answers": [
+      "B. Tarmoqli tizimlarga va ulardagi ma\u0027lumotlarga kirishni boshqarish qobiliyati.",
+      "C. Funktsionallikni o\u0027z vaqtida ta\u0027minlash.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "176. Xavfsizlik siyosati qanday formatda bo\u0027lishi kerak?",
+    "correct_answer": "A. Yozilgan",
+    "incorrect_answers": [
+      "B. Og\u0027zaki.",
+      "C. Yozma va og‘zaki.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "177. Firewall dasturini kim ishlab chiqqan?",
+    "correct_answer": "A. NASA tadqiqotchilaridan biri.",
+    "incorrect_answers": [
+      "B. Oksford universiteti talabalari.",
+      "C. New York Times gazetasi muxbiri.",
+      "D. Massachusets texnologiya instituti talabasi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "178. 1999 yilda qanday virus tarqaldi?",
+    "correct_answer": "A. Melissa.",
+    "incorrect_answers": [
+      "B. Juma.",
+      "C. Troyan otlari.",
+      "D. Gijjalar viruslari."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "179. Melissa virusi qanday tarqaldi?",
+    "correct_answer": "A. Word hujjati orqali foydalanuvchi kompyuteriga kirish imkoniga ega bo\u0027ldi.",
+    "incorrect_answers": [
+      "B. exe formati orqali foydalanuvchi kompyuteriga kirish imkoniyatiga ega bo\u0027ldi.",
+      "C. Tashqi qurilma orqali foydalanuvchi kompyuteriga kirish imkoniyatiga ega bo\u0027ldi.",
+      "D. Foydalanuvchining kompyuteriga zarar yetkazmagan."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "180. Birinchi ochiq kodli antivirus dvigateli OpenAntivirus loyihasi qachon paydo bo\u0027lgan?",
+    "correct_answer": "A. 2000 yilda",
+    "incorrect_answers": [
+      "B. 2002 yilda",
+      "C. 2001 yilda",
+      "D. 2003 yilda"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "181. AQSh NSA maxfiy ma\u0027lumotlarini kim ko\u0027chirgan va tarqatgan?",
+    "correct_answer": "A. Edvard Snouden.",
+    "incorrect_answers": [
+      "B. Markus Xess Berkli.",
+      "C. Rey Tomilson.",
+      "D. Bob Tomas."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "182. 2017-yilda bir kunda nechta kompyuter WannaCry ransomware bilan zararlangan?",
+    "correct_answer": "A. 230 ming.",
+    "incorrect_answers": [
+      "B. 233 ming.",
+      "C. 235 ming.",
+      "D. 240 mingdan ortiq"
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "183. Tahdid nima?",
+    "correct_answer": "A. Jinoyatchi tomonidan sodir etilishi mumkin bo‘lgan yoki sodir bo‘lmasligi mumkin bo‘lgan harakat.",
+    "incorrect_answers": [
+      "B. Hujumni o\u0027z ichiga olgan texnik tafsilotlarni ko\u0027rsatadi.",
+      "C. Tizimning muvaffaqiyatli ishlashiga imkon beruvchi o\u0027ziga xos xususiyat.",
+      "D. Jinoyat qonunida nazarda tutilgan ijtimoiy xavfli qilmish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "184. Ekspluatatsiya nima?",
+    "correct_answer": "A. Hujumni o\u0027z ichiga olgan texnik tafsilotlarni ko\u0027rsatadi.",
+    "incorrect_answers": [
+      "B. Jinoyatchi tomonidan sodir etilishi mumkin bo\u0027lgan yoki sodir bo\u0027lmasligi mumkin bo\u0027lgan harakat.",
+      "C. Tizimning muvaffaqiyatli ishlashiga imkon beruvchi o\u0027ziga xos xususiyat.",
+      "D. Jinoyat qonunida nazarda tutilgan ijtimoiy xavfli qilmish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "185. Zaiflik nima?",
+    "correct_answer": "A. Muvaffaqiyatli ishlash imkonini beruvchi tizimning o\u0027ziga xos xususiyati",
+    "incorrect_answers": [
+      "B. Jinoyat qonunida nazarda tutilgan ijtimoiy xavfli qilmish.",
+      "C. Hujumni o\u0027z ichiga olgan texnik tafsilotlarni ko\u0027rsatadi.",
+      "D. Jinoyatchi tomonidan sodir etilishi mumkin bo\u0027lgan yoki sodir bo\u0027lmasligi mumkin bo\u0027lgan harakat."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "186. ....... tashkilotning axborot aktivlarini identifikatsiyalash hamda siyosat, standartlar, tartib va yoʻriqnomalarni ishlab chiqish, hujjatlashtirish va amalga oshirishni oʻz ichiga oladi. Nuqta o‘rniga moslik topilsinmi?",
+    "correct_answer": "A. xavfsizlikni boshqarish",
+    "incorrect_answers": [
+      "B. axborotni boshqarish.",
+      "C. Kiberxavfsizlik siyosati.",
+      "D. normativ hujjatlar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "187. …… — axborot xavfsizligi sertifikati xalqaro konsorsiumi tomonidan ishlab chiqilgan axborot xavfsizligi sertifikati. Nuqtalar o‘rniga tegishli javobni toping.",
+    "correct_answer": "A. Axborot tizimlari xavfsizligi bo\u0027yicha sertifikatlangan mutaxassis.",
+    "incorrect_answers": [
+      "B. Axborot tizimlarining sertifikatlangan auditori.",
+      "C. Axborot xavfsizligi bo\u0027yicha sertifikatlangan menejer.",
+      "D. GIAC Security Essentials sertifikati."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "188. Xavfsizlikni boshqarish bo\u0027limlarini toping.",
+    "correct_answer": "A. Printsiplar va talablar, siyosat, tashkiliy rol va mas’uliyat, axborot tasnifi, boshqaruv va risklarni tahlil qilish.",
+    "incorrect_answers": [
+      "B. Axborotning siyosati, tasnifi.",
+      "C. Risklarni boshqarish va tahlil qilish, siyosat.",
+      "D. Tashkiliy rol va mas’uliyat, siyosat, tamoyil va talablar."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "189 ... ... ... boshqaruv organi tomonidan qabul qilinadi va rasmiy ravishda faqat tegishli boshqaruv sohasiga taalluqlidir. Nuqta o\u0027rniga javob toping.?",
+    "correct_answer": "A. Kiberxavfsizlik siyosati.",
+    "incorrect_answers": [
+      "B. Axborot xavfsizligi.",
+      "C. Axborot.",
+      "D. Xavf."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "190. Davlatning kiberxavfsizlik siyosatiga nimalar kiradi?",
+    "correct_answer": "A. Davlat o\u0027z fuqarolarini va, ehtimol, uning faoliyat sohasida faoliyat yurituvchi xorijiy korxonalarni qamrab oladi.",
+    "incorrect_answers": [
+      "B. Korporatsiya bilan mehnat yoki boshqa qonuniy kelishuvga ega bo‘lgan xodimlargagina qo‘llaniladi.",
+      "C. Hukumatning kiberxavfsizlik siyosati yo\u0027q.",
+      "D. Ayrim hujjatlarga muvofiqligi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "191. Korporativ kiberxavfsizlik siyosati nima?",
+    "correct_answer": "A. Faqat korporativ yoki boshqa korporativ huquqiy shartnomalarga ega bo‘lgan xodimlarga nisbatan qo‘llaniladigan siyosat.",
+    "incorrect_answers": [
+      "B. Davlat o\u0027z fuqarolarini va, ehtimol, o\u0027z faoliyat sohasida faoliyat yurituvchi xorijiy korxonalarni qamrab oladi.",
+      "C. Ba\u0027zi hujjatlarga muvofiqligi.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "192. Xavfsizlik siyosatini ishlab chiqish ...... hisoblanadi?",
+    "correct_answer": "A. Tashkilot qoidalariga bo\u0027ysunadigan barcha tashkilotlarning birgalikda yoki jamoaviy faoliyati.",
+    "incorrect_answers": [
+      "B. Kollektiv hujjatning huquqiy jihatlarini ta\u0027minlash va kompaniyaning aniq maqsadga muvofiqligini ko\u0027rsatish ..",
+      "C. Davlat o\u0027z fuqarolarini va, ehtimol, o\u0027z sohasida ishlaydigan xorijiy korxonalarni qamrab oladi.",
+      "D. To\u0027g\u0027ri javob yo\u0027q."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "193. Qaysi obyektlar siyosatni yaratadi?",
+    "correct_answer": "A. Kengash, IT hamjamiyati, yuridik guruh, HR guruhi.",
+    "incorrect_answers": [
+      "B. Xodimlar guruhi, kengash.",
+      "C. Yuridik jamoa, IT hamjamiyati.",
+      "D. Siyosat yaratish uchun hech qanday ob\u0027ekt talab qilinmaydi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "194. Siyosat ishlab chiqaruvchi kengashning vazifasi?",
+    "correct_answer": "A. Kengash a\u0027zolari odatdagi yoki g\u0027ayritabiiy biznes sharoitlariga javoban siyosatni qayta ko\u0027rib chiqish bo\u0027yicha maslahat berishlari kerak.",
+    "incorrect_answers": [
+      "B. Odatda ular har qanday kompaniyada siyosat ma\u0027lumotlarining eng yirik iste\u0027molchilari hisoblanadilar, chunki ular kompyuter tizimlaridan foydalanish standartlarini, xususan, xavfsizlikni boshqarish vositalarini o\u0027z ichiga oladi.",
+      "C. Hujjatning huquqiy jihatlarini o\u0027z ichiga oladi va kompaniyaning ma\u0027lum bir maqsadga muvofiqligini ko\u0027rsatadi.",
+      "D. Ular odatda har bir xodimdan xodimlarni intizomiy jazolash uchun mukofotlash va jazolash bilan bog\u0027liq masalalarni hal qilishda siyosatni o\u0027qib chiqqani va tushunganligi to\u0027g\u0027risida T\u0026C sertifikatini talab qiladi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "195. Siyosatni ishlab chiqishda ishtirok etuvchi AT jamoasining roli -?",
+    "correct_answer": "A. Odatda ular har qanday kompaniyada siyosat ma’lumotlarining eng yirik iste’molchisi hisoblanadi, chunki ular kompyuter tizimlaridan foydalanish standartlarini, xususan, xavfsizlikni boshqarish vositalarini o‘z ichiga oladi.",
+    "incorrect_answers": [
+      "B. Kompaniya rahbariyatining a\u0027zolari biznesning normal yoki g\u0027ayritabiiy sharoitlariga javoban siyosat tahlili bo\u0027yicha o\u0027z maslahatlarini berishlari kerak.",
+      "C. Hujjatning huquqiy jihatlarini o\u0027z ichiga oladi va kompaniyaning ma\u0027lum bir maqsadga muvofiqligini ko\u0027rsatadi.",
+      "D. Ular odatda har bir xodimdan xodimlarni intizomiy jazolash uchun mukofotlash va jazolash bilan bog\u0027liq masalalarni hal qilishda siyosatni o\u0027qib chiqqani va tushunganligi to\u0027g\u0027risida T\u0026C sertifikatini talab qiladi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "196. Siyosatni ishlab chiqishda ishtirok etuvchi huquqiy guruhning roli -?",
+    "correct_answer": "A. Hujjatning huquqiy jihatlarini o\u0027z ichiga oladi va kompaniyaning ma\u0027lum bir maqsadga muvofiqligini ko\u0027rsatadi.",
+    "incorrect_answers": [
+      "B. Odatda ular har qanday kompaniyada siyosat ma\u0027lumotlarining eng yirik iste\u0027molchisi hisoblanadi, chunki ular kompyuter tizimlaridan foydalanish standartlarini, xususan, xavfsizlikni boshqarish vositalarini o\u0027z ichiga oladi.",
+      "C. Kompaniya rahbariyati a\u0027zolari biznesning normal yoki g\u0027ayritabiiy sharoitlariga javoban siyosatni qayta ko\u0027rib chiqish bo\u0027yicha maslahatlar berishlari kerak.",
+      "D. Ular odatda har bir xodimdan xodimlarni intizomiy jazolash uchun mukofotlash va jazolash bilan bog\u0027liq masalalarni hal qilishda siyosatni o\u0027qib chiqqani va tushunganligi to\u0027g\u0027risida T\u0026C sertifikatini talab qiladi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "197. Siyosatni ishlab chiqishda ishtirok etuvchi HR jamoasining vazifasi?",
+    "correct_answer": "A. Ular odatda har bir xodimdan xodimlarni intizomiy jazolash uchun mukofotlash va jazolash bilan bog‘liq masalalar bilan shug‘ullanar ekan, siyosatni o‘qib chiqqani va tushunganligi haqida T\u0026C sertifikatini talab qiladi.",
+    "incorrect_answers": [
+      "B. Odatda ular har qanday kompaniyada siyosat ma\u0027lumotlarining eng yirik iste\u0027molchilari hisoblanadilar, chunki u kompyuter tizimlaridan foydalanish standartlarini, xususan, xavfsizlikni boshqarish vositalarini o\u0027z ichiga oladi.",
+      "C. Kompaniya rahbariyati a\u0027zolari g\u0027ayritabiiy yoki g\u0027ayritabiiy biznes sharoitlariga javoban siyosatni qayta ko\u0027rib chiqish bo\u0027yicha maslahat berishlari kerak.",
+      "D. Hujjatning huquqiy jihatlarini o\u0027z ichiga oladi va kompaniyaning ma\u0027lum bir maqsadga muvofiqligini ko\u0027rsatadi."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "198. Xavfsizlik siyosatini ishlab chiqish bosqichlarini toping.",
+    "correct_answer": "A. Talablarni to\u0027plash, takliflarni o\u0027rganish, siyosatni ishlab chiqish, tasdiqlash bosqichi, siyosatni nashr qilish.",
+    "incorrect_answers": [
+      "B. Siyosatni nashr etish, tasdiqlash bosqichi.",
+      "C. Talablarni o\u0027rganish, takliflarni o\u0027rganish.",
+      "D. Siyosatni ishlab chiqish, siyosatni nashr etish."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "199. Siyosiy auditoriya nima?",
+    "correct_answer": "A. Ishchilar toifasi, IT, boshqaruv, huquq va investorlar vakillari.",
+    "incorrect_answers": [
+      "B. IT va huquq sohasi vakillari",
+      "C. Investorlar.",
+      "D. boshqaruv sohasi vakillari."
+    ],
+    "category": "KiberSiyosat"
+  },
+  {
+    "difficulty": "-",
+    "question": "200. Tashkilot odatda nechta siyosatga ega bo\u0027lishi kerak?",
+    "correct_answer": "A. 3.",
+    "incorrect_answers": [
+      "B. 2.",
+      "C. 1.",
+      "D. 4."
+    ],
+    "category": "KiberSiyosat"
+  }
+]

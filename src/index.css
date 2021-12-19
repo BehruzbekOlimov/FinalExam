@@ -1,0 +1,29 @@
+.current-btn {
+    background-color: blue !important;
+    border-color: blue !important;
+    color: white !important;
+}
+
+.selected-btn {
+    background-color: gainsboro !important;
+}
+
+.correct-btn {
+    background-color: greenyellow !important;
+}
+
+.incorrect-btn {
+    background-color: coral !important;
+}
+
+.selected-variant {
+    background-color: lightgray !important;
+}
+
+.correct-variant {
+    background-color: greenyellow !important;
+}
+
+.incorrect-variant {
+    background-color: coral !important;
+}
