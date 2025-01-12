@@ -15,7 +15,7 @@ const Header = ({currentIndex, countQuizzes, onFinish, forseUpdate}) => {
                           onClick={forseUpdate}
                           className="navbar-brand m-0"
                           push>
-                        Quiz App</Link>
+                        Final Exam</Link>
                     {
                         countQuizzes ?
                             <h4 className="mb-0">{currentIndex}/{countQuizzes}</h4> :

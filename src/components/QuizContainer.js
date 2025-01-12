@@ -12,7 +12,6 @@ import {
 } from "@material-ui/core";
 import {Skeleton} from "@material-ui/lab";
 import {useHistory} from "react-router-dom";
-import * as fs from "fs";
 import tests from "../store/tests";
 
 
@@ -27,7 +26,7 @@ const QuizContainer = ({
                            myAnswers,
                            onCheckAnswer,
                            options,
-                           forseUpdate
+                           forceUpdate
                        }) => {
 
     const [modalIsOpen, setModalIsOpen] = useState(false);
@@ -132,7 +131,7 @@ const QuizContainer = ({
 
             <MyDialog open={modalIsOpen}
                       countQuizzes={countQuizzes}
-                      forseUpdate={forseUpdate}
+                      forseUpdate={forceUpdate}
                       countCorrectAnswers={countCorrectAnswers}
                       toggle={() => setModalIsOpen(false)}/>
         </div>

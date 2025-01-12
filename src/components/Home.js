@@ -13,11 +13,11 @@ const Home = ({onSubmit,options,isLoading,forseUpdate}) => {
         {value: 25, name: 25},
         {value: 30, name: 30},
     ]
-    const difficulties = [
-        {value: '-', name: '-'},
-    ]
+    // const difficulties = [
+    //     {value: '-', name: '-'},
+    // ]
     const categories = [
-        {value: 'KiberSiyosat', name: 'Kiberxavfsizlik siyosati'},
+        {value: 'Writing and Reading', name: 'Writing and Reading'},
     ]
     return (
         <div className="container-fluid p-0">
@@ -28,12 +28,12 @@ const Home = ({onSubmit,options,isLoading,forseUpdate}) => {
                           options={options}
                           values={numbers}
                           onChange={selectChangeHandler}/>
-                <MySelect name={'difficulty'}
-                          className="w-100"
-                          values={difficulties}
-                          label={"Select Difficulty:"}
-                          options={options}
-                          onChange={selectChangeHandler}/>
+                {/*<MySelect name={'difficulty'}*/}
+                {/*          className="w-100"*/}
+                {/*          values={difficulties}*/}
+                {/*          label={"Select Difficulty:"}*/}
+                {/*          options={options}*/}
+                {/*          onChange={selectChangeHandler}/>*/}
                 <MySelect name={'category'}
                           label={"Select Category:"}
                           values={categories}

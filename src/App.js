@@ -112,7 +112,7 @@ class App extends Component {
                                        currentIndex={selectedQuizId}
                                        myAnswers={myAnswers}
                                        options={options}
-                                       forseUpdate={()=>this.forceUpdate()}
+                                       forceUpdate={()=>this.forceUpdate()}
                                        onSelectQuiz={this.setSelectedQuiz}
                                        onSelectAnswer={this.setSelectAnswer}
                                        onCheckAnswer={this.onCheckAnswer}
