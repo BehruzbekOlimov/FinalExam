@@ -163,8 +163,7 @@ const MyDialog = ({open, toggle, countQuizzes, countCorrectAnswers, forseUpdate}
                     Ok
                 </Button>
                 <Button className="col" onClick={() => {
-                    history.push('/')
-                    forseUpdate()
+                    window.location.href = "/"
                 }} variant={"outlined"} color="secondary" autoFocus>
                     Go Home
                 </Button>

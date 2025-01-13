@@ -11,11 +11,10 @@ const Header = ({currentIndex, countQuizzes, onFinish, forseUpdate}) => {
         <div className="navbar navbar-light bg-light">
             <div className="container">
                 <div className="d-flex justify-content-between align-content-center w-100">
-                    <Link to="/"
+                    <a href="/"
                           onClick={forseUpdate}
-                          className="navbar-brand m-0"
-                          push>
-                        Final Exam</Link>
+                          className="navbar-brand m-0">
+                        Final Exam</a>
                     {
                         countQuizzes ?
                             <h4 className="mb-0">{currentIndex}/{countQuizzes}</h4> :
