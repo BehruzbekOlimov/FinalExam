@@ -1,7 +1,38 @@
 import {Button, FormControl, InputLabel, Select} from "@material-ui/core";
 import {Link} from "react-router-dom";
+import {categories} from "../store/tests";
+// import {useEffect} from "react";
 
-const Home = ({onSubmit,options,isLoading,forceUpdate}) => {
+const Home = ({onSubmit,options,isUser, isLoading, setTruthUser,forseUpdate}) => {
+    // let { token } = useParams();
+
+    // useEffect(() => {
+    //     fetch('https://tuit-exam.herokuapp.com/api/token/' + token)
+    //         .then(response => response.json())
+    //         .then(data => {
+    //             setTruthUser(data)
+    //         })
+    //         .catch(() => setTruthUser(false))
+    // }, []);
+    //
+    // if (isLoading){
+    //     return <div className="d-flex mt-5 justify-content-center">
+    //         <div className="spinner-border" role="status">
+    //             <span className="visually-hidden">
+    //
+    //             </span>
+    //         </div>
+    //     </div>
+    // }
+    //
+    // if (!isUser){
+    //     return <h1 className="text-center">
+    //         <p className="text-warning">
+    //             Token ishlatilgan!
+    //         </p>
+    //         Botga qaytadan /start yoki /menu yozing!
+    //     </h1>
+    // }
 
     const selectChangeHandler = (object) => {
         onSubmit({...options, [object.name]: object.value})
@@ -17,10 +48,6 @@ const Home = ({onSubmit,options,isLoading,forceUpdate}) => {
     // const difficulties = [
     //     {value: '-', name: '-'},
     // ]
-    const categories = [
-        {value: 'Discourse Analysis', name: 'Discourse Analysis'},
-        {value: 'Writing and Reading', name: 'Writing and Reading'},
-    ]
     return (
         <div className="container-fluid p-0">
             <div className="col-md-8 offset-md-2 col-lg-6 offset-lg-3 p-3">
@@ -43,16 +70,28 @@ const Home = ({onSubmit,options,isLoading,forceUpdate}) => {
                           onChange={selectChangeHandler}/>
                 <Button variant="contained"
                         size="large"
-                        onClick={forceUpdate}
+                        onClick={forseUpdate}
                         className="bg-success w-100 mt-3 p-0"
                         color="secondary">
                     <Link className="text-white d-block m-0 text-decoration-none w-100 h-100 py-2"
                           to="/quiz"
                           push>
-                        {isLoading?'Start':'Continue'}
+                        Start
+                    </Link>
+                </Button>
+                <Button variant="contained"
+                        size="large"
+                        onClick={forseUpdate}
+                        className="bg-info w-100 mt-3 p-0"
+                        color="secondary">
+                    <Link to="/tests" className="text-white d-block m-0 text-decoration-none w-100 h-100 py-2" push>
+                        Tests
                     </Link>
                 </Button>
             </div>
+
+
+
         </div>
     );
 };

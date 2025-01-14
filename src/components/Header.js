@@ -7,18 +7,20 @@ const Header = ({currentIndex, countQuizzes, onFinish, forseUpdate}) => {
     const {location}=useHistory()
     const isHome=location.pathname === '/'
 
+
     return (
-        <div className="navbar navbar-light bg-light">
+        <div className={"navbar navbar-light bg-light"}>
             <div className="container">
                 <div className="d-flex justify-content-between align-content-center w-100">
-                    <a href="/"
+                    <Link to="/"
                           onClick={forseUpdate}
-                          className="navbar-brand m-0">
-                        Final Exam</a>
+                          className="navbar-brand m-0"
+                          push>
+                        FinalExam</Link>
                     {
                         countQuizzes ?
                             <h4 className="mb-0">{currentIndex}/{countQuizzes}</h4> :
-                            !isHome && <Skeleton animation={"wave"} width={60} height={40}/>
+                            !isHome && <Skeleton animation={"wave"} width={60} height={0}/>
                     }
                     {
                         countQuizzes ?
@@ -28,7 +30,7 @@ const Header = ({currentIndex, countQuizzes, onFinish, forseUpdate}) => {
                                     variant="contained">
                                 Finish
                             </Button> :
-                            !isHome && <Skeleton height={50} width={100}/>
+                            !isHome && <Skeleton height={0} width={100}/>
                     }
 
                 </div>

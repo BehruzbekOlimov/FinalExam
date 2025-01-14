@@ -2,9 +2,11 @@ import './App.css';
 import QuizContainer from "./components/QuizContainer";
 import {Component} from "react";
 import Header from "./components/Header";
-import {BrowserRouter,Switch,Route} from "react-router-dom";
+import {BrowserRouter, Switch, Route} from "react-router-dom";
 import Home from "./components/Home";
-import _ from "lodash";
+import Tests from "./components/Tests";
+import TestPage from "./TestPage";
+import {categories} from "./store/tests";
 
 class App extends Component {
 
@@ -14,10 +16,10 @@ class App extends Component {
             quizzes: [],
             isLoading: true,
             selectedQuizId: 0,
+            truthUser: false,
             myAnswers: [],
-            options:{difficulty: '', category: '', amount: 35}
+            options: {difficulty: '', category: categories[0].value, amount: 35}
         }
-        console.log(this.props)
     }
 
     setSelectedQuiz = (id) => {
@@ -26,10 +28,17 @@ class App extends Component {
         })
     }
 
+    setTruthUser = (val = false) => {
+        this.setState({
+            truthUser: val,
+            isLoading: false
+        })
+    }
+
     setOptions = (options) => {
         this.setState({
             options,
-            isLoading:true
+            isLoading: true
         })
     }
 
@@ -66,13 +75,13 @@ class App extends Component {
         })
     }
 
-    setData = (data) => {
-        const quizzes = [...data]
+    setData = (res) => {
+
+        let quizzes = [...res.data]
         const myAnswers = new Array(quizzes.length)
         for (let i = 0; i < quizzes.length; i++) {
             quizzes[i].variants = [...quizzes[i].incorrect_answers, quizzes[i].correct_answer]
-            _.shuffle(quizzes[i].variants)
-            delete quizzes[i].incorrect_answers
+            this.shuffleArray(quizzes[i].variants)
             myAnswers[i] = {
                 isSubmitted: false,
                 isCorrect: false,
@@ -87,8 +96,24 @@ class App extends Component {
         })
     }
 
+    update() {
+        this.setState({
+            quizzes: [],
+            isLoading: true,
+            selectedQuizId: 0,
+            myAnswers: [],
+            options: {...this.state.options}
+        })
+    }
+
     render() {
-        const {quizzes, isLoading, selectedQuizId, myAnswers, options} = this.state
+        const {quizzes, isLoading, selectedQuizId, myAnswers, options, truthUser} = this.state
+        // if(!window.Telegram.WebApp.themeParams.bg_color)
+        //     return <div>
+        //         <p className="display-1 text-center mt-5">
+        //             ;)
+        //         </p>
+        //     </div>
 
 
         return (
@@ -97,28 +122,40 @@ class App extends Component {
                     <div className="App">
                         <Header currentIndex={selectedQuizId + 1}
                                 onFinish={this.onQuizEnd}
-                                forseUpdate={()=>this.forceUpdate()}
+                                forseUpdate={() => this.update()}
                                 countQuizzes={quizzes.length}/>
                         <Switch>
                             <Route exact path="/">
                                 <Home options={options}
                                       isLoading={isLoading}
-                                      forceUpdate={()=>this.forceUpdate()}
+                                      forseUpdate={() => this.update()}
+                                      isUser={truthUser}
+                                      setTruthUser={this.setTruthUser}
                                       onSubmit={this.setOptions}/>
                             </Route>
-                            <Route path="/quiz">
-                        <QuizContainer isLoading={isLoading}
-                                       quiz={quizzes[selectedQuizId]}
-                                       currentIndex={selectedQuizId}
-                                       myAnswers={myAnswers}
-                                       options={options}
-                                       forceUpdate={()=>this.forceUpdate()}
-                                       onSelectQuiz={this.setSelectedQuiz}
-                                       onSelectAnswer={this.setSelectAnswer}
-                                       onCheckAnswer={this.onCheckAnswer}
-                                       onFetch={this.setData} countQuizzes={quizzes.length}/>
+                            <Route exact path="/quiz">
+                                <QuizContainer isLoading={isLoading}
+                                               quiz={quizzes[selectedQuizId]}
+                                               isUser={truthUser}
+                                               currentIndex={selectedQuizId}
+                                               myAnswers={myAnswers}
+                                               options={options}
+                                               forseUpdate={() => this.update()}
+                                               onSelectQuiz={this.setSelectedQuiz}
+                                               onSelectAnswer={this.setSelectAnswer}
+                                               onCheckAnswer={this.onCheckAnswer}
+                                               onFetch={this.setData} countQuizzes={quizzes.length}/>
 
                             </Route>
+
+                            <Route exact path="/tests">
+                                <Tests
+                                    isUser={truthUser}/>
+                            </Route>
+                            <Route exact path="/test-page">
+                                <TestPage/>
+                            </Route>
+
                         </Switch>
                     </div>
                 </BrowserRouter>

@@ -1,29 +1,31 @@
 .current-btn {
-    background-color: blue !important;
-    border-color: blue !important;
-    color: white !important;
+    background-color: #00f!important;
+    border-color: #00f!important;
+    color: #fff!important
 }
 
 .selected-btn {
-    background-color: gainsboro !important;
+    background-color: #dcdcdc!important
 }
 
 .correct-btn {
-    background-color: greenyellow !important;
+    background-color: #adff2f!important
 }
 
 .incorrect-btn {
-    background-color: coral !important;
+    background-color: coral!important
 }
 
 .selected-variant {
-    background-color: lightgray !important;
+    background-color: #d3d3d3!important
 }
 
 .correct-variant {
-    background-color: greenyellow !important;
+    background-color: #adff2f!important
 }
 
 .incorrect-variant {
-    background-color: coral !important;
+    background-color: coral!important
 }
+
+/*# sourceMappingURL=main.c57dd9bc.chunk.css.map */

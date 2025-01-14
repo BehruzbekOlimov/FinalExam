@@ -12,8 +12,7 @@ import {
 } from "@material-ui/core";
 import {Skeleton} from "@material-ui/lab";
 import {useHistory} from "react-router-dom";
-import tests from "../store/tests";
-
+import {store as tests} from "../store/tests";
 
 const QuizContainer = ({
                            isLoading,
@@ -26,16 +25,30 @@ const QuizContainer = ({
                            myAnswers,
                            onCheckAnswer,
                            options,
-                           forceUpdate
+                           forseUpdate,
+                           isUser
                        }) => {
 
     const [modalIsOpen, setModalIsOpen] = useState(false);
     const [isFinished, setIsFinished] = useState(false);
     useEffect(() => {
 
-        if (isLoading && options)
-                    onFetch(_.shuffle(tests).filter((obj,index) => index < options.amount))
-    })
+        const res = {
+            data: _.shuffle(tests.filter(obj => obj.category === options.category)).filter((obj, index) => index < options.amount)
+        }
+        if (isLoading && options) {
+            onFetch(res)
+        }
+    }, [])
+
+    // if (!isUser){
+    //     return <h1 className="text-center">
+    //         <p className="text-warning">
+    //             Token ishlatilgan!
+    //         </p>
+    //         Botga qaytadan /start yoki /menu yozing!
+    //     </h1>
+    // }
 
     let countCorrectAnswers = calculateCorrectAnswer(myAnswers)
     if (countCorrectAnswers !== -1 && !isFinished) {
@@ -131,7 +144,7 @@ const QuizContainer = ({
 
             <MyDialog open={modalIsOpen}
                       countQuizzes={countQuizzes}
-                      forseUpdate={forceUpdate}
+                      forseUpdate={forseUpdate}
                       countCorrectAnswers={countCorrectAnswers}
                       toggle={() => setModalIsOpen(false)}/>
         </div>
@@ -163,7 +176,8 @@ const MyDialog = ({open, toggle, countQuizzes, countCorrectAnswers, forseUpdate}
                     Ok
                 </Button>
                 <Button className="col" onClick={() => {
-                    window.location.href = "/"
+                    forseUpdate()
+                    history.push('/')
                 }} variant={"outlined"} color="secondary" autoFocus>
                     Go Home
                 </Button>

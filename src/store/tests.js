@@ -6183,4 +6183,9 @@ const tests = `[
 }
 ]`
 
-export default JSON.parse(tests)
+export const store = JSON.parse(tests)
+
+export const categories = [
+    {value: 'Discourse Analysis', name: 'Discourse Analysis'},
+    {value: 'Writing and Reading', name: 'Writing and Reading'},
+]
