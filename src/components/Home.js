@@ -1,12 +1,13 @@
 import {Button, FormControl, InputLabel, Select} from "@material-ui/core";
 import {Link} from "react-router-dom";
 
-const Home = ({onSubmit,options,isLoading,forseUpdate}) => {
+const Home = ({onSubmit,options,isLoading,forceUpdate}) => {
 
     const selectChangeHandler = (object) => {
         onSubmit({...options, [object.name]: object.value})
     }
     const numbers = [
+        {value: 35, name: 35},
         {value: 10, name: 10},
         {value: 15, name: 15},
         {value: 20, name: 20},
@@ -17,6 +18,7 @@ const Home = ({onSubmit,options,isLoading,forseUpdate}) => {
     //     {value: '-', name: '-'},
     // ]
     const categories = [
+        {value: 'Discourse Analysis', name: 'Discourse Analysis'},
         {value: 'Writing and Reading', name: 'Writing and Reading'},
     ]
     return (
@@ -41,7 +43,7 @@ const Home = ({onSubmit,options,isLoading,forseUpdate}) => {
                           onChange={selectChangeHandler}/>
                 <Button variant="contained"
                         size="large"
-                        onClick={forseUpdate}
+                        onClick={forceUpdate}
                         className="bg-success w-100 mt-3 p-0"
                         color="secondary">
                     <Link className="text-white d-block m-0 text-decoration-none w-100 h-100 py-2"

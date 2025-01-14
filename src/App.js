@@ -15,7 +15,7 @@ class App extends Component {
             isLoading: true,
             selectedQuizId: 0,
             myAnswers: [],
-            options:{difficulty: '', category: '', amount: 10}
+            options:{difficulty: '', category: '', amount: 35}
         }
         console.log(this.props)
     }
@@ -103,7 +103,7 @@ class App extends Component {
                             <Route exact path="/">
                                 <Home options={options}
                                       isLoading={isLoading}
-                                      forseUpdate={()=>this.forceUpdate()}
+                                      forceUpdate={()=>this.forceUpdate()}
                                       onSubmit={this.setOptions}/>
                             </Route>
                             <Route path="/quiz">

@@ -2935,6 +2935,3251 @@ const tests = `[
 "Abusive"
 ],
 "category": "Writing and Reading"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a key feature of coherence in discourse?",
+"correct_answer":"The logical flow of ideas",
+"incorrect_answers":[
+"The use of correct grammar",
+"The use of complex vocabulary",
+"The use of varied sentence structures"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Coherence in discourse primarily depends on:",
+"correct_answer":"The structure and organization of ideas",
+"incorrect_answers":[
+"The speaker's tone of voice",
+"The length of sentences",
+"The amount of information included"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a cohesive device?",
+"correct_answer":"\\"Therefore\\"",
+"incorrect_answers":[
+"\\"Jumping over the fence\\"",
+"\\"A cat walked into the room\\"",
+"\\"Very quickly\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What role does reference play in discourse coherence?",
+"correct_answer":"It connects ideas by referring back to previously mentioned information",
+"incorrect_answers":[
+"It introduces new ideas",
+"It provides background information",
+"It asks questions to guide the reader"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In which of the following sentences is coherence best achieved?",
+"correct_answer":"\\"She loves reading books. Moreover, she likes writing novels.\\"",
+"incorrect_answers":[
+"\\"She loves reading books. There was a loud noise outside.\\"",
+"\\"She loves reading books. Because the weather was cold.\\"",
+"\\"She loves reading books. However, her car broke down yesterday.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which is an example of an inference in discourse?",
+"correct_answer":"\\"She wore a red dress because it was her favorite color.\\"",
+"incorrect_answers":[
+"\\"She wore a red dress to the party.\\"",
+"\\"She wore a red dress, which made her look elegant.\\"",
+"\\"She wore a red dress.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following best describes a topic sentence?",
+"correct_answer":"A sentence that summarizes the main idea of the paragraph",
+"incorrect_answers":[
+"A sentence that ends the paragraph",
+"A sentence that introduces a new idea unrelated to the paragraph",
+"A sentence that contains all the details of the paragraph"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which technique helps improve coherence in a paragraph?",
+"correct_answer":"Linking sentences with transitional words",
+"incorrect_answers":[
+"Focusing on many topics for the entire paragraph",
+"Using a wide variety of sentence lengths",
+"Including unrelated details for interest"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does the term “anaphora” refer to in discourse?",
+"correct_answer":"The use of pronouns to refer back to previous terms",
+"incorrect_answers":[
+"The introduction of new topics in the middle of a paragraph",
+"The use of complex sentence structures",
+"The repetition of words for emphasis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The cake smells delicious,\\" what is the Theme?",
+"correct_answer":"Cake",
+"incorrect_answers":[
+"Smells",
+"Delicious",
+"The"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does modality in discourse refer to?",
+"correct_answer":"The speaker’s attitude toward the truth of the proposition",
+"incorrect_answers":[
+"The number of speakers in a conversation",
+"The length of the sentences used in discourse",
+"The speed at which information is conveyed"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following modal verbs expresses possibility?",
+"correct_answer":"Might",
+"incorrect_answers":[
+"Will",
+"Must",
+"Should"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence \\"You should see a doctor\\" expresses which modality?",
+"correct_answer":"Obligation",
+"incorrect_answers":[
+"Possibility",
+"Permission",
+"Ability"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences contains a modality of necessity?",
+"correct_answer":"\\"She must go to the park tomorrow.\\"",
+"incorrect_answers":[
+"\\"She will go to the park tomorrow.\\"",
+"\\"She could go to the park tomorrow.\\"",
+"\\"She might go to the park tomorrow.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The phrase “I would like to…” is an example of which modality?",
+"correct_answer":"Politeness",
+"incorrect_answers":[
+"Ability",
+"Necessity",
+"Prediction"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which modal verb expresses a future prediction?",
+"correct_answer":"Will",
+"incorrect_answers":[
+"Must",
+"Might",
+"Can"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences is an example of a permissive modality?",
+"correct_answer":"\\"You may leave after class.\\"",
+"incorrect_answers":[
+"\\"You should eat vegetables.\\"",
+"\\"You could try a different approach.\\"",
+"\\"You must do your homework.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence indicates a lack of certainty or doubt?",
+"correct_answer":"\\"He might come to the party.\\"",
+"incorrect_answers":[
+"\\"He must come to the party.\\"",
+"\\"He should come to the party.\\"",
+"\\"He didn’t come to the party.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence \\"I can swim\\" expresses which modality?",
+"correct_answer":"Ability",
+"incorrect_answers":[
+"Obligation",
+"Possibility",
+"Permission"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a modal verb expressing advice?",
+"correct_answer":"Should",
+"incorrect_answers":[
+"Must",
+"Can",
+"Will"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The phrase \\"If I were you, I would study harder\\" expresses what kind of modality?",
+"correct_answer":"Hypothetical condition",
+"incorrect_answers":[
+"Obligation",
+"Permission",
+"Ability"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a strong obligation expressed with modality?",
+"correct_answer":"\\"You must visit your grandmother.\\"",
+"incorrect_answers":[
+"\\"You should visit your grandmother.\\"",
+"\\"You might visit your grandmother.\\"",
+"\\"You could visit your grandmother.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following modal verbs is used to show past possibility?",
+"correct_answer":"Could",
+"incorrect_answers":[
+"Will",
+"Might",
+"Would"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences is an example of a suggestion?",
+"correct_answer":"\\"You should try the new restaurant.\\"",
+"incorrect_answers":[
+"\\"You might want to try the new restaurant.\\"",
+"\\"You must try the new restaurant.\\"",
+"\\"You will try the new restaurant.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Could you help me with this?\\" is an example of what kind of modality?",
+"correct_answer":"Request",
+"incorrect_answers":[
+"Possibility",
+"Necessity",
+"Ability"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence, \\"It might rain tomorrow, so take an umbrella,\\" what does \\"might\\" express?",
+"correct_answer":"Possibility",
+"incorrect_answers":[
+"Obligation",
+"Certainty",
+"Necessity"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following contributes most to the coherence of the sentence \\"She went to the store because she needed milk\\"?",
+"correct_answer":"The conjunction \\"because\\"",
+"incorrect_answers":[
+"The verb \\"went\\"",
+"The use of \\"milk\\"",
+"The time expression \\"yesterday\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following modal verbs shows the weakest degree of certainty?",
+"correct_answer":"Might",
+"incorrect_answers":[
+"Must",
+"Will",
+"Should"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the function of coherence markers in discourse?",
+"correct_answer":"To guide the listener’s interpretation and ensure a logical flow of information",
+"incorrect_answers":[
+"To introduce new, unrelated ideas",
+"To make the text more entertaining",
+"To vary the sentence structure"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a modality of suggestion and coherence combined?",
+"correct_answer":"\\"You should read this book, as it will help with your studies.\\"",
+"incorrect_answers":[
+"\\"You must read this book.\\"",
+"\\"You could read this book.\\"",
+"\\"You might read this book.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences shows both modality and coherence?",
+"correct_answer":"\\"It could rain, so bring an umbrella.\\"",
+"incorrect_answers":[
+"\\"It will rain tomorrow.\\"",
+"\\"It is raining right now.\\"",
+"\\"It rained yesterday.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of these sentences maintains coherence through the use of a modal verb of advice?",
+"correct_answer":"\\"You should stop by the store if you need anything.\\"",
+"incorrect_answers":[
+"\\"You must stop by the store.\\"",
+"\\"You could stop by the store later.\\"",
+"\\"You might stop by the store.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The use of the modal verb \\"must\\" in the sentence “You must follow the instructions carefully” conveys which aspect of modality?",
+"correct_answer":"Obligation",
+"incorrect_answers":[
+"Suggestion",
+"Possibility",
+"Ability"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which modal verb best shows certainty in the statement “The project will be completed on time”?",
+"correct_answer":"Will",
+"incorrect_answers":[
+"Might",
+"Could",
+"Should"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “If you studied harder, you could pass the test,” what does “could” express?",
+"correct_answer":"Possibility",
+"incorrect_answers":[
+"Ability",
+"Obligation",
+"Advice"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"We visited the museum yesterday,\\" what is the Rheme?",
+"correct_answer":"Yesterday",
+"incorrect_answers":[
+"We",
+"The museum",
+"Visited"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of weak modality?",
+"correct_answer":"\\"You could finish this report by tomorrow.\\"",
+"incorrect_answers":[
+"\\"You must finish this report by tomorrow.\\"",
+"\\"You should finish this report by tomorrow.\\"",
+"\\"You will finish this report by tomorrow.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences contains an example of modality showing a lack of necessity?",
+"correct_answer":"\\"You may attend the meeting.\\"",
+"incorrect_answers":[
+"\\"You must attend the meeting.\\"",
+"\\"You should attend the meeting.\\"",
+"\\"You have to attend the meeting.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"She must be at work now, given that her car is parked outside.\\" What kind of modality is expressed here?",
+"correct_answer":"Certainty",
+"incorrect_answers":[
+"Ability",
+"Possibility",
+"Hypothesis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences creates coherence through a hypothetical situation?",
+"correct_answer":"\\"If you study hard, you will pass the exam.\\"",
+"incorrect_answers":[
+"\\"You could have finished the task by now.\\"",
+"\\"She studied all night and passed the test.\\"",
+"\\"He finished his work early today.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which modal verb in the sentence “You may leave once the bell rings” expresses permission?",
+"correct_answer":"May",
+"incorrect_answers":[
+"Must",
+"Could",
+"Should"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences contains a modality of possibility?",
+"correct_answer":"\\"I might go to the store tomorrow.\\"",
+"incorrect_answers":[
+"\\"I will go to the store tomorrow.\\"",
+"\\"I should go to the store tomorrow.\\"",
+"\\"I must go to the store tomorrow.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The children were playing in the park,\\" what is the Rheme?",
+"correct_answer":"In the park",
+"incorrect_answers":[
+"Playing",
+"Were playing",
+"The children"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does modality do in discourse?",
+"correct_answer":"It conveys the speaker's attitude toward the truth or necessity of a statement",
+"incorrect_answers":[
+"It introduces grammatical errors for stylistic effect",
+"It adds detailed background information",
+"It makes the conversation less engaging"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence uses modality to show necessity?",
+"correct_answer":"\\"You must finish your homework.\\"",
+"incorrect_answers":[
+"\\"You should finish your homework.\\"",
+"\\"You might finish your homework.\\"",
+"\\"You could finish your homework.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence, \\"She will definitely call you,\\" what does \\"will\\" express?",
+"correct_answer":"Certainty",
+"incorrect_answers":[
+"Possibility",
+"Hypothesis",
+"Advice"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The use of “might” in “She might come to the party” expresses:",
+"correct_answer":"Possibility",
+"incorrect_answers":[
+"Obligation",
+"Certainty",
+"Permission"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of these sentences maintains coherence with the use of a conditional modal verb?",
+"correct_answer":"\\"You could come if you're free.\\"",
+"incorrect_answers":[
+"\\"You might come if you feel like it.\\"",
+"\\"You will come if you can.\\"",
+"\\"You should come if you have time.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of modality showing a hypothetical situation?",
+"correct_answer":"\\"If you were more careful, you wouldn’t make mistakes.\\"",
+"incorrect_answers":[
+"\\"You must be more careful.\\"",
+"\\"You could be more careful.\\"",
+"\\"You should be more careful.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “It’s possible that she might come tomorrow,” what does the word \\"might\\" express?",
+"correct_answer":"Possibility",
+"incorrect_answers":[
+"Necessity",
+"Ability",
+"Suggestion"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the primary purpose of lexical cohesion in a text?",
+"correct_answer":"To connect ideas and maintain flow between sentences",
+"incorrect_answers":[
+"To create variety in sentence structure",
+"To introduce new and unrelated ideas",
+"To confuse the reader"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of lexical cohesion is used in the sentence: “Tom couldn’t find his keys, so he searched for them everywhere”?",
+"correct_answer":"Substitution",
+"incorrect_answers":[
+"Synonymy",
+"Antonymy",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following pairs of words represents a case of synonymy in lexical cohesion?",
+"correct_answer":"Big / Large",
+"incorrect_answers":[
+"Happy / Sad",
+"Run / Walk",
+"Tall / Short"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “She decided to leave the meeting because she was tired,” what does the word “she” function as?",
+"correct_answer":"A pronoun reference",
+"incorrect_answers":[
+"An antonym",
+"A synonym",
+"A hyponym"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of these is the hyponym of \\"flower\\"?",
+"correct_answer":"Rose",
+"incorrect_answers":[
+"Plant",
+"Garden",
+"Tree"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following words is an example of substitution in lexical cohesion?",
+"correct_answer":"John likes basketball. Bob likes it too.",
+"incorrect_answers":[
+"I prefer tea, but she likes coffee.",
+"She was very tired, so she went to bed early.",
+"He walked quickly. Then, he ran."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of collocation?",
+"correct_answer":"All of them",
+"incorrect_answers":[
+"Strong tea",
+"Beautiful day",
+"Fast car"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “The kids were playing in the yard, and they were having so much fun,” what does the word “they” refer to?",
+"correct_answer":"Anaphora",
+"incorrect_answers":[
+"Synonymy",
+"Repetition",
+"Antonymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the relationship between the words “happy” and “joyful” in the context of lexical cohesion?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Collocation",
+"Antonymy",
+"Substitution"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The phrase “a big problem” is related to “a huge problem” through which lexical cohesion device?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Antonymy",
+"Collocation",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of antonymy?",
+"correct_answer":"Fast / Slow",
+"incorrect_answers":[
+"Nice / Pleasant",
+"Car / Vehicle",
+"Buy / Purchase"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does lexical cohesion help to achieve in a text?",
+"correct_answer":"To link ideas and help the text flow logically",
+"incorrect_answers":[
+"To make the text more entertaining",
+"To introduce unrelated ideas for variety",
+"To confuse the reader with unclear references"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a hyponym of \\"fruit\\"?",
+"correct_answer":"Apple",
+"incorrect_answers":[
+"Vegetable",
+"Tree",
+"Plant"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The use of “that’s it” and “that’s all” in the same conversation is an example of which type of lexical cohesion?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Repetition",
+"Antonymy",
+"Substitution"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The phrase “I’ll need your help later, can you assist me?” demonstrates which form of lexical cohesion?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Collocation",
+"Repetition",
+"Substitution"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a hyponym of \\"furniture\\"?",
+"correct_answer":"Couch",
+"incorrect_answers":[
+"House",
+"Room",
+"Living room"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a hyponym of \\"vehicle\\"?",
+"correct_answer":"All of the above",
+"incorrect_answers":[
+"Car",
+"Bus",
+"Train"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The phrase “strong coffee” is an example of which lexical cohesion device?",
+"correct_answer":"Collocation",
+"incorrect_answers":[
+"Substitution",
+"Synonymy",
+"Antonymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence “I can’t find my keys. I’ve looked everywhere” uses what type of lexical cohesion?",
+"correct_answer":"Repetition",
+"incorrect_answers":[
+"Substitution",
+"Synonymy",
+"Antonymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a key difference between spoken and written discourse?",
+"correct_answer":"Written discourse is typically more formal and permanent than spoken discourse.",
+"incorrect_answers":[
+"Spoken discourse is more structured than written discourse.",
+"Spoken discourse avoids the use of punctuation.",
+"Written discourse always involves multiple speakers."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the typical feature of spoken discourse?",
+"correct_answer":"Informality and spontaneity",
+"incorrect_answers":[
+"Consistent spelling and grammar",
+"Complex sentence structures",
+"Extensive use of punctuation"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following features is common in spoken discourse?",
+"correct_answer":"The use of contractions (e.g., \\"can't,\\" \\"won't\\")",
+"incorrect_answers":[
+"Complete sentences with no interruptions",
+"Formal language",
+"Organized paragraphs"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In which of the following contexts would you most likely find written discourse?",
+"correct_answer":"A newspaper article",
+"incorrect_answers":[
+"A conversation between two friends",
+"A casual phone call",
+"A public debate"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In spoken discourse, what is often used to maintain flow and indicate responses?",
+"correct_answer":"Fillers (e.g., \\"um,\\" \\"you know\\")",
+"incorrect_answers":[
+"Paragraph breaks",
+"Footnotes",
+"Footing markers"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a common characteristic of written discourse?",
+"correct_answer":"Greater planning and editing",
+"incorrect_answers":[
+"More spontaneous",
+"Less formal",
+"More use of informal speech markers"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the primary characteristic of formal written discourse?",
+"correct_answer":"It requires careful attention to grammar and syntax.",
+"incorrect_answers":[
+"It involves the use of slang and colloquialisms.",
+"It is usually spontaneous and unplanned.",
+"It avoids using standard punctuation."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is most likely to appear in spoken discourse but not in written discourse?",
+"correct_answer":"Contractions like “didn’t”",
+"incorrect_answers":[
+"Complex vocabulary",
+"Use of formal academic language",
+"Correct spelling and punctuation"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which element is crucial for coherence in spoken discourse?",
+"correct_answer":"The use of linking devices (e.g., \\"first,\\" \\"next\\")",
+"incorrect_answers":[
+"Transitions between paragraphs",
+"Extensive footnotes",
+"A formal introduction and conclusion"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is a common feature of written discourse that spoken discourse often lacks?",
+"correct_answer":"Complex sentence structures",
+"incorrect_answers":[
+"Repetition",
+"Informal tone",
+"Fillers such as \\"um\\" or \\"uh\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the \\"form\\" of a sentence?",
+"correct_answer":"The physical structure, including words, phrases, and punctuation",
+"incorrect_answers":[
+"The sentence’s meaning or message",
+"The underlying thought or idea expressed",
+"The relationship between the subject and the predicate"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does the \\"function\\" of a sentence refer to?",
+"correct_answer":"The intended purpose or role of the sentence in communication",
+"incorrect_answers":[
+"The grammatical structure used in the sentence",
+"The number of clauses in the sentence",
+"The physical presentation of the sentence"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"She asked him to leave,\\" the verb \\"asked\\" is performing which function?",
+"correct_answer":"A request function",
+"incorrect_answers":[
+"An interrogative function",
+"An imperative function",
+"A declarative function"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is an example of a performative function of language?",
+"correct_answer":"\\"I promise to help you.\\"",
+"incorrect_answers":[
+"\\"I am going to the store.\\"",
+"\\"The book is on the table.\\"",
+"\\"He asked a question.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which type of function does the sentence \\"Can you help me?\\" primarily serve?",
+"correct_answer":"Interrogative function",
+"incorrect_answers":[
+"Informative function",
+"Imperative function",
+"Exclamatory function"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What kind of function does the sentence \\"Please close the door\\" perform?",
+"correct_answer":"A command",
+"incorrect_answers":[
+"A question",
+"A statement",
+"A request"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences uses language in an informative function?",
+"correct_answer":"\\"She lives in Paris.\\"",
+"incorrect_answers":[
+"\\"Shut the door!\\"",
+"\\"It’s really hot today!\\"",
+"\\"Where is my book?\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “I’m sorry for being late,” the phrase \\"I’m sorry\\" is performing which function?",
+"correct_answer":"An apology",
+"incorrect_answers":[
+"A command",
+"A question",
+"A statement of fact"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “He didn’t like the movie, did he?” the tag question \\"did he?\\" serves which function?",
+"correct_answer":"To confirm information",
+"incorrect_answers":[
+"To request information",
+"To give an order",
+"To make a statement"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “She is a good student,” what is the grammatical function of the word \\"good\\"?",
+"correct_answer":"Adjective",
+"incorrect_answers":[
+"Object",
+"Verb",
+"Subject"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence “I like fruits, especially oranges” uses what type of lexical cohesion?",
+"correct_answer":"hyponymy",
+"incorrect_answers":[
+"synonymy",
+"antonymy",
+"repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence contains a subject-verb agreement error?",
+"correct_answer":"\\"They goes to the gym every day.\\"",
+"incorrect_answers":[
+"\\"She goes to the gym every day.\\"",
+"\\"He likes reading books.\\"",
+"\\"We play soccer on the weekends.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is an example of pragmatics in language use?",
+"correct_answer":"How context affects the interpretation of meaning",
+"incorrect_answers":[
+"The study of word origins",
+"The literal meaning of a word",
+"The grammatical rules of word order"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of ellipsis in discourse?",
+"correct_answer":"\\"He likes coffee, and she does too.\\"",
+"incorrect_answers":[
+"\\"I am going to the store.\\"",
+"\\"She was tired, so she went home.\\"",
+"\\"He ran quickly.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which type of cohesive device is used in the sentence: \\"John is tired; however, he still went to the meeting\\"?",
+"correct_answer":"Conjunction",
+"incorrect_answers":[
+"Substitution",
+"Pronoun reference",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The dog ran quickly across the park,\\" what is the Theme?",
+"correct_answer":"The dog",
+"incorrect_answers":[
+"Ran quickly",
+"Across the park",
+"Quickly"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"At the party, I met some old friends,\\" what is the Rheme?",
+"correct_answer":"Some old friends",
+"incorrect_answers":[
+"Met",
+"I",
+"At the party"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"Although it was raining, they went for a walk,\\" what is the Theme?",
+"correct_answer":"Although it was raining",
+"incorrect_answers":[
+"They",
+"Went",
+"For a walk"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"After finishing her homework, Emily watched a movie,\\" what is the Rheme?",
+"correct_answer":"A movie",
+"incorrect_answers":[
+"Watched",
+"Emily",
+"After finishing her homework"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"Next week, I will travel to Paris,\\" what is the Rheme?",
+"correct_answer":"To Paris",
+"incorrect_answers":[
+"Will travel",
+"I",
+"Next week"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is a text?",
+"correct_answer":"a piece of spoken or written language",
+"incorrect_answers":[
+"speech",
+"collocations",
+"phrasal verbs, idioms"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"May a text consist of one word?",
+"correct_answer":"Yes, it may e.g. Danger! (written on a warning sign)",
+"incorrect_answers":[
+"No, it may not",
+"No, it may consist of several words",
+"I don’t know"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"How many tools of cohesion do you know?",
+"correct_answer":"5",
+"incorrect_answers":[
+"2",
+"1",
+"3"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Fill in the gaps. Tools of Cohesion are….",
+"correct_answer":"1. Reference Substitution Ellipsis Conjunction Lexical items",
+"incorrect_answers":[
+"1. Sentence Words Sounds",
+"1. Phonemes Morphemes Syntax",
+"1. Lexis Phrasal verbs Grammar"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"How many reference items can be identified?",
+"correct_answer":"2",
+"incorrect_answers":[
+"1",
+"10",
+"15"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Fill in the gaps. Reference items may be….",
+"correct_answer":"anaphoric and cataphoric",
+"incorrect_answers":[
+"anaphoric",
+"cataphoric",
+"idioms"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is Anaphoric Reference?",
+"correct_answer":"anaphoric reference signifies a word or a phrase that refers to another word or phrase used earlier in the text",
+"incorrect_answers":[
+"anaphoric reference is words and phrases used in the sentence",
+"anaphoric reference is the mean of communication",
+"anaphoric reference is a branch of language"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct sentence with anaphoric reference.",
+"correct_answer":"Mr.Wilson was very kind person and he liked children very much",
+"incorrect_answers":[
+"I want to buy a black car",
+"Ann works very hard every day",
+"My mother doesn’t drink coffee"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct sentence with cataphoric reference.",
+"correct_answer":"When I told him, Bill didn’t really believe me",
+"incorrect_answers":[
+"I finished the task",
+"She didn’t visit us yesterday",
+"Stop telling nonsense"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct examples of temporal conjunctions.",
+"correct_answer":"after, while, when,meanwhile, before, then, after that, an hour later,finally, at last, at once",
+"incorrect_answers":[
+"because,of,at,on,in",
+"in addition to, because of",
+"no matter why,at the end"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct sentence with temporal conjunctions.",
+"correct_answer":"Mr. Hiram bought a new house. Then his family came to England from America.",
+"incorrect_answers":[
+"Mrs.Hiram was very beautiful lady and very young too.",
+"Because of snow I can’t go to school.",
+"In addition to his speech, I want to add something."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct examples of Causal conjunctions.",
+"correct_answer":"because, so, then, therefore,nevertheless, thus,hence,consequently, for this reason, it follows that",
+"incorrect_answers":[
+"after, while, when,meanwhile, before, then, after that, an hour later,finally, at last, at once",
+"then, after that, an hour later",
+"finally, at last, at once"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct sentence with causal conjunctions",
+"correct_answer":"Rain started to fall, so the family went inside the house quickly.",
+"incorrect_answers":[
+"You should come in time for the lessons.",
+"It is too late for apologizing.",
+"I must learn it by heart."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct examples of Additive conjunction.",
+"correct_answer":"and, and also, in addition, moreover, or, or else, further, further more, additionally, for instance, alternatively, by the way, in other words, in same way",
+"incorrect_answers":[
+"because, so, then, therefore, nevertheless",
+"thus,hence, consequently, for this reason, it follows that",
+"after, while, when, meanwhile, before, then, after that"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct sentence with Additive conjunction.",
+"correct_answer":"No one has put ghost in museum. And you haven’t seen this ghost either.",
+"incorrect_answers":[
+"My father has to work harder because of this project.",
+"Ann should consult a doctor.",
+"Stop talking!"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct examples of Adversative conjunction.",
+"correct_answer":"but, however, in any case only, instead, yet, on the other hand, despite this, on the contrary, in fact, anyhow, though, nevertheless",
+"incorrect_answers":[
+"and, and also, in addition, moreover, or, or else, further, further more",
+"additionally, for instance, alternatively",
+"by the way, in other words, in same way"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct sentence with Adversative conjunction.",
+"correct_answer":"“Yes, I will’ said James. ‘But, please remember, I told you about the garden before you bought the house”.",
+"incorrect_answers":[
+"Tomorrow it may rain.",
+"And I was there with him.",
+"By the way, you must be glad to hear it."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What are the main kinds of Lexical cohesion?",
+"correct_answer":"The main kinds of lexical cohesion are repetition, synonymy, antonymy, hyponymy, meronymy, and collocation.",
+"incorrect_answers":[
+"Parts of speech",
+"Ellipsis, conjunction",
+"Grammar, syntax"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is repetition?",
+"correct_answer":"Repetition refers to words that are repeated in the text, as well as words that have changed to reflect tense or number such as feel and felt, feeling and feelings.",
+"incorrect_answers":[
+"It is used for expressing thoughts.",
+"It is one part of speech.",
+"It is widely used in English."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is synonymy?",
+"correct_answer":"Synonymy refers to the relationship between words that are similar to meaning such as beautiful and pretty.",
+"incorrect_answers":[
+"It is one way for using words.",
+"It is words with opposite meaning.",
+"It is words with similar pronunciation."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is antonymy?",
+"correct_answer":"Antonymy refers to opposite meaning such as good and bad, happy and sad.",
+"incorrect_answers":[
+"It is words with similar pronunciation.",
+"It is one way for using words.",
+"It is not used in English."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is “form”?",
+"correct_answer":"“form” refers to the category labels we use for the building blocks of grammar, i.e. word classes, phrases, and clauses",
+"incorrect_answers":[
+"form is the shape",
+"it is used for simple sentences",
+"it is not a sentence"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the function (explanation) of “could” in the sentence “Could you open the window?”",
+"correct_answer":"requesting",
+"incorrect_answers":[
+"persuading",
+"answering",
+"stopping"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the function (explanation) of “could” in the sentence “He could be late”",
+"correct_answer":"uncertainty/possibility",
+"incorrect_answers":[
+"requesting",
+"asking",
+"persuading"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the function (explanation) of “could” in the sentence “When he was 7, he could ride a bike.”",
+"correct_answer":"past ability",
+"incorrect_answers":[
+"asking",
+"uncertainty/possibility",
+"commanding"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the function of these different forms? “What are your interests?” “What are you interested in?” “Are you keen on …?” “Are you a fan of …?” “Doyou find… interesting?”",
+"correct_answer":"Asking if someone is interested",
+"incorrect_answers":[
+"Asking about weather",
+"Asking about feeling",
+"Asking about health"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct form of the function- “to show concern”.",
+"correct_answer":"Are you hurt?",
+"incorrect_answers":[
+"I am very glad to see you.",
+"How are you doing?",
+"Where are you going?"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct form of the function- “to blame”",
+"correct_answer":"The police are not doing their duty.",
+"incorrect_answers":[
+"You are right.",
+"There are too many cars on the road.",
+"The road should be widened."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct form of the function- “to plead”",
+"correct_answer":"Please postpone the exam until next week,sir.",
+"incorrect_answers":[
+"What a bad day!",
+"I hope tomorrow is a holiday.",
+"I am coming."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct form of the function- “to advise”",
+"correct_answer":"Don’t drink iced water.",
+"incorrect_answers":[
+"What a pity!",
+"I am afraid to go out.",
+"Stop shouting!"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct form of the function- “to express pleasure”",
+"correct_answer":"It is nice to see you.",
+"incorrect_answers":[
+"How do you do?",
+"Where are you going?",
+"What a surprise!"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct function of the form- “you should call a doctor”",
+"correct_answer":"To express concern",
+"incorrect_answers":[
+"To tell the truth",
+"To show emotion",
+"To persuade"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct function of the form- “Nonsense. I did not do so.”",
+"correct_answer":"To deny",
+"incorrect_answers":[
+"To ask",
+"To request",
+"To stop"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find the correct function of the form- “never give up!”",
+"correct_answer":"To encourage",
+"incorrect_answers":[
+"To deny",
+"To answer",
+"To command"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What are discourse markers?",
+"correct_answer":"Discourse markers are words or phrases that are used to connect, organize, and manage sentences and paragraphs.",
+"incorrect_answers":[
+"They are ordinary words.",
+"They are phrasal verbs and idioms.",
+"They are sentences related to each other."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Where can discourse markers be used in the sentence?",
+"correct_answer":"At the start, middle or end of the sentences or paragraphs",
+"incorrect_answers":[
+"Only at the start of the sentences or paragraphs",
+"Only at the middle of the sentences or paragraphs",
+"Only at the end of the sentences or paragraphs"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Why do we use discourse markers?",
+"correct_answer":"They are often used to link ideas and create fluency.",
+"incorrect_answers":[
+"They are used for creating new ideas.",
+"They are not used in the sentence.",
+"They are parts of speech."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Fill in the gaps. We use such discourse markers as……… to add information",
+"correct_answer":"and,too,also,moreover, in addition,furthermore",
+"incorrect_answers":[
+"first,second,third",
+"why,where,what",
+"because, therefore, hence"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to show similarities.",
+"correct_answer":"similarly, in the same way, likewise, equally",
+"incorrect_answers":[
+"and,too,also, moreover",
+"because, therefore, hence",
+"first,second,third"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to emphasize.",
+"correct_answer":"especially,clearly, particularly, above all,frequently",
+"incorrect_answers":[
+"and,so,because",
+"in addition, furthermore",
+"likewise, equally"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to conclude.",
+"correct_answer":"in summary, overall, to sum up, finally, in conclusion",
+"incorrect_answers":[
+"especially,clearly, particularly",
+"and,so,because",
+"in addition, furthermore"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to sequence events.",
+"correct_answer":"first,second,third,after, next,later,then",
+"incorrect_answers":[
+"finally, in conclusion",
+"in addition, furthermore",
+"especially, clearly, particularly"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to contrast.",
+"correct_answer":"However,although,but, alternatively,on the other hand",
+"incorrect_answers":[
+"Firstly,secondly, then",
+"Just,now,yesterday",
+"During,at the same time"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to show cause and effect.",
+"correct_answer":"because,hence, therefore, consequently,as a result",
+"incorrect_answers":[
+"alternatively,on the other hand",
+"and,but,after",
+"after,before,to sum up"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Find correct discourse markers which are used to illustrate.",
+"correct_answer":"For example, including, for instance, such as, to illustrate",
+"incorrect_answers":[
+"alternatively,on the other hand",
+"because,hence, therefore",
+"after,before,to sum up"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is discourse analysis primarily concerned with?",
+"correct_answer":"The interpretation of spoken and written communication",
+"incorrect_answers":[
+"The structure of words",
+"The study of grammar",
+"The history of language"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is NOT a common focus of discourse analysis?",
+"correct_answer":"Phonetics and pronunciation",
+"incorrect_answers":[
+"Power dynamics in communication",
+"Context of language use",
+"Social identities"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which term describes the relationship between sentences and how they reference or influence each other?",
+"correct_answer":"cohesion",
+"incorrect_answers":[
+"grammar rules",
+"syntax",
+"ellipsis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of these is a common element analyzed in discourse?",
+"correct_answer":"Context and meaning",
+"incorrect_answers":[
+"Punctuation",
+"Sentence grammar",
+"Alphabetical order"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does \\"intertextuality\\" refer to?",
+"correct_answer":"How texts relate to and influence each other",
+"incorrect_answers":[
+"The rules of grammar",
+"The use of images in sentence",
+"The study of different languages"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is an ellipsis commonly used for in writing?",
+"correct_answer":"to show that words have been left out",
+"incorrect_answers":[
+"to make sentences longer",
+"to replace punctuation marks",
+"to start a new paragraph"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is an ellipsis in language?",
+"correct_answer":"a way of leaving out words when they are understood",
+"incorrect_answers":[
+"a type of punctuation mark",
+"a synonym for alliteration",
+"a new word creation"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"I want to go, but I can't,\\" what is missing after \\"can't\\"?",
+"correct_answer":"go",
+"incorrect_answers":[
+"eat",
+"play",
+"read"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence shows the use of ellipsis correctly?.",
+"correct_answer":"I can run and he can too.",
+"incorrect_answers":[
+"I can run he can too.",
+"I run he run.",
+"Running is fun"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does ellipsis help with in writing?",
+"correct_answer":"making sentences shorter",
+"incorrect_answers":[
+"adding more words",
+"making sentences longer",
+"changing sentence meaning"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Why do we use ellipsis?",
+"correct_answer":"to avoid repetition",
+"incorrect_answers":[
+"to confuse the reader",
+"to highlight a word",
+"to change the subject"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does ellipsis often replace in a sentence?",
+"correct_answer":"words that are clear from context",
+"incorrect_answers":[
+"important new information",
+"unrelated ideas",
+"definitions"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which pair of sentences correctly uses ellipsis?",
+"correct_answer":"he can swim; she can too.",
+"incorrect_answers":[
+"he swim; she swim.",
+"he swim she does too.",
+"he swim and she swim."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"When using ellipsis, what is important about the omitted words?",
+"correct_answer":"they must be easily understood",
+"incorrect_answers":[
+"they must be hidden",
+"they must be ignored",
+"they must be irrelevant"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In conversation, why might someone use ellipsis?",
+"correct_answer":"to save time",
+"incorrect_answers":[
+"to confuse others",
+"to sound complicated",
+"to avoid talking"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence has an example of ellipsis?",
+"correct_answer":"I went to the store, she didn't.",
+"incorrect_answers":[
+"I store went.",
+"Store went I.",
+"I the store, she did."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What effect does ellipsis have on writing?",
+"correct_answer":"it makes it concise",
+"incorrect_answers":[
+"it makes it longer",
+"it makes it detailed",
+"it makes it confusing"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence demonstrates ellipsis?",
+"correct_answer":"I like pizza, and she does too.",
+"incorrect_answers":[
+"I pizza like, she pizza like.",
+"I pizza she too like.",
+"Like pizza I she does."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is substitution in discourse analysis?",
+"correct_answer":"replacing a word or phrase with another",
+"incorrect_answers":[
+"adding a new sentence",
+"changing the topic completely",
+"repeating the same word"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word can substitute \\"book\\" in the sentence \\"I have finished the book\\"?",
+"correct_answer":"it",
+"incorrect_answers":[
+"she",
+"they",
+"we"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"John likes apples. He eats them every day,\\" what does \\"them\\" substitute for?",
+"correct_answer":"apples",
+"incorrect_answers":[
+"John",
+"likes",
+"eats"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Do you want tea or coffee?\\" \\"I'll have the latter.\\" What does \\"the latter\\" substitute for?",
+"correct_answer":"coffee",
+"incorrect_answers":[
+"tea",
+"water",
+"juice"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does the word \\"one\\" substitute for in the sentence, \\"I need a pen. Do you have one?\\"",
+"correct_answer":"pen",
+"incorrect_answers":[
+"need",
+"do",
+"have"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The students read books, and the teachers do too,\\" what does \\"do\\" substitute for?",
+"correct_answer":"read books",
+"incorrect_answers":[
+"students",
+"teachers",
+"books"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word can substitute \\"chocolates\\" in the sentence \\"She loves chocolates, and I love them too\\"?",
+"correct_answer":"them",
+"incorrect_answers":[
+"she",
+"I",
+"love"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"I have two cats. Both are black.\\" What does \\"both\\" substitute for?",
+"correct_answer":"two cats",
+"incorrect_answers":[
+"black",
+"I have",
+"cats"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"Jack is tall, and so is his brother,\\" what does \\"so\\" substitute for?",
+"correct_answer":"tall",
+"incorrect_answers":[
+"Jack",
+"brother",
+"is"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Would you like tea or coffee? I'll take the former.\\" What does \\"the former\\" substitute for?",
+"correct_answer":"tea",
+"incorrect_answers":[
+"coffee",
+"juice",
+"milk"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The apples are fresh. I will take some,\\" what does \\"some\\" substitute for?",
+"correct_answer":"apples",
+"incorrect_answers":[
+"fresh",
+"take",
+"will"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word can substitute \\"the car\\" in the sentence \\"I like the car, and I want it\\"?",
+"correct_answer":"it",
+"incorrect_answers":[
+"like",
+"want",
+"the"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"She has two dogs. Each is friendly.\\" What does \\"each\\" substitute for?",
+"correct_answer":"two dogs",
+"incorrect_answers":[
+"she",
+"friendly",
+"has"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"I have a red pen, and you have a blue one,\\" what does \\"one\\" substitute for?",
+"correct_answer":"pen",
+"incorrect_answers":[
+"red",
+"blue",
+"have"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Beth is smart, and so is Amy.\\" What does \\"so\\" substitute for?",
+"correct_answer":"smart",
+"incorrect_answers":[
+"Beth",
+"Amy",
+"is"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word can substitute \\"movies\\" in the sentence \\"She watches movies, and I watch them too\\"?",
+"correct_answer":"them",
+"incorrect_answers":[
+"she",
+"I",
+"watch"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Do you prefer summer or winter?\\" \\"I like the latter.\\" What does \\"the latter\\" substitute for?",
+"correct_answer":"winter",
+"incorrect_answers":[
+"summer",
+"spring",
+"fall"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The books are new. I will buy some,\\" what does \\"some\\" substitute for?",
+"correct_answer":"books",
+"incorrect_answers":[
+"new",
+"buy",
+"will"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word can substitute \\"cake\\" in the sentence \\"He baked a cake, and I want it\\"?",
+"correct_answer":"it",
+"incorrect_answers":[
+"baked",
+"want",
+"he"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Lucy is tired, and so is Chris.\\" What does \\"so\\" substitute for?",
+"correct_answer":"tired",
+"incorrect_answers":[
+"Lucy",
+"Chris",
+"is"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which conjunction is used to show contrast between two ideas?",
+"correct_answer":"although",
+"incorrect_answers":[
+"because",
+"if",
+"unless"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Identify the conjunction used to indicate addition or continuation.",
+"correct_answer":"furthermore",
+"incorrect_answers":[
+"however",
+"despite",
+"nevertheless"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Choose the conjunction that introduces a reason or cause.",
+"correct_answer":"since",
+"incorrect_answers":[
+"yet",
+"therefore",
+"nonetheless"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which conjunction is used to introduce a condition?",
+"correct_answer":"if",
+"incorrect_answers":[
+"whereas",
+"moreover",
+"consequently"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a subordinating conjunction expressing time?",
+"correct_answer":"when",
+"incorrect_answers":[
+"but",
+"nor",
+"or"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Identify the conjunction that indicates an alternative.",
+"correct_answer":"or",
+"incorrect_answers":[
+"instead",
+"despite",
+"while"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which conjunction would you use to show an unexpected result?",
+"correct_answer":"yet",
+"incorrect_answers":[
+"so",
+"and",
+"for"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Choose the conjunction that introduces a purpose.",
+"correct_answer":"so that",
+"incorrect_answers":[
+"unless",
+"although",
+"whereas"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which conjunction indicates a comparison?",
+"correct_answer":"as",
+"incorrect_answers":[
+"besides",
+"thus",
+"until"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Identify the conjunction that signals a concession.",
+"correct_answer":"even though",
+"incorrect_answers":[
+"because",
+"hence",
+"therefore"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which conjunction is used to add emphasis to a statement?",
+"correct_answer":"indeed",
+"incorrect_answers":[
+"since",
+"once",
+"as soon as"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Choose the conjunction that indicates a sequential relationship.",
+"correct_answer":"then",
+"incorrect_answers":[
+"despite",
+"unless",
+"therefore"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Choose the conjunction that introduces a result.",
+"correct_answer":"consequently",
+"incorrect_answers":[
+"since",
+"despite",
+"even though"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of anaphoric reference?",
+"correct_answer":"John is tired, but he will still go to the gym.",
+"incorrect_answers":[
+"John went to the gym",
+"John was tired when arrived at the gym.",
+"John went to the gym because of the rain"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does the term \\"reference\\" in linguistics refer to?",
+"correct_answer":"The relationship between linguistic elements and the real world",
+"incorrect_answers":[
+"The structure of a sentence",
+"The grammatical order of words in a sentence",
+"The number of words used in a sentence"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"Mary said that she would come,\\" \\"she\\" is an example of:",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Exophoric reference",
+"Cataphoric reference",
+"Deictic reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which is an example of exophoric reference?",
+"correct_answer":"\\"This is delicious.\\"",
+"incorrect_answers":[
+"\\"The car is broken.\\"",
+"\\"He doesn't like it.\\"",
+"\\"She was there when I called.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of reference is used in the sentence \\"She asked for it yesterday\\" when referring to an object previously mentioned?",
+"correct_answer":"Endophoric reference",
+"incorrect_answers":[
+"Exophoric reference",
+"Deictic reference",
+"Cataphoric reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the purpose of a demonstrative pronoun like \\"this\\" or \\"those\\"?",
+"correct_answer":"To refer to something close or far in space or time",
+"incorrect_answers":[
+"To replace a noun with a generic term",
+"To indicate a subject or object",
+"To show possession"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence “Tom didn’t arrive because he missed the bus” contains an example of:",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Deictic reference",
+"Exophoric reference",
+"Cataphoric reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"When John arrived, he noticed the door was open,\\" what is the role of \\"he\\"?",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Deictic reference",
+"Cataphoric reference",
+"Exophoric reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"This book is really good,\\" the word \\"this\\" is an example of:",
+"correct_answer":"Deictic reference",
+"incorrect_answers":[
+"Anaphora",
+"Exophora",
+"Cataphora"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of reference is illustrated by the sentence “I saw Tom yesterday. He was at the store”?",
+"correct_answer":"Anaphoric",
+"incorrect_answers":[
+"Deictic",
+"Exophoric",
+"Cataphoric"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of these is a cataphoric reference?",
+"correct_answer":"\\"It was raining heavily, and she couldn’t go out. Jane was upset.\\"",
+"incorrect_answers":[
+"\\"The book was lying on the table. It was open.\\"",
+"\\"She wanted to buy a new dress, but it was too expensive.\\"",
+"\\"John didn’t come. He was late.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"I heard she was looking for you,\\" \\"she\\" refers to someone mentioned earlier, which is an example of:",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Exophoric reference",
+"Cataphoric reference",
+"Deictic reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does it mean when a reference is exophoric?",
+"correct_answer":"It refers to something outside the text",
+"incorrect_answers":[
+"It refers to something within the text",
+"It replaces a noun",
+"It shows possession"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"She loves the song, but she’s tired of hearing it,\\" what does the second \\"she\\" refer to?",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Exophoric reference",
+"Cataphoric reference",
+"Deictic reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does “he” in \\"He walked into the room and sat down\\" refer to?",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Exophoric reference",
+"Cataphoric reference",
+"Deictic reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences contains an exophoric reference?",
+"correct_answer":"\\"That dog barked loudly.\\"",
+"incorrect_answers":[
+"\\"We saw a dog.\\"",
+"\\"A dog barked loudly.\\"",
+"\\"A dog barked loudly because it was scared.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"I cannot find my keys. Have you seen them?\\" What type of reference is \\"them\\"?",
+"correct_answer":"Anaphoric reference",
+"incorrect_answers":[
+"Cataphoric reference",
+"Exophoric reference",
+"Deictic reference"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of reference is used in the sentence \\"Before I go, I need to finish this project\\"?",
+"correct_answer":"Cataphoric",
+"incorrect_answers":[
+"Anaphoric",
+"Exophoric",
+"Deictic"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"Tom will arrive soon. He is on his way,\\" the word \\"He\\" is:",
+"correct_answer":"Anaphoric",
+"incorrect_answers":[
+"Exophoric",
+"Cataphoric",
+"Deictic"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"That was unexpected,\\" said Susan. In this sentence, \\"That\\" refers to:",
+"correct_answer":"Something mentioned earlier in the text",
+"incorrect_answers":[
+"Something not mentioned in the text",
+"A new topic not referenced yet",
+"A verb"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is substitution in grammar?",
+"correct_answer":"Replacing one word with another",
+"incorrect_answers":[
+"Repeating the same word in a sentence",
+"Using a synonym for a noun",
+"Replacing a phrase or word with a different grammatical structure"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The phrase \\"I bought a new book and she did too\\" uses substitution for:",
+"correct_answer":"The verb \\"bought\\"",
+"incorrect_answers":[
+"The noun \\"book\\"",
+"The subject \\"she\\"",
+"The adverb \\"too\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"I can’t play the piano, but my brother can,\\" what is \\"can\\" an example of?",
+"correct_answer":"Substitution",
+"incorrect_answers":[
+"Lexical cohesion",
+"Reference",
+"Anaphora"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"I love pizza, and you do too,\\" \\"do\\" is an example of:",
+"correct_answer":"Substitution",
+"incorrect_answers":[
+"Anaphora",
+"Reference",
+"Coherence"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of substitution is used in the sentence \\"Tom plays the piano, and Sarah does too\\"?",
+"correct_answer":"Verbal substitution",
+"incorrect_answers":[
+"Nominal substitution",
+"Clausal substitution",
+"Adverbial substitution"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence uses substitution to avoid repeating the verb \\"eat\\"?",
+"correct_answer":"\\"I eat pizza every day, and I do too.\\"",
+"incorrect_answers":[
+"\\"I eat pizza every day, and I also eat pasta.\\"",
+"\\"I eat pizza every day, and I love pasta.\\"",
+"\\"I eat pizza every day, and I do pasta too”"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence “I will go to the park, and you will too” contains which kind of substitution?",
+"correct_answer":"Verbal",
+"incorrect_answers":[
+"Nominal",
+"Adverbial",
+"Clausal"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does substitution do in grammar?",
+"correct_answer":"Replaces one word with another without changing the sentence’s meaning",
+"incorrect_answers":[
+"Clarifies sentence structure",
+"Removes unnecessary words",
+"Changes the tense of verbs"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"I don’t think I’ll go, but Sarah will.\\" What type of substitution is “will” in this sentence?",
+"correct_answer":"Verbal substitution",
+"incorrect_answers":[
+"Nominal substitution",
+"Adverbial substitution",
+"Clausal substitution"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences does NOT use substitution?",
+"correct_answer":"\\"She sings well, and he sings well too.\\"",
+"incorrect_answers":[
+"\\"I want an apple, but she doesn’t.\\"",
+"\\"He’s leaving now, and she is too.\\"",
+"\\"They don’t like it, and we don’t either.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the function of substitution in a sentence like \\"I can’t stand it, and neither can you\\"?",
+"correct_answer":"To avoid repetition of the verb \\"can\\"",
+"incorrect_answers":[
+"To introduce a new subject",
+"To emphasize a previous action",
+"To add more detail"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"He liked it, and she did too,\\" what is “did” an example of?",
+"correct_answer":"Substitution",
+"incorrect_answers":[
+"Reference",
+"Deixis",
+"Anaphora"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following uses nominal substitution?",
+"correct_answer":"\\"I don't like this dress, but I do like that one.\\"",
+"incorrect_answers":[
+"\\"He bought the book\\"",
+"\\"She’s a good player.\\"",
+"\\"I’ll go there, and you’ll go there too.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In \\"I read the book, and she did too,\\" what is the function of \\"did\\"?",
+"correct_answer":"To substitute for the verb",
+"incorrect_answers":[
+"To substitute for the noun",
+"To provide clarification",
+"To substitute for a pronoun"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences does NOT use substitution?",
+"correct_answer":"\\"I saw it, and you did also.\\"",
+"incorrect_answers":[
+"\\"I will go, and she will too.\\"",
+"\\"I like coffee, and you do too.\\"",
+"\\"I saw the movie, and he saw it too.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"We don’t need any help, but they do,\\" the word \\"do\\" is an example of:",
+"correct_answer":"Verbal substitution",
+"incorrect_answers":[
+"Nominal substitution",
+"Adverbial substitution",
+"Clausal substitution"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following examples shows substitution of a clause?",
+"correct_answer":"\\"He ran fast, and so did she.\\"",
+"incorrect_answers":[
+"\\"I like pizza, and she does too.”",
+"\\"I enjoy singing, but she doesn’t.\\"",
+"\\"I saw him, but you didn’t.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence “I haven’t done it, but you have” uses substitution to avoid repeating which word?",
+"correct_answer":"Done",
+"incorrect_answers":[
+"It",
+"Have",
+"You"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is ellipsis in grammar?",
+"correct_answer":"The omission of one or more words that are understood from context",
+"incorrect_answers":[
+"A method of referring to things",
+"A punctuation mark indicating an omission",
+"Repetition of words"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"I like chocolate, and she does too,\\" what type of ellipsis is used?",
+"correct_answer":"Verb ellipsis",
+"incorrect_answers":[
+"Nominal ellipsis",
+"Adverbial ellipsis",
+"Clausal ellipsis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence demonstrates the use of ellipsis to avoid repetition?",
+"correct_answer":"\\"She likes ice cream, and I do too.\\"",
+"incorrect_answers":[
+"\\"She likes ice cream.\\"",
+"\\"She likes ice cream, but I do not like it.\\"",
+"\\"She likes ice cream, and I do like it.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"We visited Paris, and they visited Rome,\\" what could be omitted using ellipsis?",
+"correct_answer":"The word \\"visited\\" after \\"they\\"",
+"incorrect_answers":[
+"The verb \\"visited\\"",
+"The word \\"Paris\\"",
+"The word \\"they\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of ellipsis is used in the sentence \\"I want a sandwich, but I don’t want soup\\"?",
+"correct_answer":"Verbal ellipsis",
+"incorrect_answers":[
+"Nominal ellipsis",
+"Clausal ellipsis",
+"Adverbial ellipsis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"He can sing, and I can too.\\" The ellipsis in this sentence is:",
+"correct_answer":"Verbal ellipsis",
+"incorrect_answers":[
+"Nominal ellipsis",
+"Adverbial ellipsis",
+"Clausal ellipsis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which sentence demonstrates ellipsis in a clause?",
+"correct_answer":"\\"She went to the store, and he did too.\\"",
+"incorrect_answers":[
+"\\"I can swim.\\"",
+"\\"We love this park.\\"",
+"\\"He can swim fast.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Ellipsis helps avoid:",
+"correct_answer":"Repetition of unnecessary words",
+"incorrect_answers":[
+"Creating new clauses",
+"Adding adjectives",
+"Long, complex sentences"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences uses ellipsis?",
+"correct_answer":"\\"I will go to the store, and so will she.\\"",
+"incorrect_answers":[
+"\\"I will go to the store.\\"",
+"\\"I will go to the store, and so she goes to the store.\\"",
+"\\"I will go to the store, and she goes to house.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"He likes ice cream, and I do too,\\" what part of the sentence is omitted?",
+"correct_answer":"The verb \\"like\\"",
+"incorrect_answers":[
+"The noun \\"ice cream\\"",
+"The subject \\"I\\"",
+"The auxiliary verb \\"do\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"Tom can play the guitar, and Jerry can too.\\" What is the ellipsis in this sentence?",
+"correct_answer":"\\"play the guitar\\"",
+"incorrect_answers":[
+"\\"can\\"",
+"\\"Jerry\\"",
+"\\"too\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"I’m going to the park, and she’s going too.\\" This sentence uses ellipsis to avoid:",
+"correct_answer":"Repeating the verb \\"going\\"",
+"incorrect_answers":[
+"Repeating the subject \\"she\\"",
+"Repeating the preposition \\"to\\"",
+"Repeating the noun \\"park\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which type of ellipsis is used in \\"I don’t know where she went, but I know where you went\\"?",
+"correct_answer":"Verbal ellipsis",
+"incorrect_answers":[
+"Nominal ellipsis",
+"Adverbial ellipsis",
+"Clausal ellipsis"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"The sentence \\"She loves reading books, and I do too\\" uses ellipsis in place of:",
+"correct_answer":"\\"loves reading\\"",
+"incorrect_answers":[
+"\\"She\\"",
+"\\"books\\"",
+"\\"do\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"He wanted the blue car, and she wanted the red one,\\" \\"one\\" is an example of:",
+"correct_answer":"Ellipsis",
+"incorrect_answers":[
+"Reference",
+"Cataphora",
+"Anaphora"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"\\"I like this one, and you like that one.\\" This sentence uses ellipsis to avoid repeating the noun:",
+"correct_answer":"\\"one\\"",
+"incorrect_answers":[
+"\\"like\\"",
+"\\"I\\"",
+"\\"that\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"She asked me to help her, and I did too,\\" what word is omitted via ellipsis?",
+"correct_answer":"\\"help\\"",
+"incorrect_answers":[
+"\\"asked\\"",
+"\\"I\\"",
+"\\"did\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences uses ellipsis correctly?",
+"correct_answer":"\\"I read the book, and she did too.\\"",
+"incorrect_answers":[
+"\\"I read the book.\\"",
+"\\"and she read it.\\"",
+"\\"I and she read a book.\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the purpose of ellipsis in the sentence \\"She sang the song, and he did too\\"?",
+"correct_answer":"To omit the verb \\"sing\\"",
+"incorrect_answers":[
+"To omit the subject \\"he\\"",
+"To avoid repetition of the verb \\"did\\"",
+"To omit the word \\"too\\""
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is lexical cohesion?",
+"correct_answer":"The use of specific vocabulary items to create connections within a text.",
+"incorrect_answers":[
+"The use of grammatical structures to link sentences.",
+"The use of punctuation to link sentences.",
+"The use of pronouns to create links between clauses."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of repetition in lexical cohesion?",
+"correct_answer":"She enjoys reading books, and she reads them daily.",
+"incorrect_answers":[
+"He walked to the store, and then he bought some milk.",
+"He quickly ran, and he didn’t stop.",
+"The sun set behind the mountains, and the stars appeared."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which type of lexical cohesion involves using words with similar meanings?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Collocation",
+"Antonymy",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a hyponym?",
+"correct_answer":"Dog",
+"incorrect_answers":[
+"Animal",
+"Fruit",
+"Furniture"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What does the term \\"collocation\\" refer to in lexical cohesion?",
+"correct_answer":"The relationship between words that frequently occur together.",
+"incorrect_answers":[
+"The use of antonyms in a sentence.",
+"The repetition of a word in a paragraph.",
+"The replacement of a word with a synonym."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a lexical cohesive device?",
+"correct_answer":"Synonyms",
+"incorrect_answers":[
+"Pronouns",
+"Conjunctions",
+"All of the above"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following pairs of words are synonyms?",
+"correct_answer":"Smart and intelligent",
+"incorrect_answers":[
+"Tall and short",
+"Happy and sad",
+"Walk and run"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word is a hyponym of \\"flower\\"?",
+"correct_answer":"Daisy",
+"incorrect_answers":[
+"Tree",
+"Garden",
+"Plant"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “The athlete was very fast. His speed was remarkable,” the word “speed” is an example of:",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Repetition",
+"Collocation",
+"Hyponymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of an antonymous relationship?",
+"correct_answer":"Good and bad",
+"incorrect_answers":[
+"Cat and dog",
+"Chair and table",
+"Apple and fruit"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the lexical cohesive relationship between the words \\"dog\\" and \\"canine\\"?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Collocation",
+"Hyponymy",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a type of lexical cohesion?",
+"correct_answer":"Lexical repetition",
+"incorrect_answers":[
+"Anaphora",
+"Ellipsis",
+"Subject-verb agreement"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “The boy grabbed the ball, and he ran to the field,” the word “he” is an example of:",
+"correct_answer":"Reference",
+"incorrect_answers":[
+"Repetition",
+"Synonymy",
+"Hyponymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is NOT an example of lexical cohesion?",
+"correct_answer":"The use of coordinating conjunctions",
+"incorrect_answers":[
+"Repetition of a key word",
+"Using antonyms",
+"Using synonyms"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following sentences contains a collocation?",
+"correct_answer":"She gave a strong argument.",
+"incorrect_answers":[
+"He ran quickly to the store.",
+"They had a heavy discussion.",
+"I need to read more books."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The city is large. It has many buildings,\\" the word \\"buildings\\" is an example of:",
+"correct_answer":"A hyponym",
+"incorrect_answers":[
+"A synonym",
+"A collocation",
+"A superordinate"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of lexical repetition?",
+"correct_answer":"She likes to paint, and she loves drawing too.",
+"incorrect_answers":[
+"He felt tired and wanted to sleep.",
+"The car was red and fast.",
+"The teacher asked the students to write the answer."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following best describes the relationship between \\"fish\\" and \\"salmon\\"?",
+"correct_answer":"Hyponymy",
+"incorrect_answers":[
+"Synonymy",
+"Collocation",
+"Antonymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the relationship between the words \\"cat\\" and \\"feline\\"?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Collocation",
+"Hyponymy",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the phrase \\"a big meal,\\" what type of lexical cohesion is demonstrated by \\"big\\" and \\"meal\\"?",
+"correct_answer":"Collocation",
+"incorrect_answers":[
+"Synonymy",
+"Repetition",
+"Hyponymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following pairs of words are part of a lexical chain?",
+"correct_answer":"Dog - cat - animal - pet",
+"incorrect_answers":[
+"Strong - tall - table",
+"Happy - sad - joyful - excited",
+"Chair - desk - office"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a lexical chain?",
+"correct_answer":"She studied biology, physics, and chemistry.",
+"incorrect_answers":[
+"The cat, which was black, ran fast.",
+"The teacher explained, and the student listened.",
+"The book was on the shelf next to the magazine."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of lexical substitution?",
+"correct_answer":"The company is successful; it has grown rapidly.",
+"incorrect_answers":[
+"The teacher explained the lesson to the students.",
+"The boy smiled because he was happy.",
+"We saw a movie, and then we went for dinner."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of lexical cohesion is shown by the words \\"hot\\" and \\"warm\\" in a sentence?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Hyponymy",
+"Collocation",
+"Antonymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a superordinate?",
+"correct_answer":"Fruit",
+"incorrect_answers":[
+"Car",
+"Dog",
+"Table"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"The scientist studied the theory, and he made a great discovery,\\" what is the relationship between \\"theory\\" and \\"discovery\\"?",
+"correct_answer":"Collocation",
+"incorrect_answers":[
+"Repetition",
+"Synonymy",
+"Hyponymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following demonstrates a collocation?",
+"correct_answer":"Fast runner",
+"incorrect_answers":[
+"Big shoe",
+"Large apple",
+"Heavy car"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “The dog barked loudly. It was very annoying,” the word “it” refers to:",
+"correct_answer":"Reference",
+"incorrect_answers":[
+"Collocation",
+"Repetition",
+"Hyponymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following pairs are antonyms?",
+"correct_answer":"Bright and dark",
+"incorrect_answers":[
+"Small and tiny",
+"Tall and large",
+"Fast and quick"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the relationship between \\"apple\\" and \\"fruit\\"?",
+"correct_answer":"Hyponymy",
+"incorrect_answers":[
+"Collocation",
+"Synonymy",
+"Antonymy"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a hyponym for the word \\"tree\\"?",
+"correct_answer":"Oak",
+"incorrect_answers":[
+"Plant",
+"Leaf",
+"Wood"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of repetition as a cohesive device?",
+"correct_answer":"The forest was quiet, and the birds sang peacefully.",
+"incorrect_answers":[
+"He enjoyed swimming, and he also loved running.",
+"The book was on the shelf, and the notebook was beside it.",
+"She ate her lunch quickly and went back to work."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a lexical relation involving superordinates?",
+"correct_answer":"Dog and animal",
+"incorrect_answers":[
+"Happiness and joy",
+"Fast and quick",
+"Large and small"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What is the lexical cohesive relationship between \\"hammer\\" and \\"tool\\"?",
+"correct_answer":"Hyponymy",
+"incorrect_answers":[
+"Collocation",
+"Synonymy",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is NOT an example of lexical cohesion?",
+"correct_answer":"Using conjunctions like \\"and\\" or \\"but\\"",
+"incorrect_answers":[
+"The repetition of words",
+"The use of synonyms",
+"Using pronouns to refer back to nouns"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which word is a hyponym of \\"vehicle\\"?",
+"correct_answer":"Car",
+"incorrect_answers":[
+"Transportation",
+"Ride",
+"Motor"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of lexical substitution?",
+"correct_answer":"The teacher explained the concept, and the students understood it.",
+"incorrect_answers":[
+"He bought the book and read it.",
+"She made dinner, and he set the table.",
+"They arrived at the station, and they waited for the train."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of lexical cohesion through collocation?",
+"correct_answer":"All of the above",
+"incorrect_answers":[
+"Fast car",
+"Big dog",
+"Healthy food"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence “She was always late. She never arrived on time,” the word \\"time\\" is an example of:",
+"correct_answer":"Repetition",
+"incorrect_answers":[
+"Hyponymy",
+"Synonymy",
+"Collocation"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"In the sentence \\"They visited the zoo and saw several lions,\\" the word \\"lions\\" is an example of:",
+"correct_answer":"Hyponymy",
+"incorrect_answers":[
+"Synonymy",
+"Collocation",
+"Repetition"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of using a superordinate to create lexical cohesion?",
+"correct_answer":"Car and vehicle",
+"incorrect_answers":[
+"Apple and pear",
+"Happy and sad",
+"Cat and dog"
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Which of the following examples shows a lexical chain?",
+"correct_answer":"The dog barked at the cat, which was sitting on the fence.",
+"incorrect_answers":[
+"She ran to the store and bought bread and eggs.",
+"He studied math and chemistry.",
+"The sky was blue, and the ocean was calm."
+],
+"category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"What type of lexical cohesion does the sentence “She drove the car fast. The car had excellent speed.” demonstrate?",
+"correct_answer":"Synonymy",
+"incorrect_answers":[
+"Collocation",
+"Repetition",
+"Hyponymy"
+],
+"category": "Discourse Analysis"
 }
 ]`
 
