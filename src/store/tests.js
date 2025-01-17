@@ -6180,12 +6180,2499 @@ const tests = `[
 "Hyponymy"
 ],
 "category": "Discourse Analysis"
+},
+{
+"difficulty": "-",
+"question":"Grammar is taught deductively in………",
+"correct_answer":"Grammar translation method",
+"incorrect_answers":[
+"Audio-lingual method",
+"Direct method",
+"Communicative method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Deductive approach is……",
+"correct_answer":"a traditional approach in which information about target language and rules are driven at the beginning of the class and continued with examples.",
+"incorrect_answers":[
+"involves the learners detecting, or noticing, patterns and working out a ‘rule’ for themselves before they practice the language.",
+"requires more than making students memorize lists of words, noun phrases, verbal phrases, prepositions, articles and other grammatical structures.",
+"It urges the implementation of effective and useful teaching methodologies to guide, help and induce students to visualize grammar as an efficient tool for transmitting their ideas in a clear and precise way."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Disadvantages of deductive approach…..",
+"correct_answer":"All answers are true",
+"incorrect_answers":[
+"It teaches grammar in an isolated way",
+"Little attention is paid to memory",
+"Practice is often mechanical"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An inductive approach ….",
+"correct_answer":"involves the learners to work out a ‘rule’ for themselves before they practise the language.",
+"incorrect_answers":[
+"a traditional approach in which information about target language and rules are driven at the beginning of the class and continued with examples",
+"requires more than making students memorize lists of words, noun phrases, verbal phrases, prepositions, articles and other grammatical structures.",
+"It urges the implementation of effective and useful teaching methodologies to guide, help and induce students to visualize grammar as an efficient tool for transmitting their ideas in a clear and precise way."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Advantages of inductive approach……",
+"correct_answer":"All answers are true",
+"incorrect_answers":[
+"rules learners discover for themselves are more likely to fit their existing mental structures than rules they have been presented with;",
+"the mental effort involved ensures a greater degree of cognitive depth which again, ensures greater memorability",
+"students are more actively involved in the learning process rather than being simply passive recipients"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Disadvantages of inductive approach",
+"correct_answer":"All answers are true",
+"incorrect_answers":[
+"the time and energy spent in working out rules may mislead students into believing that rules are the objective of language learning rather than a means.",
+"the time taken to work out a rule may be at the expense of time spent in putting the rule to some sort of productive practice.",
+"students may hypothesize the wrong rule, or their version of the rule may be either too broad or too narrow in its application."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Synonyms are …..",
+"correct_answer":"items that mean the same, or nearly the same; for example, bright, clever, smart may serve as synonyms of intelligent.",
+"incorrect_answers":[
+"items that mean the opposite; rich is an antonym of poor.",
+"items that serve as specific examples of a general concept; dog, lion, mouse are hyponyms of animal.",
+"general concepts that 'cover' specific items; animal is the superordinate of dog, lion, mouse."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Antonyms are….",
+"correct_answer":"items that mean the opposite; rich is an antonym of poor",
+"incorrect_answers":[
+"items that serve as specific examples of a general concept; dog, lion, mouse are hyponyms of animal.",
+"items that mean the same, or nearly the same; for example, bright, clever, smart may serve as synonyms of intelligent",
+"general concepts that 'cover' specific items; animal is the superordinate of dog, lion, mouse."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Hyponyms are…",
+"correct_answer":"items that serve as specific examples of a general concept; dog, lion, mouse are hyponyms of animal.",
+"incorrect_answers":[
+"items that mean the same, or nearly the same; for example, bright, clever, smart may serve as synonyms of intelligent.",
+"items that mean the opposite; rich is an antonym of poor.",
+"other items that are the 'same kind of thing'; red, blue, green and brown are co-ordinates"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Superordinate is….",
+"correct_answer":"general concepts that 'cover' specific items; animal is the superordinate of dog, lion, mouse.",
+"incorrect_answers":[
+"items that mean the same, or nearly the same; for example, bright, clever, smart may serve as synonyms of intelligent",
+"items that mean the opposite; rich is an antonym of poor.",
+"items that serve as specific examples of a general concept; dog, lion, mouse are hyponyms of animal."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Presentation is ….",
+"correct_answer":"a teacher’s explanation of the new theme using different techniques",
+"incorrect_answers":[
+"learners view a real or life-like. It may be recorded and played back utilizing media such as video, cards, or poster",
+"involves the exchange of ideas and opinions among students or students and teachers",
+"learners are led through a series of practice exercises designed to increase fluency in a new skill or to refresh an existing one."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Demonstration is ….",
+"correct_answer":"a practical exhibition and explanation of how something works and is performed",
+"incorrect_answers":[
+"a source tells, dramatizes, or otherwise discarnate information to learners.",
+"involves the exchange of ideas and opinions among students or students and teachers.",
+"learners are led through a series of practice exercises designed to increase fluency in a new skill or to refresh an existing one."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Grammar is ….",
+"correct_answer":"system and structure of a language in general, consisting of syntax and morphology",
+"incorrect_answers":[
+"typical of particular items are another factor that makes a particular combination sound 'right' or 'wrong' in a given context",
+"These are fairly obvious characteristics, and one or the other will be perceived by the learner when encountering the item for the first time.",
+"All answers are right"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Phonetics is ……",
+"correct_answer":"study of the production of speech sounds by the speaker and how they are perceived by the listener.",
+"incorrect_answers":[
+"develop effective communication",
+"is used interchangeably",
+"Teaching writing"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Articulatory, Auditory, Acoustics are…",
+"correct_answer":"Types of phonetics",
+"incorrect_answers":[
+"Method of teaching",
+"Method of writing",
+"Method of speaking"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Pupils work out grammar rules themselves with the help of teacher. This way of presenting grammar is called …",
+"correct_answer":"inductive",
+"incorrect_answers":[
+"deductive",
+"interactive",
+"communicative"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Integrated skills are….",
+"correct_answer":"the intentional combination of core language skills like speaking, writing, listening and reading, used within lessons on an exciting new topic",
+"incorrect_answers":[
+"the subject matter is taught in simplified English tailored to students' ESL/EFL proficiency level.",
+"approach focuses on form, mastery of language, and accuracy.",
+"All answers are true"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In which method teaching units are organised following these three methodological points: Nothing will be spoken before it has been heard. Nothing will be read before it has been spoken. Nothing will be written before it has been read",
+"correct_answer":"The Audiolingual Method",
+"incorrect_answers":[
+"The Communicative method",
+"The Direct method",
+"The Grammar-translation method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Learner-centered learning is …..",
+"correct_answer":"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"incorrect_answers":[
+"This concept equates the idea of a “learning task” to a language learning technique in itself and it can be a problem solving activity or a project",
+"This kind of learning joins language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered",
+"This concept stresses the dual roles of “receiver” and “sender” in any communicative situation and necessarily entails that there will be a lot of pair and group work in the classroom, as well as genuine language input from the “real world” for meaningful communication"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which statement doesn’t belong to Grammar-Translation method?",
+"correct_answer":"Drills and pattern practice help us learn structures.",
+"incorrect_answers":[
+"Language must be analysed in order to learn it.",
+"Exercises help us understand rules.",
+"Teachers need to focus learners' attention on new target language."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the aim of pedagogical technology?",
+"correct_answer":"To achieve high result in short time and with less effort",
+"incorrect_answers":[
+"Learners learn by being exposed to language. Comprehension comes before production,learners should not be forced to speak",
+"classroom or training activities which reproduce real situations and which often involve learners in playing roles and group discussion in order to solve a problem or complete a given task",
+"Studying grammatical rules presented through grammatical terms, then applying them in exercises"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is a technique? Technique is….",
+"correct_answer":"Any of a wide exercises, activities or devices used in the language classroom for realizing lesson objectives",
+"incorrect_answers":[
+"basic underlying theoretical provisions which determine the choice of methods, techniques and other means of instruction",
+"The study of pedagogical practices in general, including theoretical underpinnings and related research., whatever considerations are involved in “how to teach” are methodological",
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"It is a map of how to achieve the “outputs” of desired student performance, in which appropriate learning activities and assessments are suggested to make it more likely",
+"correct_answer":"curriculum",
+"incorrect_answers":[
+"syllabus",
+"lesson plan",
+"coursebook"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which task is a test format when students are given a list of items, which they have to match with the other list of words, phrases, sentences, paragraphs or visual images?",
+"correct_answer":"Matching",
+"incorrect_answers":[
+"gapfilling",
+"Editing tests",
+"multiple choice tests"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The term ……. refers to reading which students do often (but not exclusively) away from the classroom.",
+"correct_answer":"extensive reading",
+"incorrect_answers":[
+"intensive reading",
+"Article reading",
+"All answers are true"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The term …… on the other hand, refers to the detailed focus on the construction of reading texts which takes place usually (but not always) in classrooms.",
+"correct_answer":"intensive reading",
+"incorrect_answers":[
+"extensive reading",
+"Article reading",
+"All answers are true"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"……… these include activities that a pupil engages in while reading the text and the purpose of these activities would be to enable pupils to achieve the lesson aims by handling the text in different ways.",
+"correct_answer":"While-reading stages",
+"incorrect_answers":[
+"Pre-reading stage",
+"All answers are true",
+"Post-Reading Stage"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"……… the purposes of this stage are: to help students use their acquired knowledge in similar readings, to have them integrate their reading skills both with the other language skills: listening, speaking, writing and with the foreign culture, to make use of key words and structures to summarize the reading passage, to extract the main idea of a paragraph or a reading text and to interpret descriptions (outlining and summarizing).",
+"correct_answer":"Post-Reading Stage",
+"incorrect_answers":[
+"Pre-reading stage",
+"While-reading stages",
+"All answers are true"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"…….. focuses on the completion of specific tasks as a means to achieve language learning goals",
+"correct_answer":"Task-Based Learning",
+"incorrect_answers":[
+"Content-based instruction",
+"Project-Based Learning",
+"Teacher-centered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"……. is a teaching approach where learners study language through meaningful content.",
+"correct_answer":"Content-based instruction",
+"incorrect_answers":[
+"Task-Based Learning",
+"Project-Based Learning",
+"Teacher-centered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"……… on the other hand, revolves around the implementation of extended, multifaceted projects that integrate various subject areas and skills.",
+"correct_answer":"Project-Based Learning",
+"incorrect_answers":[
+"Content-based instruction",
+"Task-Based Learning",
+"Teacher-centered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"TBL is………",
+"correct_answer":"Task-Based Learning",
+"incorrect_answers":[
+"Project-Based Learning",
+"Teacher-centered",
+"Content-based instruction"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"CBI is …",
+"correct_answer":"Content-based instruction",
+"incorrect_answers":[
+"Task-Based Learning",
+"Project-Based Learning",
+"Teacher-centered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"PBL is …..",
+"correct_answer":"Project-Based Learning",
+"incorrect_answers":[
+"Content-based instruction",
+"Task-Based Learning",
+"Teacher-centered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"………… refers to the nonverbal cues that communicate how people feel.",
+"correct_answer":"Body language",
+"incorrect_answers":[
+"Classroom language",
+"Target language",
+"All answers are true"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"………. The language of organizing is used to direct and to manage the interaction between a teacher and his/her students",
+"correct_answer":"Organization.",
+"incorrect_answers":[
+"Interrogation",
+"Explanation",
+"Interaction."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"……… The language of explaining is used in the occasions where a teacher needs to make his/her students translate, paraphrase, summarize, define, or make correction.",
+"correct_answer":"Explanation",
+"incorrect_answers":[
+"Organization",
+"Interrogation",
+"Interaction."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"……….. The language of interacting here is mostly about the use of expressions to maintain social relations such as greeting, leaving, apologizing, thanking, congratulating, and to indicate appreciation, pity, sympathy, interest, surprise, anger, disappointment.",
+"correct_answer":"Interaction.",
+"incorrect_answers":[
+"Explanation",
+"Organization",
+"Interrogation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Organization is …..",
+"correct_answer":"The language of organizing is used to direct and to manage the interaction between a teacher and his/her students.",
+"incorrect_answers":[
+"The language of interrogating in the classroom mostly aims at eliciting information, ideas, opinion, and reasons from the students.",
+"The language of explaining is used in the occasions where a teacher needs to make his/her students translate, paraphrase, summarize, define, or make correction.",
+"The language of interacting here is mostly about the use of expressions to maintain social relations such as greeting, leaving, apologizing, thanking, congratulating, and to indicate appreciation, pity, sympathy, interest, surprise, anger, disappointment."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Interrogation is…..",
+"correct_answer":"The language of interrogating in the classroom mostly aims at eliciting information, ideas, opinion, and reasons from the students.",
+"incorrect_answers":[
+"The language of organizing is used to direct and to manage the interaction between a teacher and his/her students.",
+"The language of explaining is used in the occasions where a teacher needs to make his/her students translate, paraphrase, summarize, define, or make correction.",
+"The language of interacting here is mostly about the use of expressions to maintain social relations such as greeting, leaving, apologizing, thanking, congratulating, and to indicate appreciation, pity, sympathy, interest, surprise, anger, disappointment."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Explanation is ….",
+"correct_answer":"The language of explaining is used in the occasions where a teacher needs to make his/her students translate, paraphrase, summarize, define, or make correction.",
+"incorrect_answers":[
+"The language of interrogating in the classroom mostly aims at eliciting information, ideas, opinion, and reasons from the students.",
+"The language of explaining is used in the occasions where a teacher needs to make his/her students translate, paraphrase, summarize, define, or make correction.",
+"The language of interacting here is mostly about the use of expressions to maintain social relations such as greeting, leaving, apologizing, thanking, congratulating, and to indicate appreciation, pity, sympathy, interest, surprise, anger disappointment"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Interaction is…..",
+"correct_answer":"The language of interacting here is mostly about the use of expressions to maintain social relations such as greeting, leaving, apologizing, thanking, congratulating, and to indicate appreciation, pity, sympathy, interest, surprise, anger, disappointment.",
+"incorrect_answers":[
+"The language of organizing is used to direct and to manage the interaction between a teacher and his/her students.",
+"The language of interrogating in the classroom mostly aims at eliciting information, ideas, opinion, and reasons from the students.",
+"The language of explaining is used in the occasions where a teacher needs to make his/her students translate, paraphrase, summarize, define, or make correction."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Chronological Order is ….",
+"correct_answer":"classroom situations and procedures are generally quite concrete, which means that most classroom phrase has a very clear situational link.",
+"incorrect_answers":[
+"greeting, transition to work, absences, and lateness",
+"many options, different situation, and activities in main activity; the language used will vary according to the context.",
+"covers conducting repetition of the courses, giving quiz, asking question orally and spontaneously, correcting, and concluding."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Opening the Class is….",
+"correct_answer":"greeting, transition to work, absences, and lateness.",
+"incorrect_answers":[
+"many options, different situation, and activities in main activity; the language used will vary according to the context.",
+"covers conducting repetition of the courses, giving quiz, asking question orally and spontaneously, correcting, and concluding.",
+"classroom situations and procedures are generally quite concrete, which means that most classroom phrase has a very clear situational link"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Main Activity is….",
+"correct_answer":"many options, different situation, and activities in main activity; the language used will vary according to the context.",
+"incorrect_answers":[
+"greeting, transition to work, absences, and lateness",
+"covers conducting repetition of the courses, giving quiz, asking question orally and spontaneously, correcting, and concluding",
+"classroom situations and procedures are generally quite concrete, which means that most classroom phrase has a very clear situational link"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Ending the Class is……",
+"correct_answer":"covers conducting repetition of the courses, giving quiz, asking question orally and spontaneously, correcting, and concluding.",
+"incorrect_answers":[
+"many options, different situation, and activities in main activity; the language used will vary according to the context",
+"covers conducting repetition of the courses, giving quiz, asking question orally and spontaneously, correcting, and concluding",
+"classroom situations and procedures are generally quite concrete, which means that most classroom phrase has a very clear situational link"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The inductive approach of teaching grammar is ….",
+"correct_answer":"Guided discovery approach",
+"incorrect_answers":[
+"Rule driven learning",
+"Rule discovery path",
+"First rule the example approach"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is being described?- Learners learn by being exposed to language. Comprehension comes before production,learners should not be forced to speak before they are ready. Language is learnt best when it is accompanied by doing things physically. Learning takes place when learners are relaxed.",
+"correct_answer":"total physical response",
+"incorrect_answers":[
+"suggestopedia",
+"content and language integrated learning",
+"silent method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is being described?- The syllabus focuses on grammar, lexis, functions or skills. Used mainly in primary and secondary schools. Language is presented through topics related to school subjects or learning about the world.",
+"correct_answer":"content-based learning",
+"incorrect_answers":[
+"task-based learning",
+"project-based learning",
+"silent method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Interactive learning -",
+"correct_answer":"This concept stresses the dual roles of “receiver” and “sender” in any communicative situation and necessarily entails that there will be a lot of pair and group work in the classroom, as well as genuine language input from the “real world” for meaningful communication",
+"incorrect_answers":[
+"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"This concept stresses the “team” like nature of the classroom and emphasizes cooperation as opposed to competition where students share information and achieve their learning goals as a group",
+"This kind of learning joins language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Learner-centered learning -",
+"correct_answer":"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"incorrect_answers":[
+"This concept equates the idea of a “learning task” to a language learning technique in itself and it can be a problem solving activity or a project",
+"This kind of learning joins language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered",
+"This concept stresses the dual roles of “receiver” and “sender” in any communicative situation and necessarily entails that there will be a lot of pair and group work in the classroom, as well as genuine language input from the “real world” for meaningful communication"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Cooperative learning",
+"correct_answer":"This concept stresses the “team” like nature of the classroom and emphasizes cooperation as opposed to competition where students share information and achieve their learning goals as a group",
+"incorrect_answers":[
+"This concept equates the idea of a “learning task” to a language learning technique in itself and it can be a problem solving activity or a project",
+"This kind of learning joins language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered",
+"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Content –based learning -",
+"correct_answer":"This kind of learning joins language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered",
+"incorrect_answers":[
+"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"This concept equates the idea of a “learning task” to a language learning technique in itself and it can be a problem solving activity or a project",
+"This concept stresses the “team” like nature of the classroom and emphasizes cooperation as opposed to competition where students share information and achieve their learning goals as a group"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An approach to teaching and learning in which classrooms are organized so that students work together in small teams",
+"correct_answer":"co-operative learning",
+"incorrect_answers":[
+"Reflection on learning",
+"communicative teaching",
+"professional development"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An approach to teaching, professional development and teacher education which is based on the assumption that teachers can improve their understanding of teaching and the quality of their own teaching by reflecting critically on their teaching experience.",
+"correct_answer":"Reflective teaching",
+"incorrect_answers":[
+"co-operative learning",
+"Reflection on learning",
+"communicative teaching"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"correct_answer":"Learner-centered learning",
+"incorrect_answers":[
+"Task - based learning",
+"Content –based learning",
+"Cooperative learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This concept stresses the dual roles of “receiver” and “sender” in any communicative situation and necessarily entails that there will be a lot of pair and group work in the classroom, as well as genuine language input from the “real world” for meaningful communication",
+"correct_answer":"Interactive learning",
+"incorrect_answers":[
+"Content –based learning",
+"Learner-centered learning",
+"Task - based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An approach to foreign or second language teaching which emphasizes that the goal of language learning is communicative competence. This approach has been developed particularly by British applied linguists as a reaction away from grammar-based approaches such as the audio-lingual approach. Which approach is being described?",
+"correct_answer":"Communicative Language Teaching",
+"incorrect_answers":[
+"Task - based language Teaching",
+"Content-based language Teaching",
+"Traditional Approach to Teaching"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which statement doesn’t belong to Task-based Learning (TBL)",
+"correct_answer":"Tasks must be done after students have practised target language.",
+"incorrect_answers":[
+"The teacher does not control the language that students use in tasks.",
+"Tasks aim to show students what language they need to learn",
+"proofreading"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Grammar-translation method",
+"correct_answer":"Studying grammatical rules presented through grammatical terms, then applying them in exercises; Working out what language means by applying rules; Learning lists of words by heart; Translating texts and/or isolated sentences from LI to L2 or vice versa; Emphasis on grammatical accuracy.",
+"incorrect_answers":[
+"Learners learn by being exposed to language. Comprehension comes before production,learners should not be forced to speak",
+"classroom activities in which students take the roles of different participants in a situation and act out what might typically happen in that situation",
+"classroom or training activities which reproduce real situations and which often involve learners in playing roles and group discussion in order to solve a problem or complete a given task"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What are the main activities of Traditional Method?",
+"correct_answer":"reading comprehension and questions about the text; find synonyms and antonyms from the words in the text, fill in the blank exercises",
+"incorrect_answers":[
+"Role playing, simulation, debate, information gap activities",
+"reading comprehension and questions about the text; brainstorming, group work activities",
+"find synonyms and antonyms from the words in the text, fill in the blank exercises, SWOT-analysis, T-charts"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In which method well known for its common use of small colored rods of varying length and color coded word charts depicting pronunciation values, vocabulary and grammatical paradigms( Fidel Chart, Word Chart, Sound Color Charts) and concentrates on cognitive principles in language learning?",
+"correct_answer":"The Silent way",
+"incorrect_answers":[
+"The Direct method",
+"The Grammar-translation method",
+"The Audiolingual Method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"…. are often used to raise students' energy levels or to make them feel comfortable before the main learning of the lesson starts. They are not always connected to the topic of the lesson; for example, they could be a quiz, game or pairwork activity.",
+"correct_answer":"warmers",
+"incorrect_answers":[
+"lead-ins",
+"ice-breakers",
+"proofreading"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"…...introduce the content of the lesson. Their aim is to focus and motivate students and make a link between the topic of the lesson and the students' own lives (personalisation).",
+"correct_answer":"lead-ins",
+"incorrect_answers":[
+"warmers",
+"ice-breakers",
+"true/false questions"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The aim of ….. is for students to get to know one another so that they all feel comfortable with each other in the class.",
+"correct_answer":"ice-breakers",
+"incorrect_answers":[
+"lead-ins",
+"warmers",
+"true/false questions"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"..... is a group activity in which learners have a free and relatively unstructured discussion on an assigned topic as a way of generating ideas;(in teaching writing) a form of prewriting in which a student writes down as many thoughts as possible on a topic without paying attention to organization, sentence structure or spelling. It serves to gather ideas, viewpoints, or ideas related to a writing topic.",
+"correct_answer":"brainstorming",
+"incorrect_answers":[
+"ice breakers",
+"free writing",
+"mingling"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"A type of co-operative activity in which each member of a group has a piece of information needed to complete a group task. Often used in reading work when each learner or group of learners reads and understands a part of a text, then takes part in pooling information to establish the meaning or message of the whole text.",
+"correct_answer":"Jigsaw activity",
+"incorrect_answers":[
+"Skimming",
+"Scanning",
+"Extensive reading"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An activity used to orient learners to a new topic or area of focus in a lesson…",
+"correct_answer":"Lead-in",
+"incorrect_answers":[
+"ice breakers",
+"mind-mapping",
+"Warm up"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An activity where people move and talk to each other",
+"correct_answer":"Mingle activity",
+"incorrect_answers":[
+"role-playing",
+"story telling",
+"guessing"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What kind of organizer is \\"Venn Diagram\\"?",
+"correct_answer":"analyzing similiarities and differences of two or more objects",
+"incorrect_answers":[
+"reading comprehension and questions about the text;",
+"working with the text",
+"brainstorming"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"A task which replicates or resembles a real-life task, e.g. scanning an article for particular information; this may be contrasted with a task which is specifically designed for, and only relevant in, the classroom is called…",
+"correct_answer":"Authentic task",
+"incorrect_answers":[
+"Authentic materials",
+"realia",
+"interactive tasks"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which test has a “stem” (the basic and unaltered part of the sentence) and a number of “options” , only one of which is correct?",
+"correct_answer":"multiple choice tests",
+"incorrect_answers":[
+"Editing tests",
+"Matching",
+"gapfilling"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which task refers to tasks where the test-takers are given separate sentences with some words or phrases deleted?",
+"correct_answer":"gapfilling",
+"incorrect_answers":[
+"multiple choice tests",
+"Matching",
+"Editing tests"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"…… is a technological operation, structural and functional component of the teacher’s and learner’s activity, realized in techniques and principles of instruction",
+"correct_answer":"method",
+"incorrect_answers":[
+"approach",
+"technique",
+"means of instruction"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Match the teacher’s instructions with the stage aims from different lessons: Look at the first line of the dialogue in your books. Will the man's voice go up or down?",
+"correct_answer":"to develop learners' awareness of intonation patterns",
+"incorrect_answers":[
+"to give learners less controlled oral practice",
+"to encourage learners to recycle known vocabulary items",
+"to improve the timing of the lesson"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Match the teacher’s instructions with the stage aims from different lessons: You're going to hear three conversations and then tell me what the people are talking about.",
+"correct_answer":"to give learners practice in listening for gist",
+"incorrect_answers":[
+"to provide an opportunity for peer assessment",
+"to develop learners' skill in listening for detail",
+"to include all the learners in feedback"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Match the teacher’s instructions with the stage aims from different lessons: Now I'm going to play the conversation again. Put the pictures into the correct order.",
+"correct_answer":"to develop learners' skill in listening for detail",
+"incorrect_answers":[
+"to give learners practice in listening for gist",
+"to provide an opportunity for self-correction",
+"to improve the timing of the lesson"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"“A language teaching _____ involves the combination of subject matter (what to teach) and linguistic matter (how to teach). It actually performs as a guide for both teacher and learner by providing some goals to be accomplished, in fact, it deals with linguistic theory and theories of language learning and how they are utilized in the classroom”. What is being described?",
+"correct_answer":"syllabus",
+"incorrect_answers":[
+"lesson plan",
+"curriculum",
+"PPP"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is being described?- Studying grammatical rules presented through grammatical terms, then applying them in exercises; Working out what language means by applying rules; Learning lists of words by heart; Translating texts and/or isolated sentences from LI to L2 or vice versa; Emphasis on grammatical accuracy",
+"correct_answer":"Grammar translation",
+"incorrect_answers":[
+"Audio-lingual",
+"Direct",
+"Communicative"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Read the description of the learner and choose the appropriate learning style:- The student remembers more about a subject through lectures, explanations and discussions",
+"correct_answer":"Auditory",
+"incorrect_answers":[
+"Tactile",
+"Visual",
+"Kinaethetic"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Read the description of the learner and choose the appropriate learning style:-The student prefers information to be written on the board",
+"correct_answer":"Visual",
+"incorrect_answers":[
+"Tactile",
+"Auditory",
+"Kinaethetic"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Read the description of the learner and choose the appropriate learning style:- The student prefers to learn by moving around",
+"correct_answer":"Kinaethetic",
+"incorrect_answers":[
+"Tactile",
+"Auditory",
+"Visual"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Match the teacher’s instructions with the stage aims from different lessons: Look at the first line of the dialogue in your books. Will the man's voice go up or down?",
+"correct_answer":"develop learners' awareness of intonation patterns",
+"incorrect_answers":[
+"to encourage learners to recycle known vocabulary items",
+"to give learners less controlled oral practice",
+"to provide an opportunity for peer assessment"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The traditional way of presenting grammar when the teacher explains grammar rules herself/himself is called …",
+"correct_answer":"deductive",
+"incorrect_answers":[
+"inductive",
+"interactive",
+"communicative"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What’s an approach?",
+"correct_answer":"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"incorrect_answers":[
+"A generalized set of classroom specifications for accomplishing linguistic objectives and they tend to be primarily concerned with teacher and student roles and behaviors and secondarily with such features as linguistic and subject-matter objectives, sequencing, and materials",
+"The study of pedagogical practices in general, including theoretical underpinnings and related research, whatever considerations are involved in “how to teach”",
+"It is a language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is a method?",
+"correct_answer":"A technological operation, structural and functional component of the teacher’s and learner’s activity, realized in techniques and principles of instruction",
+"incorrect_answers":[
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"Any of a wide exercises, activities or devices used in the language classroom for realizing lesson objectives",
+"A generalized set of classroom specifications for accomplishing linguistic objectives and they tend to be primarily concerned with teacher and student roles and behaviors and secondarily with such features as linguistic and subject-matter objectives, sequencing, and materials"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which stage of the lesson do role-plays and information-gap activities belong?",
+"correct_answer":"Production",
+"incorrect_answers":[
+"Practice",
+"Presentation",
+"Warm up"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Ways in which a learner attempts to work out the meanings and uses of words, grammatical rules, and other aspects of a language, for example by the use of generalization and inferencing, focusing on certain aspects of new information, analyzing, and organizing information during learning to increase comprehension, or evaluating learning when it is completed to see if further action is needed.",
+"correct_answer":"Learning strategies",
+"incorrect_answers":[
+"Learning styles",
+"Learning skills",
+"Learning abilities"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Following a lesson on the topic of families, the teacher asks learners to bring their family photos to class and to talk about them in small groups.",
+"correct_answer":"to provide practice of lexis in context",
+"incorrect_answers":[
+"to personalise an activity",
+"to encourage visualisation",
+"to give practice in using topic sentences"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The deductive approach of teaching grammar is ….",
+"correct_answer":"Rule driven learning",
+"incorrect_answers":[
+"Guided discovery approach",
+"Rule discovery path",
+"First rule the example approach"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is being described?- Learners learn by being exposed to language. Comprehension comes before production, learners should not be forced to speak before they are ready. Language is learnt best when it is accompanied by doing things physically",
+"correct_answer":"Total physical response",
+"incorrect_answers":[
+"Grammar translation",
+"Audio-lingual",
+"C communicative"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What are the main activities of Traditional method",
+"correct_answer":"reading comprehension and questions about the text; find synonyms and antonyms from the words in the text, fill in the blank exercises",
+"incorrect_answers":[
+"reading comprehension and questions about the text; brainstorming, group work activities",
+"Role playing, simulation, debate, information gap activities",
+"find synonyms and antonyms from the words in the text, fill in the blank exercises, SWOT- analysis, T-charts"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is methodology?",
+"correct_answer":"The study of pedagogical practices general, including theoretical underpinnings and related research., whatever considerations are involved in “how to teach” are methodological",
+"incorrect_answers":[
+"A generalized set of classroom specifications for accomplishing linguistic objectives and they tend to be primarily concerned with teacher and student roles and behaviors and secondarily with such features as linguistic and subject-matter objectives, sequencing, and materials",
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"It is language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Approach is …..",
+"correct_answer":"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"incorrect_answers":[
+"The study of pedagogical practices in general, including theoretical underpinnings and related research., whatever considerations are involved in “how to teach” are methodological",
+"It is language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered",
+"A generalized set of classroom specifications for accomplishing linguistic objectives and they tend to be primarily concerned with teacher and student roles and behaviors and secondarily with such features as linguistic and subject-matter objectives, sequencing, and materials"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Method is …….",
+"correct_answer":"A generalized set of classroom specifications for accomplishing linguistic objectives and they tend to be primarily concerned with teacher and student roles and behaviors and secondarily with such features as linguistic and subject-matter objectives, sequencing, and materials",
+"incorrect_answers":[
+"The study of pedagogical practices in general, including theoretical underpinnings and related research., whatever considerations are involved in “how to teach” are methodological",
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"Any of a wide exercises, activities or devices used in the language classroom for realizing lesson objectives"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is a technique?",
+"correct_answer":"Any of a wide exercises, activities or devices used in the language classroom for realizing lesson objectives",
+"incorrect_answers":[
+"basic underlying theoretical provisions which determine the choice of methods, techniques and other means of instruction",
+"The study of pedagogical practices in general, including theoretical underpinnings and related research., whatever considerations are involved in “how to teach” are methodological",
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is principle?",
+"correct_answer":"Basic underlying theoretical provisions which determine the choice of methods, techniques and other means of instruction",
+"incorrect_answers":[
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"Any of a wide exercises, activities or devices used in the language classroom for realizing lesson objectives",
+"Designs for carrying out a particular language program"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"correct_answer":"Learner-centered learning",
+"incorrect_answers":[
+"Task - based learning",
+"Content –based learning",
+"Cooperative learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This concept equates the idea of a “learning task” to a language learning technique in itself and it can be a problem solving activity or a project",
+"correct_answer":"Task - based learning",
+"incorrect_answers":[
+"Interactive learning",
+"Content –based learning",
+"Learner-centered learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This concept stresses the dual roles of “receiver” and “sender” in any communicative situation and necessarily entails that there will be a lot of pair and group work in the classroom, as well as genuine language input from the “real world” for meaningful communication",
+"correct_answer":"Interactive learning",
+"incorrect_answers":[
+"Content –based learning",
+"Learner-centered learning",
+"Task - based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which statement doesn’t belong to Presentation, Practice and Production (PPP)?",
+"correct_answer":"Students always start learning a new piece of language by doing a task.",
+"incorrect_answers":[
+"Teachers need to focus learners' attention on new target language.",
+"Students need opportunities to get language right before they experiment",
+"Students move round the classroom to carry out instructions"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which task consist of sentences or text passages, in which errors have been introduced",
+"correct_answer":"editing tests",
+"incorrect_answers":[
+"gapfilling",
+"multiple choice tests",
+"Matching"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"A common approach to Communicative language teaching that works through the progression of three sequential stages or “3Ps”.",
+"correct_answer":"Presentation, Practice, Production",
+"incorrect_answers":[
+"Presentation, Production, Practice",
+"Pupil- Pupil Interaction-Production",
+"Pupil, Principle, Practice"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Technique is….",
+"correct_answer":"Any of a wide exercises, activities or devices used in the classroom for realizing lesson objectives",
+"incorrect_answers":[
+"A generalized set of classroom specifications for accomplishing linguistic objectives and they tend to be primarily concerned with teacher and student roles and behaviors and secondarily with such features as linguistic and subject-matter objectives, sequencing, and materials",
+"Theoretical positions and beliefs about the nature of the language, the nature of language learning, and the applicability of both pedagogical settings",
+"A common way of language teaching"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which stage of the lesson do drills and exercises belong?",
+"correct_answer":"Practice",
+"incorrect_answers":[
+"Presentation",
+"Production",
+"Warm up"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Lessons move from the presentation stage to the practice stage to the ….. stage",
+"correct_answer":"Production",
+"incorrect_answers":[
+"Practice",
+"Presentation",
+"Warm up"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What’s a competence?",
+"correct_answer":"gained knowledge, skill",
+"incorrect_answers":[
+"skill",
+"strategy",
+"approach"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This is the most important aspect of language. It consists of individual words and different kinds of chunks such as collocations, idioms, fixed expressions. What is being described?",
+"correct_answer":"Vocabulary",
+"incorrect_answers":[
+"Phonology",
+"Grammar",
+"Reading"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"…. are often used to raise students' energy levels or to make them feel comfortable before the main learning of the lesson starts. They are not always connected to the topic of the lesson; for example, they could be a quiz, game or pair work activity.",
+"correct_answer":"Warm up",
+"incorrect_answers":[
+"Brainstorming",
+"Lead-in",
+"Information Gap"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Read the description of the learner and choose the appropriate learning style:- The student likes to write things down or to take notes to look at later",
+"correct_answer":"Visual",
+"incorrect_answers":[
+"Tactile",
+"Auditory",
+"Kinaethetic"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Match the teacher’s instructions with the stage aims from different lessons: What words can you think of which are connected with the weather? With your partner make a list of as many as you can.",
+"correct_answer":"to encourage learners to recycle known vocabulary items",
+"incorrect_answers":[
+"to develop learners' awareness of intonation patterns",
+"to give learners less controlled oral practice",
+"to provide an opportunity for peer assessment"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"A short activity at the start of the lesson to get learners ‘in the mood’ – to engage them with the language. For example, a vocabulary game, a brief mingle activity with questions, e.g. did you have a good weekend?, etc.",
+"correct_answer":"Warmer",
+"incorrect_answers":[
+"Free practice",
+"Lead-in",
+"Presentation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Following a lesson focusing on narrative tenses, the teacher gives learners different stories to read at home. Learners retell their stories in class the next day",
+"correct_answer":"to provide practice of lexis in context",
+"incorrect_answers":[
+"to personalise an activity",
+"to encourage visualisation",
+"To give practice in topic sentences"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An activity which precedes the main input part of the lesson to help to arouse interest, set the scene, establish the context. For example, a short discussion, brainstorming around a topic, etc. pre",
+"correct_answer":"Lead-in",
+"incorrect_answers":[
+"Feedback",
+"Free practice",
+"Presentation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The deductive approach of teaching grammar is ….",
+"correct_answer":"Rule driven learning",
+"incorrect_answers":[
+"Guided discovery approach",
+"Rule discovery path",
+"First rule the example approach"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is being described?- Studying grammatical rules presented through grammatical terms, then applying them in exercises; Working out what language means by applying rules; Learning lists of words by heart; Translating texts and/or isolated sentences from LI to L2 or vice versa; Emphasis on grammatical accuracy.",
+"correct_answer":"grammar-translation method",
+"incorrect_answers":[
+"communicative language teaching",
+"content and language integrated learning",
+"total physical response"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This kind of instruction involves the giving over of some “power” in the language learning process to the learners themselves and it also strives to allow for personal creativity and input from the students, as well as taking into account their learning needs and objectives",
+"correct_answer":"Learner-centered learning",
+"incorrect_answers":[
+"Task - based learning",
+"Content –based learning",
+"Cooperative learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This kind of learning joins language learning to subject matter and language is seen as a tool or medium for acquiring knowledge about other things, instantly proving its usefulness and the content itself determines what language items need to be mastered",
+"correct_answer":"Content –based learning",
+"incorrect_answers":[
+"Learner-centered learning",
+"Cooperative learning",
+"Task - based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This concept stresses the dual roles of “receiver” and “sender” in any communicative situation and necessarily entails that there will be a lot of pair and group work in the classroom, as well as genuine language input from the “real world” for meaningful communication",
+"correct_answer":"Interactive learning",
+"incorrect_answers":[
+"Content –based learning",
+"Learner-centered learning",
+"Task - based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"This concept stresses the “team” like nature of the classroom and emphasizes cooperation as opposed to competition where students share information and achieve their learning goals as a group",
+"correct_answer":"Cooperative learning",
+"incorrect_answers":[
+"Task - based learning",
+"Interactive learning",
+"Content –based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"An activity in which a pair or two groups of students hold different information, or where one partner knows something that the other doesn’t. This gives a real purpose to a communication activity.",
+"correct_answer":"information gap activity",
+"incorrect_answers":[
+"paraphrasing activity",
+"true-false activity",
+"role play activity"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the main focus of the communicative approach in language teaching?",
+"correct_answer":"Real-life communication",
+"incorrect_answers":[
+"Vocabulary memorization",
+"Grammar rules",
+"Pronunciation practice"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following best defines communicative competence?",
+"correct_answer":"The ability to use language effectively in social situations",
+"incorrect_answers":[
+"The ability to conjugate verbs correctly",
+"The ability to translate between languages",
+"The ability to memorize vocabulary"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Who is considered one of the main theorists behind the communicative approach?",
+"correct_answer":"Dell Hymes",
+"incorrect_answers":[
+"Noam Chomsky",
+"Stephen Krashen",
+"B.F. Skinner"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the communicative approach, teaching should focus on:",
+"correct_answer":"Using language in authentic situations",
+"incorrect_answers":[
+"Controlled practice activities",
+"Repetition drills",
+"Translation exercises"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which activity is most aligned with the communicative approach?",
+"correct_answer":"Role-playing real-life situations",
+"incorrect_answers":[
+"Filling in grammar gap-fills",
+"Writing formal essays",
+"Memorizing verb conjugations"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In communicative language teaching, teachers should prioritize:",
+"correct_answer":"Fluency over accuracy",
+"incorrect_answers":[
+"Accuracy over fluency",
+"Vocabulary memorization",
+"Error correction during every activity"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What does the communicative approach emphasize in terms of language use?",
+"correct_answer":"Interactive and functional language use",
+"incorrect_answers":[
+"Formality and correctness",
+"Learning through rote memorization",
+"Theoretical grammar explanations"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the main role of the teacher in the communicative approach?",
+"correct_answer":"To facilitate communication and guide learners’ interaction",
+"incorrect_answers":[
+"To be a transmitter of knowledge",
+"To focus on grammar correction",
+"To ensure learners complete all"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following activities is least likely to be used in a communicative approach classroom?",
+"correct_answer":"Grammar and translation exercises",
+"incorrect_answers":[
+"Debates",
+"Interviews",
+"Problem-solving tasks"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the significance of authentic materials in communicative language teaching?",
+"correct_answer":"They provide exposure to real-life language use",
+"incorrect_answers":[
+"They are used to teach grammar rules",
+"They focus only on vocabulary",
+"They avoid using slang and colloquialisms"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which type of practice is most commonly used in communicative classrooms?",
+"correct_answer":"Interactive practice",
+"incorrect_answers":[
+"Controlled practice",
+"Teacher-centered practice",
+"Silent practice"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a typical task in a communicative approach lesson?",
+"correct_answer":"Discussing a current event in pairs",
+"incorrect_answers":[
+"Matching words with their definitions",
+"Memorizing a list of vocabulary",
+"Completing a fill-in-the-blank grammar worksheet"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the role of learners in a communicative approach classroom?",
+"correct_answer":"Active participants in communication and language use",
+"incorrect_answers":[
+"Passive receivers of information",
+"Silent observers during lessons",
+"Strictly focusing on grammar drills"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The communicative approach is particularly effective for:",
+"correct_answer":"Developing real-world language skills",
+"incorrect_answers":[
+"Memorizing vocabulary lists",
+"Focusing on writing accuracy",
+"Teaching complex grammar structures"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following teaching techniques is commonly used in the communicative approach?",
+"correct_answer":"Role-playing",
+"incorrect_answers":[
+"Drilling",
+"The silent way",
+"Grammar translation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In communicative teaching, errors are:",
+"correct_answer":"Seen as a natural part of language learning",
+"incorrect_answers":[
+"Always corrected immediately",
+"Avoided at all costs",
+"Ignored during conversations"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a key principle of communicative language teaching?",
+"correct_answer":"Communication and interaction are the primary goals",
+"incorrect_answers":[
+"The grammar-translation method is essential",
+"Teacher-centered activities are prioritized",
+"Accuracy is more important than fluency"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What type of assessment is most in line with the communicative approach?",
+"correct_answer":"Oral presentations and group discussions",
+"incorrect_answers":[
+"Error correction quizzes",
+"Multiple-choice grammar tests",
+"Written essays with strict rules"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What does 'task-based learning' focus on in a communicative classroom?",
+"correct_answer":"Completing meaningful tasks using the target language",
+"incorrect_answers":[
+"Learning vocabulary",
+"Completing grammar exercises",
+"Rewriting sentences with correct grammar"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The communicative approach encourages students to:",
+"correct_answer":"Use language for meaningful interactions",
+"incorrect_answers":[
+"Focus only on speaking",
+"Avoid making mistakes",
+"Rely solely on textbooks"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the communicative approach, what is the role of grammar?",
+"correct_answer":"Grammar is learned in context through communication",
+"incorrect_answers":[
+"Grammar is taught as the main focus of the lesson",
+"Grammar is completely avoided",
+"Grammar is learned only through written exercises"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these activities might best encourage students to practice real-world communication skills?",
+"correct_answer":"Planning a vacation in pairs",
+"incorrect_answers":[
+"Listening to a lecture",
+"Doing grammar exercises",
+"Writing an essay on a topic"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an important feature of task-based learning?",
+"correct_answer":"Tasks should be designed to practice specific language forms",
+"incorrect_answers":[
+"Tasks should be unrelated to real-life situations",
+"Tasks should not require student interaction",
+"Tasks should focus on rote memorization"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The communicative approach emphasizes the use of:",
+"correct_answer":"Authentic texts and materials",
+"incorrect_answers":[
+"Written drills and exercises",
+"Teacher-driven explanations",
+"Strict vocabulary lists"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a communicative activity?",
+"correct_answer":"Pair work conversation on a specific topic",
+"incorrect_answers":[
+"Listening to a lecture and taking notes",
+"Reading a textbook and answering questions",
+"Memorizing a poem"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method does communicative language teaching oppose?",
+"correct_answer":"Grammar translation method",
+"incorrect_answers":[
+"Audiolingual method",
+"Content-based instruction",
+"The direct method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following best describes 'fluency' in language learning?",
+"correct_answer":"The ability to express oneself clearly and smoothly in the target language",
+"incorrect_answers":[
+"The ability to speak without making any mistakes",
+"The ability to memorize vocabulary words",
+"The ability to understand every grammar rule"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the primary goal of communication in a communicative classroom?",
+"correct_answer":"To create meaningful exchanges between students",
+"incorrect_answers":[
+"To practice correct grammar forms",
+"To translate complex texts",
+"To memorize language rules"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What kind of classroom environment does the communicative approach promote?",
+"correct_answer":"A collaborative student-centered environment",
+"incorrect_answers":[
+"A teacher-centered, lecture-based environment",
+"A quiet, individual study environment",
+"A highly structured, rigid classroom environment"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is one of the advantages of the communicative approach?",
+"correct_answer":"It allows students to learn language in a meaningful and engaging way",
+"incorrect_answers":[
+"It eliminates the need for grammar instruction",
+"It focuses exclusively on writing skills",
+"It prioritizes teacher-centered learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"A common activity in a communicative classroom is:",
+"correct_answer":"Pair work to solve a problem or complete a task",
+"incorrect_answers":[
+"Dictation exercises",
+"Reading from a textbook",
+"Memorizing a speech"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the communicative approach, what is emphasized more than grammatical perfection?",
+"correct_answer":"Fluency and the ability to communicate ideas",
+"incorrect_answers":[
+"Writing formal essays",
+"Accurate spelling",
+"Memorizing verb conjugations"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"A communicative classroom typically has:",
+"correct_answer":"Frequent pair and group work for language use",
+"incorrect_answers":[
+"One-way communication from teacher to students",
+"Limited interaction between students",
+"Rote memorization of vocabulary"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The communicative approach encourages learners to:",
+"correct_answer":"Focus on real-life communicative tasks",
+"incorrect_answers":[
+"Avoid making any mistakes",
+"Practice language only through written exercises",
+"Speak only when they are completely confident"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following best describes communicative language teaching's approach to vocabulary?",
+"correct_answer":"Vocabulary is taught through context and use in communication",
+"incorrect_answers":[
+"Vocabulary is learned through isolated drills",
+"Vocabulary is learned by memorizing lists",
+"Vocabulary is not important in language learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which type of language learning activities are preferred in a communicative approach?",
+"correct_answer":"Activities that involve real-life communication",
+"incorrect_answers":[
+"Activities that focus on grammar drills",
+"Activities that require only silent reading",
+"Activities that focus on memorization"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The communicative approach is based on the idea that:",
+"correct_answer":"Communication is the ultimate goal of language learning",
+"incorrect_answers":[
+"Language learning should focus on memorizing rules",
+"Fluency is more important than pronunciation",
+"Teachers should do most of the talking"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In a communicative classroom, how is error correction typically handled?",
+"correct_answer":"Errors are addressed at the end of the activity or lesson",
+"incorrect_answers":[
+"Errors are corrected immediately and sternly",
+"Errors are never addressed",
+"Errors are ignored to encourage fluency"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The communicative approach encourages learners to:",
+"correct_answer":"Practice language in real-world contexts",
+"incorrect_answers":[
+"Use language in controlled, structured ways",
+"Focus on theoretical grammar explanations",
+"Only speak with the teacher"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an example of a real-life task in a communicative classroom?",
+"correct_answer":"Conducting a survey on a current topic",
+"incorrect_answers":[
+"Filling in grammar blanks",
+"Memorizing a set of vocabulary",
+"Listening to a recorded grammar explanation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In communicative classrooms, learners are encouraged to:",
+"correct_answer":"Interact and use language creatively",
+"incorrect_answers":[
+"Memorize and recite grammar rules",
+"Focus only on written exercises",
+"Stay silent until they are absolutely correct"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is a common feature of the communicative approach's methodology?",
+"correct_answer":"Emphasis on developing fluency in communication",
+"incorrect_answers":[
+"Learning isolated vocabulary lists",
+"Focusing solely on reading comprehension",
+"Memorizing grammar rules without context"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a characteristic of communicative language teaching?",
+"correct_answer":"Emphasis on meaningful interaction",
+"incorrect_answers":[
+"Focus on accuracy at all costs",
+"Teacher controls all classroom activities",
+"Use of only written texts"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is NOT a typical activity in a communicative classroom?",
+"correct_answer":"Writing a dictation",
+"incorrect_answers":[
+"Pair discussions",
+"Role-playing",
+"Group problem-solving tasks"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following best describes a lesson using the deductive approach?",
+"correct_answer":"The teacher gives a rule and then students practice applying it.",
+"incorrect_answers":[
+"Students analyze examples first and infer the rule.",
+"The teacher focuses solely on conversation.",
+"Students work in groups to discover grammar rules."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is commonly used in traditional classrooms with a focus on teacher explanations?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Communicative approach",
+"Task-based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method might be considered more student-centered?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Audiolingual method",
+"Grammar-Translation method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The inductive method is often used to teach:",
+"correct_answer":"Grammar by having students practice and work out rules.",
+"incorrect_answers":[
+"Vocabulary through memorization.",
+"Speaking and listening skills through examples.",
+"Writing through sentence structure drills."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an advantage of the deductive method?",
+"correct_answer":"It provides quick understanding of concepts.",
+"incorrect_answers":[
+"It helps students discover rules independently",
+"It is more engaging for students.",
+"It focuses on meaning rather than form."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the inductive method, the teacher typically:",
+"correct_answer":"Gives students examples and asks them to infer the rule.",
+"incorrect_answers":[
+"Explains the rule first, then gives examples.",
+"Focuses on reading comprehension only.",
+"Uses only oral communication."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method typically requires students to discover rules through examples and patterns?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Direct method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In which method are students given the rules before seeing examples?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Communicative method",
+"Task-based method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is also known as the 'top-down' approach?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Both methods",
+"Neither"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the main difference between the deductive and inductive methods of teaching?",
+"correct_answer":"Deductive method starts with rules, inductive starts with examples.",
+"incorrect_answers":[
+"Deductive method involves memorization, inductive method does not.",
+"Deductive method is used only in grammar, inductive method is used in listening.",
+"Deductive method is focused on speaking, inductive method on writing."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a disadvantage of the deductive method?",
+"correct_answer":"It can make students passive learners.",
+"incorrect_answers":[
+"It is time-consuming.",
+"It requires students to make their own discoveries.",
+"It is unsuitable for teaching advanced learners."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an advantage of the inductive method?",
+"correct_answer":"It helps students apply rules without memorization.",
+"incorrect_answers":[
+"It is faster and more efficient than deductive learning.",
+"It is more focused on grammar accuracy than fluency.",
+"It allows the teacher to deliver content quickly."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The deductive method is more suitable for:",
+"correct_answer":"Advanced students who need to understand complex rules quickly.",
+"incorrect_answers":[
+"Beginner-level students.",
+"Students who prefer a hands-on approach to learning.",
+"Students with a focus on fluency and communication."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these is an example of the inductive method?",
+"correct_answer":"Analyzing sentences and deducing the rules.",
+"incorrect_answers":[
+"Learning grammar by doing exercises after reading a rule.",
+"Completing a fill-in-the-blank exercise.",
+"Memorizing vocabulary words through repetition."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is more likely to focus on a 'bottom-up' approach?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Direct method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In a deductive approach to teaching, students' role is mainly:",
+"correct_answer":"To apply the rules given by the teacher to practice exercises.",
+"incorrect_answers":[
+"To discover grammar rules themselves.",
+"To interact with each other and use language creatively.",
+"To focus on oral communication."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a disadvantage of the inductive method?",
+"correct_answer":"It can be time-consuming.",
+"incorrect_answers":[
+"It does not engage students.",
+"It provides immediate clarity of rules.",
+"It is less flexible than the deductive method."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In a deductive lesson, the teacher typically:",
+"correct_answer":"Gives students the rule and then provides examples.",
+"incorrect_answers":[
+"Starts with an activity and gives the rule afterward.",
+"Begins with examples, then leads to a rule.",
+"Focuses only on communication and fluency."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is most likely to result in students being able to generalize rules for new examples?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Audiolingual method",
+"Grammar-Translation method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In an inductive grammar lesson, students are most likely to:",
+"correct_answer":"Identify patterns and form their own rule.",
+"incorrect_answers":[
+"Memorize grammar rules.",
+"Read a grammar explanation.",
+"Practice translation of sentences."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What does the deductive method emphasize in language learning?",
+"correct_answer":"Quick understanding of rules through direct explanation",
+"incorrect_answers":[
+"Inductive reasoning",
+"Practical application of language",
+"Communicative competence"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The inductive approach is often preferred in:",
+"correct_answer":"Student-centered, interactive classrooms.",
+"incorrect_answers":[
+"Traditional lecture-based classrooms.",
+"Formal writing instruction.",
+"Speaking-only classes."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is more likely to make use of discovery learning?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Direct method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a characteristic of the inductive method?",
+"correct_answer":"Students are given examples and must infer the rule.",
+"incorrect_answers":[
+"Teachers give the rules upfront.",
+"It focuses exclusively on speaking skills.",
+"It is less time-consuming than the deductive method."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is more structured and teacher-directed?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Communicative approach",
+"Task-based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which approach tends to provide more opportunities for students to practice language?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audiolingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these approaches is most likely to require less teacher explanation?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audiolingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is true of the inductive method?",
+"correct_answer":"It allows students to discover rules through guided exploration.",
+"incorrect_answers":[
+"It requires students to apply memorized rules.",
+"It only works with vocabulary learning.",
+") It uses clear, step-by-step explanations of grammar."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is generally better for students who need to learn rules quickly?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Communicative method",
+"Project-based method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In an inductive grammar lesson, how do students typically first encounter grammar?",
+"correct_answer":"They are exposed to sentences or texts and infer the rule.",
+"incorrect_answers":[
+"They memorize the grammar rule.",
+"They are given the rule and then practice it.",
+"They receive a detailed explanation of the rule."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the deductive approach, learners often:",
+"correct_answer":"Receive direct instruction on rules first, then practice.",
+"incorrect_answers":[
+"Infer rules from examples.",
+"Study grammar after encountering examples.",
+"Focus on using language creatively in context."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these methods is more likely to be seen in a traditional, teacher-centered classroom?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Communicative method",
+"Task-based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following would be more likely in an inductive approach to teaching grammar?",
+"correct_answer":"Listening to a recorded dialogue to identify patterns",
+"incorrect_answers":[
+"A worksheet with rules to follow",
+"An oral grammar test",
+"Memorizing vocabulary words"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is NOT true about the inductive method?",
+"correct_answer":"It relies on the teacher’s explanation of rules.",
+"incorrect_answers":[
+"It encourages students to think critically.",
+"It encourages learners to discover patterns in language.",
+"It often takes longer to arrive at understanding"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is often favored by students who prefer clear, structured explanations?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"The Silent Way",
+"Communicative approach"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these is more likely to be a feature of an inductive method lesson?",
+"correct_answer":"Students listen to a story and identify grammar patterns.",
+"incorrect_answers":[
+"The teacher uses only written exercises.",
+"Students read a rule and apply it to examples.",
+"The teacher uses a lecture to explain the grammar rule."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following methods requires students to discover rules from exposure to examples?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audio-lingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these is a disadvantage of the inductive method?",
+"correct_answer":"Students may feel uncertain if they cannot identify the rule.",
+"incorrect_answers":[
+"It is too focused on grammar.",
+"It is too fast-paced for beginner learners.",
+"It provides little practice with grammar."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is often considered better for students with limited language experience?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Communicative method",
+"Task-based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which approach is likely to involve the teacher explaining rules first, followed by practice?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"The Silent Way",
+"Total Physical Response"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is known for helping students develop their own understanding of language rules?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audiolingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is likely to work best for students who need a clear understanding of grammar rules before applying them?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Audio-lingual method",
+"Project-based learning"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In which method does the teacher typically explain the rule after students have tried to apply it?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Direct method",
+"Total Physical Response"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which approach is most likely to involve problem-solving or discovery activities?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audiolingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is most characteristic of the inductive method?",
+"correct_answer":"Encouraging students to identify patterns and infer rules.",
+"incorrect_answers":[
+"Using controlled practice with little interaction.",
+"Giving students grammar rules and then practicing.",
+"Focusing on memorizing grammar rules."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method tends to require more student involvement in the learning process?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audio-Lingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following methods encourages active learning through discovery?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audiolingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method would be more effective for students who learn best from examples and exploration?",
+"correct_answer":"Inductive method",
+"incorrect_answers":[
+"Deductive method",
+"Grammar-Translation method",
+"Audiolingual method"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which method is often described as 'rule-based'?",
+"correct_answer":"Deductive method",
+"incorrect_answers":[
+"Inductive method",
+"Task-based method",
+"Communicative approach"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which is a major disadvantage of the Grammar-Translation Method?",
+"correct_answer":"It may lead to limited speaking and listening practice.",
+"incorrect_answers":[
+"It ignores the importance of grammar.",
+"It focuses too much on oral skills.",
+"It discourages the use of the native language."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of these would most likely be a feature of a Grammar-Translation classroom?",
+"correct_answer":"Reading and translating a passage from literature",
+"incorrect_answers":[
+"Engaging in real-world conversations",
+"Completing a speaking activity with a partner",
+"Watching an English-language film with subtitles"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is an advantage of the Grammar-Translation Method?",
+"correct_answer":"It promotes deep understanding of grammar rules.",
+"incorrect_answers":[
+"It helps students become fluent speakers quickly.",
+"It encourages creative and spontaneous use of language.",
+"It emphasizes interactive communication and peer work."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the Grammar-Translation Method, teachers often:",
+"correct_answer":"Explain grammatical rules in detail before practice",
+"incorrect_answers":[
+"Focus on speaking and pronunciation practice",
+"Provide extensive feedback on fluency",
+"Encourage spontaneous conversation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"The Grammar-Translation Method typically uses which kind of activities?",
+"correct_answer":"Grammar drills and translation exercises",
+"incorrect_answers":[
+"Pair and group discussions",
+"Role-play and problem-solving tasks",
+"Listening comprehension exercises"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is NOT a feature of the Grammar-Translation Method?",
+"correct_answer":"Focus on conversational skills",
+"incorrect_answers":[
+"Emphasis on grammar rules",
+"Translation of sentences between the target and native language",
+"Memorization of vocabulary lists"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which skill does the Grammar-Translation Method emphasize most?",
+"correct_answer":"Reading and writing",
+"incorrect_answers":[
+"Speaking",
+"Listening",
+"Pronunciation"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Which of the following is a primary characteristic of the Grammar-Translation Method?",
+"correct_answer":"Use of literature as a primary learning tool",
+"incorrect_answers":[
+"Emphasis on fluency and communication",
+"Focus on speaking and listening",
+"Interactive role-play activities"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the Grammar-Translation Method, language learners typically start by:",
+"correct_answer":"Translating sentences from their native language",
+"incorrect_answers":[
+"Learning vocabulary through immersion",
+"Focusing on speaking in context",
+"Engaging in communicative activities"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What is the Grammar-Translation Method primarily focused on?",
+"correct_answer":"Mastery of grammar rules and translation",
+"incorrect_answers":[
+"Communication and fluency",
+"Vocabulary development through context",
+"Pronunciation and oral fluency"
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"In the Grammar-Translation Method, students are often asked to:",
+"correct_answer":"Memorize grammar rules and vocabulary lists.",
+"incorrect_answers":[
+"Engage in conversation with native speakers.",
+"Create original stories in the target language.",
+"Practice listening to audio recordings."
+],
+"category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"What does the Grammar-Translation Method emphasize most when learning grammar?",
+"correct_answer":"Grammar in written contexts, especially literature",
+"incorrect_answers":[
+"Grammar use in spoken situations",
+"Grammar as a separate and isolated subject",
+"Grammar through immersion in conversation"
+],
+"category": "Foreign Languages"
 }
 ]`
 
 export const store = JSON.parse(tests)
 
 export const categories = [
+    {value: 'Foreign Languages', name: 'Foreign Languages'},
     {value: 'Discourse Analysis', name: 'Discourse Analysis'},
     {value: 'Writing and Reading', name: 'Writing and Reading'},
 ]
