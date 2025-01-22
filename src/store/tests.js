@@ -8666,12 +8666,6625 @@ const tests = `[
 "Grammar through immersion in conversation"
 ],
 "category": "Foreign Languages"
+},
+{
+"difficulty": "-",
+"question":"Noaniq artikllar berilgan qatorni toping",
+"correct_answer":"noaniq artikllar: ein, eine, ein. Noaniq artiklning ko’pligi yo’q",
+"incorrect_answers":[
+"noaniq artikllar: der, eine, das. Noaniq artiklning ko’pligi yo’q",
+"noaniq artikllar: ein, die, ein. Noaniq artiklning ko’pligi yo’q",
+"noaniq artikllar: das, eine, der. Noaniq artiklning ko’pligi yo’q"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Yil fasllari, oy, hafta kunlari oldidan qanday artikel qo’llanadi",
+"correct_answer":"Aniq artikl",
+"incorrect_answers":[
+"Artikl qo’llanmaydi",
+"Noaniq va aniq artikl qo’llanadi",
+"Noaniq artikllar"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Togʻ, daryo, dengiz, koʻl, okean, yulduzlar, qit’a, va mintaqalar nomlari oldidan",
+"correct_answer":"Aniq artikl",
+"incorrect_answers":[
+"Noaniq artikllar",
+"Noaniq va aniq artikl qo’llanadi",
+"Artikl qo’llanmaydi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„alt “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"qari",
+"incorrect_answers":[
+"yosh",
+"chiroyli",
+"toza"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„jung “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"yosh",
+"incorrect_answers":[
+"qari",
+"keng",
+"chiroyli"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„die Hochschule “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"oliy o´quv yurti",
+"incorrect_answers":[
+"maktab",
+"o‘quvchi",
+"yosh"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„das Land “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"qishloq, mamlakat",
+"incorrect_answers":[
+"qishloq,mahalla",
+"mamlakat",
+"qari"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„die Frau“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"ayol, xotin",
+"incorrect_answers":[
+"kishi",
+"bola",
+"qishloq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„das Kind“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"bola",
+"incorrect_answers":[
+"ona",
+"ota",
+"buvi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Nemis tili alfavitida nechta harf bor?",
+"correct_answer":"26",
+"incorrect_answers":[
+"28",
+"25",
+"24"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Nemis tilida nechta unli harf bor?",
+"correct_answer":"6",
+"incorrect_answers":[
+"7",
+"5",
+"4"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Wie heißt du? savoliga to’g’ri javob berilgan qatorni toping!",
+"correct_answer":"Ich heiße Karim",
+"incorrect_answers":[
+"Ich bin 19 Jahre alt",
+"Ich bin aus Buchara",
+"Er kommt vom Lande"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Wie alt bist du?  savoliga to’g’ri javob berilgan qatorni toping!",
+"correct_answer":"Ich bin 21 Jahre alt",
+"incorrect_answers":[
+"Ich komme vom Lande",
+"Sie ist Student",
+"Bist du Lehrer?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Woher kommst du? savoliga to’g’ri javob berilgan qatorni toping!",
+"correct_answer":"Ich komme vom Lande",
+"incorrect_answers":[
+"Er ist jung",
+"Buchara ist alte Stadt",
+"Sie ist schön"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Was bist du von Beruf? savoliga to’g’ri javob berilgan qatorni toping!",
+"correct_answer":"Ich bin Student",
+"incorrect_answers":[
+"Kommst du auch aus Buchara?",
+"Bist du Student?",
+"Ich heiße Klaus"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ie ie harf birikmasi qanday tarzida talaffuz qilinadi",
+"correct_answer":"Ie ie harf birikmasi cho’ziq i tarzida talaffuz qilinadi",
+"incorrect_answers":[
+"Ie ie harf birikmasi cho’ziq ay tarzida talaffuz qilinadi",
+"Ie ie harf birikmasi cho’ziq oy tarzida talaffuz qilinadi",
+"Ie ie harf birikmasi cho’ziq au tarzida talaffuz qilinadi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"umlaut berilgan qatorni toping!",
+"correct_answer":"ä,ö,ü",
+"incorrect_answers":[
+"ä,eu,ü",
+"au,ö,ei",
+"ei,ö,au"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"ei va ai diftongi qay tarzida aytiladi",
+"correct_answer":"ei va ai diftongi ay tarzida aytiladi",
+"incorrect_answers":[
+"ei va ai diftongi oy tarzida aytiladi",
+"ei va ai diftongi uyu tarzida aytiladi",
+"ei va ai diftongi yu tarzida aytiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"eu va äu diftongi qay o’qiladi",
+"correct_answer":"eu va äu diftongi oy o’qiladi",
+"incorrect_answers":[
+"eu va äu diftongi ay o’qiladi",
+"eu va äu diftongi au o’qiladi",
+"eu va äu diftongi ao o’qiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Au au diftongi qay tarzida aytiladi",
+"correct_answer":"Au au diftongi ao tarzida aytiladi",
+"incorrect_answers":[
+"Au au diftongi ay tarzida aytiladi",
+"Au au diftongi oy tarzida aytiladi",
+"Au au diftongi i:cho‘ziq tarzida aytiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"PH ph harf birikmasi qanday o’qiladi",
+"correct_answer":"PH ph harf birikmasi f o’qiladi",
+"incorrect_answers":[
+"PH ph harf birikmasi v o’qiladi",
+"PH ph harf birikmasi sh o’qiladi",
+"PH ph harf birikmasi t o’qiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"TH th harf birikmasi qanday o’qiladi",
+"correct_answer":"TH th harf birikmasi t deb o’qiladi",
+"incorrect_answers":[
+"TH th harf birikmasi f deb o’qiladi",
+"TH th harf birikmasi h deb o’qiladi",
+"TH th harf birikmasi g deb o’qiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tsch tsch harf birikmasi qanday o’qiladi",
+"correct_answer":"Tsch tsch harf birikmasi ch deb aytiladi",
+"incorrect_answers":[
+"Tsch tsch harf birikmasi sh deb aytiladi",
+"Tsch tsch harf birikmasi x deb aytiladi",
+"Tsch tsch harf birikmasi t deb aytiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"V v ( fau) harfi necha xil o’qiladi",
+"correct_answer":"V v ( fau) harfi ikki xil o’qiladi",
+"incorrect_answers":[
+"V v ( fau) harfi uch xil o’qiladi",
+"V v ( fau) harfi to’rt xil o’qiladi",
+"V v ( fau) harfi bir xil o’qiladi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ot so’z turkumiga ta’rif bering!",
+"correct_answer":"Narsa va hodisa nomlarini bildirib, wer? kim?, was? nima?",
+"incorrect_answers":[
+"Narsa va hodisa belgilarini bildirib, wen? kimni?, was? nima?",
+"Narsa va hodisa sifatlarini bildirib, wem? kimga?, was? nima?",
+"Narsa va hodisa miqdorini bildirib, wo? qayerda?, was? nima?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„der Onkel“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"tog´a-amaki",
+"incorrect_answers":[
+"xola",
+"erkak kishi",
+"ayol"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„die Tante “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"xola-amma",
+"incorrect_answers":[
+"maktab",
+"tog´a-amaki",
+"ota-ona"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"30 soni to’g’ri berilgan qatorni toping",
+"correct_answer":"dreißig",
+"incorrect_answers":[
+"dreizig",
+"dreizehn",
+"drei"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"12soni to’g’ri berilgan qatorni toping",
+"correct_answer":"zwölf",
+"incorrect_answers":[
+"zehn",
+"zwanzig",
+"zwei"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"17 soni to’g’ri berilgan qatorni toping",
+"correct_answer":"siebzehn",
+"incorrect_answers":[
+"siebzig",
+"sechzig",
+"sieben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"24 soni to’g’ri berilgan qatorni toping",
+"correct_answer":"vierundzwanzig",
+"incorrect_answers":[
+"dreiundzwanzig",
+"zweiundzwanzig",
+"zwanzig"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Birinchi (1-)tartib raqami qaysi qatorda to’g’ri keltirilgan",
+"correct_answer":"erste",
+"incorrect_answers":[
+"einte",
+"zweite",
+"dritte"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Meine Eltern … Lehrer nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"sind",
+"incorrect_answers":[
+"ist",
+"bist",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Er … ein Buch nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"haben",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Sie(u) … eine Vase nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"ist",
+"bist",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Der Raum ...hell, groß und sauber nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"sind",
+"hat",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du ...hungrig nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"bist",
+"incorrect_answers":[
+"bin",
+"ist",
+"hat"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Er ... müde nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"habt",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Meine Mutter … schön nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"sind",
+"habe",
+"hast"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Wir ... eine Prüfung nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"haben",
+"incorrect_answers":[
+"habe",
+"ist",
+"bist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Er ... einen Sohn nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"haben",
+"bist",
+"bin"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Kind ... einen Ball nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"habe",
+"sind",
+"bin"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Der Baum ... schon grün nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"habe",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Mein Vater ... Lehrer nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"hast"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Der Ball ... schön nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"haben",
+"hast",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Die Nacht … kalt nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"hat",
+"habe",
+"bin"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Wir … heute Chemie nuqtalar o’rniga haben felini tegishli formada qo´llang!",
+"correct_answer":"haben",
+"incorrect_answers":[
+"hast",
+"hat",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Studium … sehr interessant nuqtalar o’rniga sein felini tegishli formada qo´llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Dieser Student … fleißig nuqtalar o’rniga sein felini tegishli formada qo´llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"seid",
+"bin"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Sie (ular) … heute eine Kontrollarbeit nuqtalar o’rniga haben felini tegishli formada qo´llang!",
+"correct_answer":"haben",
+"incorrect_answers":[
+"habt",
+"hast",
+"hat"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ihr … einen schönen Garten nuqtalar o’rniga haben felini tegishli formada qo’llang!",
+"correct_answer":"habt",
+"incorrect_answers":[
+"haben",
+"hast",
+"hat"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Die Großmutter … alt nuqtalar o’rniga sein felini tegishli formada qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Dieses Buch … interessant nuqtalar o’rniga sein felini tegishli formada qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"seid",
+"sind",
+"bist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du ... ein Heft nuqtalar o’rniga haben felini tegishli formada qo‘llang!",
+"correct_answer":"hast",
+"incorrect_answers":[
+"hat",
+"haben",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"das Buch so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wer?",
+"wem?",
+"wo?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Meine Schwester so’ziga to’g’ri savol qo’yilgan qatorni toping",
+"correct_answer":"wer?",
+"incorrect_answers":[
+"was?",
+"wo?",
+"wohin?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"in Taschkent so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wo?",
+"incorrect_answers":[
+"wem?",
+"wann?",
+"was?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"neu so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wer?",
+"wen?",
+"wann?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Lehrer so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wer?",
+"incorrect_answers":[
+"wem?",
+"wo?",
+"was?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Bruder so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wer?",
+"incorrect_answers":[
+"was?",
+"wen?",
+"wem?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"alt so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wo?",
+"wann?",
+"welche?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Garten so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wer?",
+"wo?",
+"wen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"groß so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wann?",
+"wer?",
+"wessen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"die Kontrollarbeit so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wer?",
+"worum?",
+"wie?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Du, heute, sehr, gut, antworten",
+"correct_answer":"Du antwortest heute sehr gut",
+"incorrect_answers":[
+"Antwortest heute sehr du gut",
+"Du heute sehr gut antwortest",
+"Heute antwortet sehr gut er"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! sein Freund, in Taschkent, leben",
+"correct_answer":"Sein Freund lebt in Taschkent",
+"incorrect_answers":[
+"In Taschkent leben sein Freund",
+"Leben sein Freund in Taschkent",
+"Sein Freund in Taschkent leben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring!  der Roman  ist interessant",
+"correct_answer":"er",
+"incorrect_answers":[
+"sie",
+"es",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring!  das Buch  ist interessant",
+"correct_answer":"es",
+"incorrect_answers":[
+"er",
+"sie",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Wir, täglich, das Sprachlabor, besuchen",
+"correct_answer":"wir besuchen täglich das Sprachlabor",
+"incorrect_answers":[
+"besuchen täglich wir das Sprachlabor",
+"das Sprachlabor wir besuchen täglich",
+"besuchen täglich das Sprachlabor wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Die Studenten arbeiten im Garten",
+"correct_answer":"die Studenten arbeiten im Garten",
+"incorrect_answers":[
+"arbeiten im Garten die Studenten",
+"im Garten die Studenten arbeiten",
+"die Studenten im Garten arbeiten"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida teskari so’z tartibli darak gap tuzing! Im ersten Studienjahr, wir, stehen",
+"correct_answer":"im ersten Studienjahr stehen wir",
+"incorrect_answers":[
+"wir im ersten Studienjahr stehen",
+"im ersten wir Studienjahr stehen",
+"stehen im ersten Studienjahr wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing kommt, wer,aus Taschkent?",
+"correct_answer":"wer kommt aus Taschkent?",
+"incorrect_answers":[
+"kommt wer aus Taschkent?",
+"wer aus Taschkent kommt?",
+"aus Taschkent wer kommt?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing wo, du,lebst?",
+"correct_answer":"wo lebst du?",
+"incorrect_answers":[
+"du lebst wo?",
+"ich lebe in Taschkent?",
+"leben sie in Buchara?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zga to’g’ri savol qo’yilgan qatorni toping ! Der Vater des Studenten ist Agronom",
+"correct_answer":"wessen?",
+"incorrect_answers":[
+"wer?",
+"was?",
+"wen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring! Meine Mutter liest diesen Roman",
+"correct_answer":"sie",
+"incorrect_answers":[
+"er",
+"es",
+"ihn"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring! Mein Bruder ist Student",
+"correct_answer":"er",
+"incorrect_answers":[
+"es",
+"sie",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring!  Er lüftet das Zimmer",
+"correct_answer":"es",
+"incorrect_answers":[
+"er",
+"sie",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring!  der Bruder an der Universität",
+"correct_answer":"er",
+"incorrect_answers":[
+"es",
+"sie",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zga savol qo´ying ! Das Studienjahr beginnt im September",
+"correct_answer":"wann?",
+"incorrect_answers":[
+"wo?",
+"wer?",
+"wohin?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring! die Tochter ist schön",
+"correct_answer":"sie",
+"incorrect_answers":[
+"er",
+"es",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring!  die Tafel ist schwarz",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"ihr"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ajratib ko’rsatilgan so’zni tegishli olmoshga almashtiring! Meine Schwester geht ins Kino",
+"correct_answer":"sie",
+"incorrect_answers":[
+"er",
+"es",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan?",
+"correct_answer":"Ich habe ein Buch.  Ich bin Student",
+"incorrect_answers":[
+"Wir habt ein Buch.  Du ist Student",
+"Ihr haben ein Buch.  Er sind Student",
+"Sie seid Student.  Du habst ein Buch"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing! kommen, Sie,woher?",
+"correct_answer":"woher kommen Sie?",
+"incorrect_answers":[
+"kommen Sie woher?",
+"kommen Sie aus Chiwa?",
+"kommen woher Sie?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan",
+"correct_answer":"Du hast einen Bruder.  Er ist Lehrer",
+"incorrect_answers":[
+"Ich hat einen Bruder.  Sie seid Lehrer",
+"Er haben eine Schwester.  Sie bist Lehrer",
+"Ihr habe eine Schwester. Ihr sind Lehrer"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan",
+"correct_answer":"Du hast ein Buch.  Das Buch ist neu",
+"incorrect_answers":[
+"Ich hat ein Buch. Sie sind neu",
+"Wir habt ein Buch. Wir ist neu",
+"Du hat ein Buch. Das Buch sind neu"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan",
+"correct_answer":"Ich habe eine Großmutter.  Sie ist alt",
+"incorrect_answers":[
+"Ich hat eine Großmutter.  Er bist alt",
+"Wir hast eine Großmutter.  Sie bist alt",
+"Wir sind eine Großmutter.  Sie seid alt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan",
+"correct_answer":"Wir haben eine Vorlesung.  Sie ist interessant",
+"incorrect_answers":[
+"Wir habt eine Vorlesung.  Sie sind interessant",
+"Wir habe eine Vorlesung.  Sie bist interessant",
+"Wir ist eine Vorlesung.  Sie bin interessant"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan",
+"correct_answer":"Du hast einen Onkel.  Er ist noch jung",
+"incorrect_answers":[
+"Du hat einen Onkel.  Er bin noch jung",
+"Du habt einen Onkel.  Er bist noch jung",
+"Du haben einen Onkel.  Er hat noch jung"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„haben“ oder „sein“ qaysi qatorda mos fe´l qo´llangan",
+"correct_answer":"Ihr habt einen Garten.  Er ist groß",
+"incorrect_answers":[
+"Ihr hat einen Garten.  Er bist groß",
+"Ihr haben einen Garten.  Er sind groß",
+"Ihr hast einen Garten.  Er bin groß"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Tee so’ziga to’g’ri savol qo’yilgan qatorni toping",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wer?",
+"worum?",
+"wie?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Lola, in Toschkent, lebt",
+"correct_answer":"Lola lebt in Toschkent",
+"incorrect_answers":[
+"In Toschkent Lola lebt",
+"Leben in Toschkent Lola",
+"Lebt Lola in Toschkent"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Apfel so’ziga to’g’ri savol qo’yilgan qatorni toping",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wer?",
+"wo?",
+"wann?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"das Bier so’ziga to’g’ri savol qo’yilgan qatorni toping",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wo?",
+"wann?",
+"wohin?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Heute, ins Museum,gehen, wir",
+"correct_answer":"wir gehen heute ins Museum",
+"incorrect_answers":[
+"wir heute ins Museum gehen",
+"gehen wir heute ins Museum",
+"heute ins Museum wir gehen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! beginnt, der Unterricht,um 9 Uhr",
+"correct_answer":"der Unterricht beginnt um 9 Uhr",
+"incorrect_answers":[
+"beginnt um 9 Uhr Der Unterricht",
+"der Unterricht um 9 Uhr beginnt",
+"um 9 Uhr der Unterricht beginnt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Tennis, spielt, mein Bruder",
+"correct_answer":"mein Bruder spielt Tennis",
+"incorrect_answers":[
+"spielt Tennis mein Bruder",
+"Tennis mein Bruder spielt",
+"spielt mein Bruder Tennis"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  Die Limonade",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  der Rotwein",
+"correct_answer":"er",
+"incorrect_answers":[
+"es",
+"sie",
+"ihr"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  die Milch",
+"correct_answer":"sie",
+"incorrect_answers":[
+"er",
+"wir",
+"es"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  der Käse",
+"correct_answer":"er",
+"incorrect_answers":[
+"es",
+"sie",
+"ihr"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring! der Honig",
+"correct_answer":"er",
+"incorrect_answers":[
+"es",
+"ich",
+"ihm"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring! das Zimmer",
+"correct_answer":"es",
+"incorrect_answers":[
+"er",
+"sie",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring! die Pizza",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring! der Spiegel",
+"correct_answer":"er",
+"incorrect_answers":[
+"es",
+"sie",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring! die Küche",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring! das Schlafzimmer",
+"correct_answer":"es",
+"incorrect_answers":[
+"er",
+"sie",
+"ihr"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Ich … Lehrer",
+"correct_answer":"bin",
+"incorrect_answers":[
+"ist",
+"sind",
+"bist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Ich … einen Freund",
+"correct_answer":"habe",
+"incorrect_answers":[
+"hat",
+"ist",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! du … einen Onkel",
+"correct_answer":"hast",
+"incorrect_answers":[
+"hat",
+"habt",
+"habe"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! wir … heute eine Vorlesung",
+"correct_answer":"haben",
+"incorrect_answers":[
+"hat",
+"habt",
+"hast"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Er … eine Wanduhr",
+"correct_answer":"hat",
+"incorrect_answers":[
+"hast",
+"habt",
+"ist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! die Wanduhr … neu",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"hat"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! die Wohnung … gemütlich",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"hat",
+"bist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! der Garten … groß",
+"correct_answer":"ist",
+"incorrect_answers":[
+"habe",
+"bin",
+"bist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  das Brot",
+"correct_answer":"es",
+"incorrect_answers":[
+"sie",
+"er",
+"du"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  das Brötchen",
+"correct_answer":"es",
+"incorrect_answers":[
+"er",
+"ihr",
+"sie"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„das Ei “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"tuxum",
+"incorrect_answers":[
+"muzqaymoq",
+"qaymoq",
+"choy"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berigan savolga to’g’ri javob qatorni toping! Was ist die Nationalgetränk der Deutschen",
+"correct_answer":"Bier ist Nationalgetränk der Deutschen",
+"incorrect_answers":[
+"Wein ist Nationalgetränk der Deutschen",
+"Tee ist Nationalgetränk der Deutschen",
+"Cola ist Nationalgetränk der Deutschen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„die Suppe“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"sho’rva",
+"incorrect_answers":[
+"sharbat",
+"pishloq",
+"kalbasa"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ das Eis “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"muzqaymoq",
+"incorrect_answers":[
+"qaymoq",
+"shakar",
+"pishloq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ das Gemüse “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"sabzavot",
+"incorrect_answers":[
+"pishloq",
+"qazi",
+"sariyog´"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ das Obst “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"meva",
+"incorrect_answers":[
+"sabzavot",
+"shirinlik",
+"non"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ kochen “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"pishirmoq (ovqat)",
+"incorrect_answers":[
+"ichmoq",
+"yozmoq",
+"kelmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ arbeiten“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"ishlamoq",
+"incorrect_answers":[
+"ichmoq",
+"yemoq",
+"pishirmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ hungrig sein“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"och bo‘lmoq",
+"incorrect_answers":[
+"yemoq",
+"ichmoq",
+"pishirmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ satt sein“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"to‘q bolmoq",
+"incorrect_answers":[
+"non",
+"pishloq",
+"choy"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ das Abendbrot essen “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"kechki ovqatni  yemoq",
+"incorrect_answers":[
+"nonushta qilmoq",
+"tushlik",
+"ichmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ backen“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"pishirmoq (pishiriq)",
+"incorrect_answers":[
+"nonushta",
+"sharbat",
+"choy"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ der Tee“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"choy",
+"incorrect_answers":[
+"sharbat",
+"cola",
+"jogurt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ das Zimmer“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"xona",
+"incorrect_answers":[
+"kvartira",
+"bog´",
+"oyna"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ der Fleisch“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"go’sht",
+"incorrect_answers":[
+"baliq",
+"kalbasa",
+"tuxum"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ trinken “ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"ichmoq",
+"incorrect_answers":[
+"yemoq",
+"pishirmoq",
+"sariyog’"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"„ die Butter“ so’zi to’g’ri tarjima qilingan qatorni toping!",
+"correct_answer":"sariyog’",
+"incorrect_answers":[
+"qazi",
+"go’sht",
+"vino"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Faqat ichimliklar berilgan qatorni toping!",
+"correct_answer":"der Kaffee,die Milch,das Wasser,das Bier,das Mineralwasser",
+"incorrect_answers":[
+"der Kaffee,der Käse,das Wasser,das Bier,das Mineralwasser",
+"das Brot,die Milch,das Wasser,das Bier,das Mineralwasser",
+"das Brot,das Ei,Milch,das Wasser,das Bier,das Mineralwasser"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Faqat yeguliklar berilgan qatorni toping!",
+"correct_answer":"der Fisch,der Fleisch,die Suppe, der Salat",
+"incorrect_answers":[
+"der Fisch,die Milch,die Suppe, der Salat",
+"der Fisch,das Bier,die Suppe, der Salat",
+"der Fisch,der Fleisch,das Wasser,die Suppe, der Salat"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Die Großmutter … alt",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"hat",
+"hast"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang!  die Studenten… drei Doppelstunden Unterricht",
+"correct_answer":"haben",
+"incorrect_answers":[
+"habt",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Ihr … einen schönen Garten",
+"correct_answer":"habt",
+"incorrect_answers":[
+"hat",
+"bin",
+"bist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Meine Eltern … Lehrer",
+"correct_answer":"sind",
+"incorrect_answers":[
+"bist",
+"hat",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Das Zimmer ... groß und hell",
+"correct_answer":"ist",
+"incorrect_answers":[
+"sind",
+"bist",
+"habe"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Ich … ein Wörterbuch",
+"correct_answer":"habe",
+"incorrect_answers":[
+"hast",
+"habt",
+"ist"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan gapda haben yoki sein fe’lini tegishli shaxs-sonda qo‘llang! Sie(u) … ein Kleid",
+"correct_answer":"hat",
+"incorrect_answers":[
+"habe",
+"ist",
+"bin"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing! das Studienjahr, wann, beginnt?",
+"correct_answer":"wann beginnt das Studienjahr?",
+"incorrect_answers":[
+"beginnt wann das Studienjahr?",
+"das Studienjahr wann beginnt?",
+"das Studienjahr beginnt wann?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing! seinen Freund, er, wann,besucht?",
+"correct_answer":"wann besucht er seinen Freund?",
+"incorrect_answers":[
+"besucht er wann seinen Freund",
+"er besucht wann seinen Freund",
+"seinen Freund besucht wann er"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing! das Zimmer, lüftet, wer?",
+"correct_answer":"wer lüftet das Zimmer?",
+"incorrect_answers":[
+"lüftet wer das Zimmer?",
+"lüftet das Zimmer wer?",
+"lüftet das wer Zimmer?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing!   alt, sind, deine Eltern, wie?",
+"correct_answer":"wie alt sind deine Eltern?",
+"incorrect_answers":[
+"alt wie sind deine Eltern?",
+"sind wie alt deine Eltern?",
+"sind deine Eltern wie alt?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing!   trinkt, wer, Cola, gern?",
+"correct_answer":"wer trinkt gern Cola?",
+"incorrect_answers":[
+"trinkt wer gern Cola?",
+"trinkt gern wer Cola?",
+"trinkt gern Cola wer?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar yordamida so’ro’q so’zli so’roq gap tuzing!   ißt, Fisch, wer, gern?",
+"correct_answer":"wer ißt gern Fisch?",
+"incorrect_answers":[
+"ißt wer gern Fisch?",
+"ißt gern wer Fisch?",
+"ißt gern Fisch wer?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang!  Sie (u) … dem Freund den Kugelschreiber (geben)",
+"correct_answer":"gibt",
+"incorrect_answers":[
+"gebe",
+"gebst",
+"geben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang!  Der Lektor … über Ibn Sino (sprechen)",
+"correct_answer":"spricht",
+"incorrect_answers":[
+"spreche",
+"sprichst",
+"spreicht"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Halim … richtig (antworten)",
+"correct_answer":"antwortet",
+"incorrect_answers":[
+"antwortest",
+"antworten",
+"antworte"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang!  Der Lehrer … die Studentin Karimova oft (fragen)",
+"correct_answer":"fragt",
+"incorrect_answers":[
+"frage",
+"fragst",
+"fragen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang!  Lola … das Zimmer jeden Tag (lüften)",
+"correct_answer":"lüftet",
+"incorrect_answers":[
+"lüfte",
+"lüftest",
+"lüften"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Die Mutter … ihm ein Telegramm (schicken)",
+"correct_answer":"schickt",
+"incorrect_answers":[
+"schickst",
+"schicken",
+"schicket"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Wir … im Sommer viel (baden)",
+"correct_answer":"baden",
+"incorrect_answers":[
+"bade",
+"badet",
+"badest"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Anwar … in Taschkent (arbeiten)",
+"correct_answer":"arbeitet",
+"incorrect_answers":[
+"arbeitest",
+"arbeiten",
+"arbeite"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Die Zeitung … ein interessante Nachricht (melden)",
+"correct_answer":"meldet",
+"incorrect_answers":[
+"melde",
+"meldest",
+"melden"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich … gern Musik (hören)",
+"correct_answer":"höre",
+"incorrect_answers":[
+"hören",
+"hörst",
+"hört"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Die Schüler … die Aufgabe (machen)",
+"correct_answer":"machen",
+"incorrect_answers":[
+"mache",
+"machst",
+"machest"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich …auf den Freund (warten)",
+"correct_answer":"warte",
+"incorrect_answers":[
+"wartest",
+"wartet",
+"warten"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Wir … zwei Tassen Tee.(trinken)",
+"correct_answer":"trinken",
+"incorrect_answers":[
+"trinkt",
+"trinkst",
+"trinket"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Mein Studium an der Universität … 4 oder 6 Jahre ( dauern)",
+"correct_answer":"dauert",
+"incorrect_answers":[
+"dauerst",
+"dauern",
+"dauere"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich schreib… ein Diktat",
+"correct_answer":"-e",
+"incorrect_answers":[
+"-st",
+"-t",
+"-en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Der Lehrer korrigier…",
+"correct_answer":"-t",
+"incorrect_answers":[
+"-e",
+"-st",
+"-en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich ess … Wurst",
+"correct_answer":"-e",
+"incorrect_answers":[
+"-st",
+"-t",
+"-en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Meine Schwester iß… Käse.",
+"correct_answer":"-t",
+"incorrect_answers":[
+"-et",
+"-st",
+"-en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Alischer … neue Vokabeln (wiederholen)",
+"correct_answer":"wiederholt",
+"incorrect_answers":[
+"wiederhole",
+"wiederholen",
+"wiederholst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Er … seinem Bruder",
+"correct_answer":"hilft",
+"incorrect_answers":[
+"helfe",
+"helfen",
+"hilfst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Halim … eine Zeitung",
+"correct_answer":"liest",
+"incorrect_answers":[
+"lese",
+"lest",
+"lesen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Karim … den Lautsprecher auf den Tisch",
+"correct_answer":"stellt",
+"incorrect_answers":[
+"stellst",
+"stelle",
+"stellen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Die Touristen … deutsch",
+"correct_answer":"sprechen",
+"incorrect_answers":[
+"sprecht",
+"spricht",
+"spreche"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Wir … ein schönes Lied",
+"correct_answer":"singen",
+"incorrect_answers":[
+"singe",
+"singst",
+"singt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang!  Wir … den Hof sauber",
+"correct_answer":"machen",
+"incorrect_answers":[
+"mache",
+"machst",
+"macht"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich … nach Hause",
+"correct_answer":"gehe",
+"incorrect_answers":[
+"gehst",
+"geht",
+"gehen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Der Aspirant … von seiner Arbeit",
+"correct_answer":"erzählt",
+"incorrect_answers":[
+"erzählst",
+"erzählen",
+"erzähle"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Karim …den Sprachzirkel",
+"correct_answer":"besucht",
+"incorrect_answers":[
+"besuchst",
+"besuchtet",
+"besuche"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Der Vater … dem Kind einen Ball",
+"correct_answer":"kauft",
+"incorrect_answers":[
+"kaufst",
+"kaufe",
+"kaufen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Er … der Tante einen Brief",
+"correct_answer":"schreibt",
+"incorrect_answers":[
+"schreibe",
+"schreibst",
+"schreiben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Das Kleid des Mädchens … sehr schön",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du schreib… ein Diktat und der Lehrer korrigier …",
+"correct_answer":"st/t",
+"incorrect_answers":[
+"e/en",
+"et/t",
+"en/e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir ess … Wurst und meine Schwester iß… Käse",
+"correct_answer":"en/t",
+"incorrect_answers":[
+"e/et",
+"st/t",
+"st/e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du geh… ins Theater, aber er geh… nach Hause",
+"correct_answer":"st/t",
+"incorrect_answers":[
+"t/t",
+"e/st",
+"t/st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir geh… in die Bibliothek, aber er geh… ins Kino.",
+"correct_answer":"en/t",
+"incorrect_answers":[
+"e/st",
+"t/tet",
+"st/et"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du öffn … die Tür",
+"correct_answer":"est",
+"incorrect_answers":[
+"st",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Er studier… an der Universität",
+"correct_answer":"t",
+"incorrect_answers":[
+"st",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du iß… Hammelfleisch",
+"correct_answer":"t",
+"incorrect_answers":[
+"st",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir sprech… deutsch",
+"correct_answer":"en",
+"incorrect_answers":[
+"e",
+"st",
+"et"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! übersetz… Halima diesen Text ohne Wörterbuch?",
+"correct_answer":"t",
+"incorrect_answers":[
+"st",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich fahr… in diesem Jahr nach Odessa",
+"correct_answer":"e",
+"incorrect_answers":[
+"en",
+"st",
+"t"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Der Schüler spiel… Fußball",
+"correct_answer":"t",
+"incorrect_answers":[
+"en",
+"st",
+"e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich trink… grünen Tee",
+"correct_answer":"e",
+"incorrect_answers":[
+"st",
+"t",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Rustam hilf… seinem Freund beim Studium",
+"correct_answer":"t",
+"incorrect_answers":[
+"e",
+"en",
+"st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Meine Freundin geh…ins Kino",
+"correct_answer":"t",
+"incorrect_answers":[
+"e",
+"en",
+"est"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du trink… schwarzen Kaffee",
+"correct_answer":"st",
+"incorrect_answers":[
+"e",
+"et",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Er schwimm … gut",
+"correct_answer":"t",
+"incorrect_answers":[
+"e",
+"en",
+"est"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Sie(u) kauf… diesen Mantel",
+"correct_answer":"t",
+"incorrect_answers":[
+"st",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir besuch… unsere Freunde",
+"correct_answer":"en",
+"incorrect_answers":[
+"e",
+"et",
+"st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du geh… nicht zum Unterricht",
+"correct_answer":"st",
+"incorrect_answers":[
+"e",
+"et",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Les… Sie diesen Roman in Original",
+"correct_answer":"en",
+"incorrect_answers":[
+"st",
+"t",
+"e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Sie(u) gib… dem Freund den Kugelschreiber",
+"correct_answer":"t",
+"incorrect_answers":[
+"st",
+"en",
+"e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Der Lektor sprich… über Ibn Sino",
+"correct_answer":"t",
+"incorrect_answers":[
+"e",
+"st",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Halim antwort … richtig",
+"correct_answer":"et",
+"incorrect_answers":[
+"e",
+"st",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Der Lehrer frag … die Studentin Karimova oft",
+"correct_answer":"t",
+"incorrect_answers":[
+"st",
+"et",
+"e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Susanna lüft … das Zimmer jeden Tag",
+"correct_answer":"et",
+"incorrect_answers":[
+"e",
+"en",
+"st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Die Mutter schick … ihm ein Telegramm",
+"correct_answer":"t",
+"incorrect_answers":[
+"e",
+"st",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir bad… im Sommer viel",
+"correct_answer":"en",
+"incorrect_answers":[
+"e",
+"st",
+"t"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang!  Anwar arbeit … in Taschkent",
+"correct_answer":"et",
+"incorrect_answers":[
+"t",
+"e",
+"st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang!  Ich hör … gern Musik",
+"correct_answer":"e",
+"incorrect_answers":[
+"est",
+"en",
+"t"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Dein Lehrer red … überzeugend",
+"correct_answer":"et",
+"incorrect_answers":[
+"t",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Er wart…auf den Freund",
+"correct_answer":"et",
+"incorrect_answers":[
+"st",
+"en",
+"e"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Sie(ular) fahr… nach Taschkent",
+"correct_answer":"en",
+"incorrect_answers":[
+"e",
+"st",
+"t"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich les… Romane gern",
+"correct_answer":"e",
+"incorrect_answers":[
+"en",
+"st",
+"t"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Du träg … einen blauen Anzug",
+"correct_answer":"st",
+"incorrect_answers":[
+"t",
+"e",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ihr lad … den Freund ins Theater",
+"correct_answer":"et",
+"incorrect_answers":[
+"e",
+"st",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ihr schlaf… am Sonntag um 9 Uhr",
+"correct_answer":"t",
+"incorrect_answers":[
+"e",
+"st",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir seh … Filme gern",
+"correct_answer":"en",
+"incorrect_answers":[
+"e",
+"et",
+"st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich nehm… diese Buch",
+"correct_answer":"e",
+"incorrect_answers":[
+"en",
+"t",
+"st"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Ich helf … der Mutter gern",
+"correct_answer":"e",
+"incorrect_answers":[
+"st",
+"t",
+"en"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Tushirib qoldirilgan shaxs-son qo’shimchani qo’llang! Wir betret … den Hörsaal",
+"correct_answer":"en",
+"incorrect_answers":[
+"e",
+"st",
+"t"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich … ein Päckchen (tragen)",
+"correct_answer":"trage",
+"incorrect_answers":[
+"trägst",
+"tragen",
+"trägt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Der Lehrer … Lola eine Fünf (geben)",
+"correct_answer":"gibt",
+"incorrect_answers":[
+"gibst",
+"gebe",
+"gebt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich … ein belegtes Brötchen ( essen)",
+"correct_answer":"esse",
+"incorrect_answers":[
+"essen",
+"ißt",
+"esst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Samira … dieses Buch. (nehmen)",
+"correct_answer":"nimmt",
+"incorrect_answers":[
+"nimmst",
+"nehme",
+"nehmen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Sie (u)… das Haus um 8 Uhr . (verlassen)",
+"correct_answer":"verlässt",
+"incorrect_answers":[
+"verlassen",
+"verlässe",
+"verlasstet"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich … den Freund. (treffen)",
+"correct_answer":"treffe",
+"incorrect_answers":[
+"treft",
+"treffst",
+"trifst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Er … am Sontag um 22 Uhr (schlafen)",
+"correct_answer":"schläft",
+"incorrect_answers":[
+"schlafe",
+"schlafen",
+"schlafst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Er … im Studentenheim. (wohnen)",
+"correct_answer":"wohnt",
+"incorrect_answers":[
+"wohne",
+"wohnst",
+"wohnen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Ich … dir dieses Buch (empfehlen)",
+"correct_answer":"empfehle",
+"incorrect_answers":[
+"empfehlst",
+"empfehlt",
+"empfehlen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Alle … in der Nacht. (lesen)",
+"correct_answer":"lesen",
+"incorrect_answers":[
+"lese",
+"lieset",
+"lest"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Karim … nach der Prüfung nach Hause. (fahren)",
+"correct_answer":"fährt",
+"incorrect_answers":[
+"fahre",
+"fährst",
+"fahren"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Der Lehrer … dem Studenten eine vier. (geben)",
+"correct_answer":"gibt",
+"incorrect_answers":[
+"gebe",
+"gebt",
+"gebst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Wir … im Garten. ( arbeiten)",
+"correct_answer":"arbeiten",
+"incorrect_answers":[
+"arbeitet",
+"arbeitest",
+"arbeite"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan fe’lni mos shaxs-sonda tuslang! Mein Vater .. als Architekt.  (arbeiten)",
+"correct_answer":"arbeitet",
+"incorrect_answers":[
+"arbeiten",
+"arbeitest",
+"arbeite"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"im Dezember so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wann?",
+"incorrect_answers":[
+"wer?",
+"wo?",
+"was?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"in der Bibliothek so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wo?",
+"incorrect_answers":[
+"wann?",
+"wen?",
+"wem?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"interessant so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wohin?",
+"wo?",
+"wessen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"die Karte so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wo?",
+"wen?",
+"woher?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Wecker so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wohin?",
+"wem?",
+"wo?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"schön so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"was?",
+"wo?",
+"wen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"im Lesesaal so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wo?",
+"incorrect_answers":[
+"wem?",
+"wie?",
+"wer?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"dem Lehrer so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wem?",
+"incorrect_answers":[
+"wo?",
+"wohin?",
+"wie?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"spät so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wem?",
+"wo?",
+"wessen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"der Teppich so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wen?",
+"wem?",
+"wo?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"das Bild so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"was?",
+"incorrect_answers":[
+"wen?",
+"wem?",
+"wo?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Täglich … die Studenten vier Doppelstunden Unterricht   nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"haben",
+"incorrect_answers":[
+"habe",
+"habt",
+"habst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ihr … einen schönen Garten nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"habt",
+"incorrect_answers":[
+"haben",
+"habe",
+"habst"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Dieses Buch … interessant nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ich … eine Großmutter.  nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"habe",
+"incorrect_answers":[
+"haben",
+"habst",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Sie … alt nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Wir … heute Deutsch nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"haben",
+"incorrect_answers":[
+"habt",
+"habe",
+"hast"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Unsere Hochschule … modern nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du …eine Wohnung. nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hast",
+"incorrect_answers":[
+"habt",
+"habe",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Die Wohnung … gemütlich. nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"… du an der Universität (studieren)? nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"studierst",
+"incorrect_answers":[
+"studiere",
+"studieren",
+"studiert"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ich … eine Schwester.   nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"habe",
+"incorrect_answers":[
+"habt",
+"hast",
+"hat"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Sie (u)…22 Jahre alt  nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Sie (ular)… eine Tasse Tee  nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"trinken",
+"incorrect_answers":[
+"trinke",
+"trinkst",
+"trinkt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du … ein interessantes Buch. nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"liest",
+"incorrect_answers":[
+"lese",
+"lest",
+"lesen"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du… ein Buch. nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hast",
+"incorrect_answers":[
+"habe",
+"haben",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Es … interessant nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"sind",
+"bist",
+"bin"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Mein Vater .. Architekt nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Meine Schwester .. Ärztin nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Unsere Hochschule … eine Bibliothek nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"hast",
+"habe",
+"habt"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Meine Eltern … Lehrer von Beruf nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"sind",
+"incorrect_answers":[
+"bin",
+"bist",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du … an der Universität nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"studierst",
+"incorrect_answers":[
+"studieren",
+"studiere",
+"studiert"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Du … Student  nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"bist",
+"incorrect_answers":[
+"ist",
+"bin",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Ich … ein Kleid. nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"habe",
+"incorrect_answers":[
+"hast",
+"habt",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Keid … schön nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"bist",
+"sind"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Buch … hier nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"bin",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Kind… ein Fahrrad nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"hast",
+"habt",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Fahrrad .. neu nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bin",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Der Vater … Arbeiter nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"sind",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Mein Großvater … jung nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"bin",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Meine Großmutter … ein Haus nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"hast",
+"habt",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Das Haus … groß nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"bin",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Der Student … fleißig nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"ist",
+"incorrect_answers":[
+"bist",
+"bin",
+"seid"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Der Vater .. einen Freund nuqtalar o’rniga tegishli fe‘lni qo‘llang!",
+"correct_answer":"hat",
+"incorrect_answers":[
+"hast",
+"habt",
+"haben"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  Die Studentin",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  Meine Eltern",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  Die Mutter",
+"correct_answer":"sie",
+"incorrect_answers":[
+"es",
+"er",
+"ihr"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  Das Mädchen",
+"correct_answer":"es",
+"incorrect_answers":[
+"er",
+"sie",
+"wir"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zni tegishli olmoshga almashtiring!  Die Studenten",
+"correct_answer":"sie",
+"incorrect_answers":[
+"er",
+"es",
+"ich"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"klein so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wem?",
+"was?",
+"wen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"heute so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wohin?",
+"wo?",
+"wen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"jeden Tag so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wann?",
+"incorrect_answers":[
+"wohin?",
+"woher?",
+"wen?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"jede Woche so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wann?",
+"incorrect_answers":[
+"wen?",
+"woher?",
+"wem?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"hell so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wann?",
+"wen?",
+"woher?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"bequem so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wem?",
+"wen?",
+"wer?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"gemütlich so’ziga to’g’ri savol qo’yilgan qatorni toping!",
+"correct_answer":"wie?",
+"incorrect_answers":[
+"wann?",
+"was?",
+"wohin?"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Karim, heute, sehr, gut, antwortet",
+"correct_answer":"Karim antwortet sehr gut",
+"incorrect_answers":[
+"antwortet Karim sehr gut",
+"sehr gut Karim antwortet",
+"sehr Karim antwortet gut"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’zlar ishtirokida to’g’ri so’z tartibli darak gap tuzing! Heute, in die Küche,gehen, wir",
+"correct_answer":"wir gehen heute in die Küche",
+"incorrect_answers":[
+"gehen wir heute in die Küche",
+"wir in die Küche gehen heute",
+"wir die Küche gehen heute in"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! gut",
+"correct_answer":"yaxshi",
+"incorrect_answers":[
+"katta",
+"chiroyli",
+"yorug‘"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! verheiratet sein",
+"correct_answer":"uylangan,turmushga chiqqan",
+"incorrect_answers":[
+"kitob",
+"gazeta",
+"o’quv zali"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping!  Die Wanduhr",
+"correct_answer":"devor soati",
+"incorrect_answers":[
+"rasm",
+"qo’l soati",
+"kreslo"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping!  Der Wecker",
+"correct_answer":"budilnik",
+"incorrect_answers":[
+"soat",
+"choy",
+"xona"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! bequem",
+"correct_answer":"qulay",
+"incorrect_answers":[
+"shinam",
+"katta",
+"kichik"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! gemütlich",
+"correct_answer":"shinam",
+"incorrect_answers":[
+"qulay",
+"kichik",
+"yangi"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! neu",
+"correct_answer":"yangi",
+"incorrect_answers":[
+"katta",
+"qulay",
+"yorug´"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! schlafen",
+"correct_answer":"uxlamoq",
+"incorrect_answers":[
+"kuylamoq",
+"kelmoq",
+"yozmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! schreiben",
+"correct_answer":"yozmoq",
+"incorrect_answers":[
+"kelmoq",
+"kitob",
+"gaplashmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! aufstehen",
+"correct_answer":"o\`rnidan turmoq",
+"incorrect_answers":[
+"gaplashmoq",
+"kuylamoq",
+"ishlamoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! studieren",
+"correct_answer":"o´qimoq,o´rganmoq",
+"incorrect_answers":[
+"ishlamoq",
+"gaplashmoq",
+"kuylamoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! fernsehen",
+"correct_answer":"televizor ko´rmoq",
+"incorrect_answers":[
+"bormoq",
+"qatnamoq",
+"ishlamoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! essen",
+"correct_answer":"yemoq",
+"incorrect_answers":[
+"ichmoq",
+"kuylamoq",
+"gaplashmoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Berilgan so’z tarjimasi to’g’ri berilgan qatorni toping! Das Frühstuck",
+"correct_answer":"nonushta",
+"incorrect_answers":[
+"tushlik",
+"kechki ovqat",
+"tinglamoq"
+],
+"category": "Secondary Language"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: reside",
+"correct_answer":"Currently living",
+"incorrect_answers":[
+"Situated in",
+"Central location",
+"Outskirts"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: located",
+"correct_answer":"Situated in",
+"incorrect_answers":[
+"Currently living",
+"Central location",
+"Outskirts"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: inner city",
+"correct_answer":"Central location",
+"incorrect_answers":[
+"Situated in",
+"Currently living",
+"Outskirts"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: suburbs",
+"correct_answer":"Outskirts",
+"incorrect_answers":[
+"Currently living",
+"Situated in",
+"Central location"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: born and raised there",
+"correct_answer":"Lived there since I was",
+"incorrect_answers":[
+"Currently living",
+"Central location",
+"Situated in"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: back garden",
+"correct_answer":"Yard",
+"incorrect_answers":[
+"Currently living",
+"Central location",
+"Outskirts"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: balcony",
+"correct_answer":"Veranda",
+"incorrect_answers":[
+"Central location",
+"Outskirts",
+"Yard"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: simply decorated",
+"correct_answer":"Nicely",
+"incorrect_answers":[
+"Outskirts",
+"Yard",
+"Homely"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: cozy",
+"correct_answer":"Homely",
+"incorrect_answers":[
+"Yard",
+"Renovated",
+"Own"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: redecorated",
+"correct_answer":"Renovated",
+"incorrect_answers":[
+"Homely",
+"Modest",
+"Own"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Run down",
+"correct_answer":"In disrepair",
+"incorrect_answers":[
+"Renovated",
+"Homely",
+"Modest"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: vicinity",
+"correct_answer":"Nearby",
+"incorrect_answers":[
+"Renovated",
+"Modest",
+"Homely"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: spacious",
+"correct_answer":"Cramped",
+"incorrect_answers":[
+"Homely",
+"Renovated",
+"Modest"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: rent",
+"correct_answer":"Own",
+"incorrect_answers":[
+"Renovated",
+"Modest",
+"Cramped"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: ostentatious",
+"correct_answer":"Modest",
+"incorrect_answers":[
+"Own",
+"Renovated",
+"Cramped"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Rent",
+"incorrect_answers":[
+"Own",
+"Bought",
+"Personal"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Inner city",
+"incorrect_answers":[
+"Suburbs",
+"Outskirts",
+"Commercial city"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Simple",
+"incorrect_answers":[
+"Luxurious",
+"Ostentatious",
+"Magnificent"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Balcony",
+"incorrect_answers":[
+"Back garden",
+"Yard",
+"Back yard"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Apartment",
+"incorrect_answers":[
+"Multi-storied house",
+"single-storey house",
+"Two storied house"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Cramped",
+"incorrect_answers":[
+"Good facilities",
+"All amenities",
+"Spacious"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: bustling metropolis",
+"correct_answer":"Metropolitan city",
+"incorrect_answers":[
+"Small country-town",
+"Cramped",
+"Spacious"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: residental areas",
+"correct_answer":"Suburbs",
+"incorrect_answers":[
+"Inner city",
+"Cosmopolitan city",
+"City center"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: colourful",
+"correct_answer":"Vibrant city",
+"incorrect_answers":[
+"Suburbs",
+"Vehicle emissions",
+"Facilities"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Densely populated",
+"correct_answer":"Overcrowded",
+"incorrect_answers":[
+"Vibrant city",
+"Suburbs",
+"Vehicle emissions"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: traffic congestion",
+"correct_answer":"Gridlock traffic at rush hour",
+"incorrect_answers":[
+"Suburbs",
+"Vibrant city",
+"Vehicle emissions"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: good amenities",
+"correct_answer":"Facilities",
+"incorrect_answers":[
+"Vehicle emissions",
+"Suburbs",
+"Vibrant city"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Air pollution",
+"correct_answer":"Vehicle emissions",
+"incorrect_answers":[
+"Good infrastructure",
+"Gridlock traffic at rush hour",
+"Vibrant city"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: well-developed",
+"correct_answer":"Good infrastructure",
+"incorrect_answers":[
+"Vehicle emissions",
+"Gridlock traffic at rush hour",
+"Vibrant city"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: lively markets",
+"correct_answer":"Bars/restaurants",
+"incorrect_answers":[
+"Good infrastructure",
+"Gridlock traffic at rush hour",
+"Vibrant city"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Inner city",
+"incorrect_answers":[
+"Suburbs",
+"Outskirts",
+"Residental area"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Overcrowded",
+"incorrect_answers":[
+"Colourful",
+"Vibrant",
+"Vivacious"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Air pollution",
+"incorrect_answers":[
+"Gridlock",
+"Traffic congestion",
+"Traffic jam"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Equipment",
+"incorrect_answers":[
+"Facilities",
+"Amenities",
+"Sport facilities"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: graduate",
+"correct_answer":"Post graduate",
+"incorrect_answers":[
+"Studying at",
+"Locality",
+"Syllabus"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: attending",
+"correct_answer":"Studying at",
+"incorrect_answers":[
+"Syllabus",
+"Locality",
+"School club"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: neighbourhood",
+"correct_answer":"Locality",
+"incorrect_answers":[
+"Studying at",
+"Syllabus",
+"School club"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: curriculum",
+"correct_answer":"Syllabus",
+"incorrect_answers":[
+"Locality",
+"Studying at",
+"School club"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: compulsory subjects",
+"correct_answer":"Core subjects",
+"incorrect_answers":[
+"Locality",
+"Syllabus",
+"Studying at"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: extra-curricular activities",
+"correct_answer":"School club",
+"incorrect_answers":[
+"Homework",
+"Pressure",
+"Locality"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: assignments",
+"correct_answer":"Homework",
+"incorrect_answers":[
+"Pressure",
+"Abroad",
+"Locality"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: stress",
+"correct_answer":"Pressure",
+"incorrect_answers":[
+"Homework",
+"Abroad",
+"Locality"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: grant",
+"correct_answer":"Scholarship",
+"incorrect_answers":[
+"Pressure",
+"Abroad",
+"Locality"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: overseas",
+"correct_answer":"Abroad",
+"incorrect_answers":[
+"Locality",
+"Pressure",
+"Post graduate"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Soccer",
+"incorrect_answers":[
+"Extra-curricular activities",
+"After school classes",
+"School club"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Optional subjects",
+"incorrect_answers":[
+"Core subjects",
+"Compulsory subjects",
+"Main subjects"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Local",
+"incorrect_answers":[
+"Abroad",
+"Overseas",
+"Foreign"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Staff",
+"incorrect_answers":[
+"Pupil",
+"Classmate",
+"Learner"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Exhausting",
+"incorrect_answers":[
+"Inspiring",
+"Stimulating",
+"Encouraging"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: working for",
+"correct_answer":"Employed at",
+"incorrect_answers":[
+"Foreign",
+"Well known company",
+"Main area of responsibility is"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: international",
+"correct_answer":"Foreign",
+"incorrect_answers":[
+"Employed at",
+"Well known company",
+"Main area of responsibility is"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Prestigious",
+"correct_answer":"Well known company",
+"incorrect_answers":[
+"Foreign",
+"Employed at",
+"Main area of responsibility is"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Job entails",
+"correct_answer":"Responsible for",
+"incorrect_answers":[
+"Foreign",
+"Employed at",
+"Well known company"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: in charge of",
+"correct_answer":"Main area of responsibility is",
+"incorrect_answers":[
+"Foreign",
+"Well known company",
+"Salary"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: workaholic",
+"correct_answer":"Ambitious",
+"incorrect_answers":[
+"Well known company",
+"Main area of responsibility is",
+"Salary"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: remuneration",
+"correct_answer":"Salary",
+"incorrect_answers":[
+"Main area of responsibility is",
+"Interesting job",
+"Foreign"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: career minded",
+"correct_answer":"Driven",
+"incorrect_answers":[
+"Salary",
+"Competitive salary",
+"Interesting job"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: high income",
+"correct_answer":"Competitive salary",
+"incorrect_answers":[
+"Salary",
+"Interesting job",
+"Foreign"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: benefits of the job",
+"correct_answer":"Incentives",
+"incorrect_answers":[
+"Interesting job",
+"Soccer",
+"Driven"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: boss",
+"correct_answer":"Manager",
+"incorrect_answers":[
+"Interesting job",
+"Incentives",
+"Soccer"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: challenging",
+"correct_answer":"Interesting job",
+"incorrect_answers":[
+"Manager",
+"Salary",
+"Incentives"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: immediate",
+"correct_answer":"Extended",
+"incorrect_answers":[
+"Consists of",
+"Normal",
+"Grandmother"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: comprised of",
+"correct_answer":"Consists of",
+"incorrect_answers":[
+"Extended",
+"Normal",
+"Grandmother"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: typical",
+"correct_answer":"Normal",
+"incorrect_answers":[
+"Extended",
+"Consists of",
+"Grandmother"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: maternal",
+"correct_answer":"Grandmother",
+"incorrect_answers":[
+"Have a lot in common with",
+"Extended",
+"Consists of"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: take after my father",
+"correct_answer":"Have a lot in common with",
+"incorrect_answers":[
+"Advice",
+"Consists of",
+"Extended"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: good company",
+"correct_answer":"Get on well with",
+"incorrect_answers":[
+"Have a lot in common with",
+"Encouraging",
+"Advice"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: well balanced",
+"correct_answer":"Stable upbringing",
+"incorrect_answers":[
+"Get on well with",
+"Advice",
+"Encouraging"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: easy going",
+"correct_answer":"Laid back",
+"incorrect_answers":[
+"Advice",
+"Get on well with",
+"Grown- apart"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: supportive",
+"correct_answer":"Encouraging",
+"incorrect_answers":[
+"Normal",
+"Grown- apart",
+"Get on well with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: good judgement",
+"correct_answer":"Advice",
+"incorrect_answers":[
+"Grown- apart",
+"Encouraging",
+"Normal"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: dysfunctional",
+"correct_answer":"Grown- apart",
+"incorrect_answers":[
+"Encouraging",
+"Normal",
+"Advice"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: well off",
+"correct_answer":"Financially secure",
+"incorrect_answers":[
+"Struggling financially",
+"Grown- apart",
+"Advice"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: controlling",
+"correct_answer":"Over-protective",
+"incorrect_answers":[
+"Struggling financially",
+"Distant",
+"Financially secure"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to antonym: close knit",
+"correct_answer":"Distant",
+"incorrect_answers":[
+"Don’t get on terribly well",
+"Struggling financially",
+"Financially secure"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: financially secure",
+"correct_answer":"Struggling financially",
+"incorrect_answers":[
+"Don’t get on terribly well",
+"Distant",
+"Gatherings"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: overbearing",
+"correct_answer":"Demanding",
+"incorrect_answers":[
+"Don’t get on terribly well",
+"Gatherings",
+"Struggling financially"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: don’t always see eye to eye",
+"correct_answer":"Don’t get on terribly well",
+"incorrect_answers":[
+"Gatherings",
+"Struggling financially",
+"Distant"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: family outings",
+"correct_answer":"Gatherings",
+"incorrect_answers":[
+"Don’t get on terribly well",
+"Distant",
+"Struggling financially"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Trips",
+"incorrect_answers":[
+"Outings",
+"Gatherings",
+"Get together"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Cousin",
+"incorrect_answers":[
+"Siblings",
+"Brother",
+"Sister"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Demanding",
+"incorrect_answers":[
+"Good company",
+"Get on well with",
+"Have a close bond"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Supportive",
+"incorrect_answers":[
+"Easy going",
+"Laid back",
+"Outgoing"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Immediate family",
+"incorrect_answers":[
+"Brother",
+"Sister",
+"Grandparents"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: drift apart",
+"correct_answer":"Loss touch with",
+"incorrect_answers":[
+"Hang out with",
+"Lifelong friend",
+"Been through thick and thin"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: meet up",
+"correct_answer":"Hang out with",
+"incorrect_answers":[
+"Loss touch with",
+"Lifelong friend",
+"Been through thick and thin"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: closest friend",
+"correct_answer":"Lifelong friend",
+"incorrect_answers":[
+"Hang out with",
+"Loss touch with",
+"Escape from the city"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: go back years",
+"correct_answer":"Been through thick and thin",
+"incorrect_answers":[
+"Loss touch with",
+"Escape from the city",
+"Hang out with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym:like two peas in a pod",
+"correct_answer":"See eye to eye",
+"incorrect_answers":[
+"Escape from the city",
+"Loss touch with",
+"Hang out with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: good sense of humour",
+"correct_answer":"Have a similar sense of humour",
+"incorrect_answers":[
+"Escape from the city",
+"Truthful",
+"Kick back"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: chill out",
+"correct_answer":"Talk about our daily lives",
+"incorrect_answers":[
+"Escape from the city",
+"Kick back",
+"Truthful"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: get away",
+"correct_answer":"Escape from the city",
+"incorrect_answers":[
+"Kick back",
+"Truthful",
+"Loss touch with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Take time out",
+"correct_answer":"Kick back",
+"incorrect_answers":[
+"Truthful",
+"Escape from the city",
+"Loss touch with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: trustworthy",
+"correct_answer":"Truthful",
+"incorrect_answers":[
+"Kick back",
+"Escape from the city",
+"Loss touch with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: vindictive",
+"correct_answer":"Spiteful",
+"incorrect_answers":[
+"Confide in",
+"Thoughtful",
+"Sensible"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: shoulder to cry on",
+"correct_answer":"Confide in",
+"incorrect_answers":[
+"Spiteful",
+"Thoughtful",
+"Sensible"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: bend over backwards to help",
+"correct_answer":"Thoughtful",
+"incorrect_answers":[
+"Confide in",
+"Spiteful",
+"Sensible"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: down to earth",
+"correct_answer":"Sensible",
+"incorrect_answers":[
+"Thoughtful",
+"Confide in",
+"Spiteful"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: not self-centered",
+"correct_answer":"Selfish",
+"incorrect_answers":[
+"Thoughtful",
+"Spiteful",
+"Confide in"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: outgoing",
+"correct_answer":"Reserve",
+"incorrect_answers":[
+"Introvert",
+"Drift apart",
+"Selfish"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: extrovert",
+"correct_answer":"Introvert",
+"incorrect_answers":[
+"Reserve",
+"Drift apart",
+"Selfish"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: non judgemental",
+"correct_answer":"Spiteful",
+"incorrect_answers":[
+"Introvert",
+"Reserve",
+"Drift apart"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a antonym: keep in touch",
+"correct_answer":"Drift apart",
+"incorrect_answers":[
+"Selfish",
+"Introvert",
+"Reserve"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Reserve",
+"incorrect_answers":[
+"Outgoing",
+"Extrovert",
+"Laid back"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Thoughtful",
+"incorrect_answers":[
+"Selfish",
+"Self-centered",
+"Encourage"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"A back stabber",
+"incorrect_answers":[
+"A shoulder to cry on",
+"Supportive",
+"Helping hands"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: admire",
+"correct_answer":"Hold in high regard",
+"incorrect_answers":[
+"Megastar",
+"Renown for",
+"Gained stardom from"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: international star",
+"correct_answer":"Megastar",
+"incorrect_answers":[
+"Hold in high regard",
+"Renown for",
+"Gained stardom from"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: generally speaking",
+"correct_answer":"On the whole",
+"incorrect_answers":[
+"A back stabber",
+"Hold in high regard",
+"Gained stardom from"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: difficult to find time",
+"correct_answer":"Not my cup of tea",
+"incorrect_answers":[
+"Renown for",
+"Megastar",
+"Hold in high regard"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: written by",
+"correct_answer":"Author",
+"incorrect_answers":[
+"Renown for",
+"Gained stardom from",
+"Encourage"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: well crafted story",
+"correct_answer":"Well-written",
+"incorrect_answers":[
+"Wealthy",
+"Stalked by paparazzi",
+"Innuendo"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: well off",
+"correct_answer":"Wealthy",
+"incorrect_answers":[
+"Encourage",
+"Stalked by paparazzi",
+"Innuendo"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: hounded",
+"correct_answer":"Stalked by paparazzi",
+"incorrect_answers":[
+"Wealthy",
+"Cost effective",
+"Portable"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: once in a while",
+"correct_answer":"Now and again",
+"incorrect_answers":[
+"Contact each other",
+"Cost effective",
+"Portable"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: stay-keep in touch",
+"correct_answer":"Contact each other",
+"incorrect_answers":[
+"Now and again",
+"Cost effective",
+"Portable"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: inexpensive",
+"correct_answer":"Cost effective",
+"incorrect_answers":[
+"Contact each other",
+"Now and again",
+"Portable"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: mobile",
+"correct_answer":"Portable",
+"incorrect_answers":[
+"Dubbed",
+"Contact each other",
+"Now and again"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: subtitles",
+"correct_answer":"Dubbed",
+"incorrect_answers":[
+"Entertaining",
+"Cost effective",
+"Contact each other"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: action-packed",
+"correct_answer":"Entertaining",
+"incorrect_answers":[
+"Dubbed",
+"Get outdoors",
+"Free time"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: pastime",
+"correct_answer":"Free time",
+"incorrect_answers":[
+"Entertaining",
+"Dubbed",
+"Do exercise"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: to keep fit",
+"correct_answer":"Do exercise",
+"incorrect_answers":[
+"Dubbed",
+"Entertaining",
+"Get outdoors"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: amazing",
+"correct_answer":"Fascinating",
+"incorrect_answers":[
+"Do exercise",
+"Get outdoors",
+"Entertaining"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: quite interested in",
+"correct_answer":"Passionate about",
+"incorrect_answers":[
+"Fascinating",
+"Do exercise",
+"Get outdoors"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: to enjoy nature",
+"correct_answer":"Get outdoors",
+"incorrect_answers":[
+"Pick up a bargain",
+"Passionate about",
+"Not too expensive"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: hunt for",
+"correct_answer":"Pick up a bargain",
+"incorrect_answers":[
+"Passionate about",
+"Not too expensive",
+"Fascinating"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: discount",
+"correct_answer":"Special offer",
+"incorrect_answers":[
+"Not too expensive",
+"Pick up a bargain",
+"Passionate about"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: affordable",
+"correct_answer":"Not too expensive",
+"incorrect_answers":[
+"Special offer",
+"Pick up a bargain",
+"Passionate about"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Interesting",
+"incorrect_answers":[
+"Energizing",
+"Adrenaline pumping",
+"Heart racing"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Work out",
+"incorrect_answers":[
+"Get outdoors",
+"Get into nature",
+"Enjoy nature"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Pastime",
+"incorrect_answers":[
+"Unwind",
+"Chill out",
+"Relax"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Attractions",
+"incorrect_answers":[
+"Have a picnic",
+"Barbeque",
+"Bonfire"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Beach resort",
+"incorrect_answers":[
+"Hostel",
+"Cheap hotel",
+"Bungalow"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"A package holiday",
+"incorrect_answers":[
+"Travel independently",
+"On my own steam",
+"By my own"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Historical",
+"incorrect_answers":[
+"Valuable",
+"Memorable",
+"Experience"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Multicultural",
+"incorrect_answers":[
+"Get off the beaten track",
+"Get away from the hustle and bustle of the city",
+"Enjoy unspoilt nature"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: dreary",
+"correct_answer":"Miserable time",
+"incorrect_answers":[
+"Overrun with tourists",
+"Uplifting",
+"Breath of fresh air"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: tourist trap",
+"correct_answer":"Overrun with tourists",
+"incorrect_answers":[
+"Loud",
+"Uplifting",
+"Breath of fresh air"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: recharge your batteries",
+"correct_answer":"Lift your spirits",
+"incorrect_answers":[
+"Overrun with tourists",
+"Loud",
+"Uplifting"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: can’t hear yourself talk",
+"correct_answer":"Loud",
+"incorrect_answers":[
+"Uplifting",
+"Overrun with tourists",
+"Breath of fresh air"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: stimulating",
+"correct_answer":"Uplifting",
+"incorrect_answers":[
+"Economical",
+"Inexpensive",
+"Shallow"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Breath of fresh air",
+"incorrect_answers":[
+"Enjoy local cuisine",
+"Specialties",
+"Delicacies"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Miserable time",
+"incorrect_answers":[
+"Pollution",
+"Damage historic sites",
+"Litter"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Swimming",
+"incorrect_answers":[
+"Cultural attraction",
+"Historic site",
+"Ancient"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Hanging out",
+"incorrect_answers":[
+"Mesmerizing",
+"Stunning",
+"Magical"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Empty",
+"incorrect_answers":[
+"Good way to unwind",
+"Pleasant change",
+"Relaxing"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Most people",
+"incorrect_answers":[
+"Typically",
+"Every now and then",
+"Once in a while"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Costly",
+"incorrect_answers":[
+"Economical",
+"Cheap",
+"Inexpensive"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: Talented",
+"correct_answer":"Gifted",
+"incorrect_answers":[
+"Renown",
+"Performed",
+"Philanthropy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: famous",
+"correct_answer":"Renown",
+"incorrect_answers":[
+"Gifted",
+"Philanthropy",
+"Performed"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: charitable work",
+"correct_answer":"Philanthropy",
+"incorrect_answers":[
+"Renown",
+"Gifted",
+"Performed"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: starred",
+"correct_answer":"Performed",
+"incorrect_answers":[
+"Renown",
+"Gifted",
+"Philanthropy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: local",
+"correct_answer":"International",
+"incorrect_answers":[
+"Encourage",
+"Gained stardom from",
+"Philanthropy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: inspire",
+"correct_answer":"Encourage",
+"incorrect_answers":[
+"International",
+"Gained stardom from",
+"Philanthropy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: rose to fame",
+"correct_answer":"Gained stardom from",
+"incorrect_answers":[
+"Encourage",
+"International",
+"Philanthropy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Overrated",
+"incorrect_answers":[
+"Talented",
+"Gifted",
+"Skilful"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Well off",
+"incorrect_answers":[
+"Loss of privacy",
+"Stalked by paparazzi",
+"Lack of secrecy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Bad reputation",
+"incorrect_answers":[
+"Philanthropist",
+"Great role model",
+"Benefactor"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Admire",
+"incorrect_answers":[
+"Renown",
+"Famous",
+"Popular"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"International",
+"incorrect_answers":[
+"Local",
+"Domestic",
+"Native"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Financially secure",
+"incorrect_answers":[
+"Charitable work",
+"Philanthropy",
+"Charity"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Criticize",
+"incorrect_answers":[
+"Inspire",
+"Encourage",
+"Cheer up"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Musician",
+"incorrect_answers":[
+"Actor",
+"Film maker",
+"Actress"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: noisy",
+"correct_answer":"Loud",
+"incorrect_answers":[
+"Moan",
+"Unfriendly",
+"Gossipmongers"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: complain",
+"correct_answer":"Moan",
+"incorrect_answers":[
+"Loud",
+"Unfriendly",
+"Gossipmongers"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: unsociable",
+"correct_answer":"Unfriendly",
+"incorrect_answers":[
+"Loud",
+"Moan",
+"Gossipmongers"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: gossipers",
+"correct_answer":"Gossipmongers",
+"incorrect_answers":[
+"Loud",
+"Moan",
+"Unfriendly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: borrow",
+"correct_answer":"Lend",
+"incorrect_answers":[
+"Help out",
+"Get on like a house on fire",
+"Considerate"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: lend a helping hand",
+"correct_answer":"Help out",
+"incorrect_answers":[
+"Get on like a house on fire",
+"Considerate",
+"Gregarious"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: get on well with",
+"correct_answer":"Get on like a house on fire",
+"incorrect_answers":[
+"Lend",
+"Help out",
+"Considerate"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: thoughtful",
+"correct_answer":"Considerate",
+"incorrect_answers":[
+"Lend",
+"Help out",
+"Get on like a house on fire"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: sociable",
+"correct_answer":"Gregarious",
+"incorrect_answers":[
+"Lend",
+"Help out",
+"Get on like a house on fire"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Complain a lot",
+"incorrect_answers":[
+"Get on well with",
+"Get on like a house on fire",
+"Close bond"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Unsociable",
+"incorrect_answers":[
+"Gregarious",
+"Enjoy their company",
+"Spend time with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Gossipers",
+"incorrect_answers":[
+"Noisy",
+"Loud",
+"Booming"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Unsupportive",
+"incorrect_answers":[
+"Help out",
+"Lend a helping hand",
+"Supportive"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Unsociable",
+"incorrect_answers":[
+"Dependable",
+"Reliable",
+"Trustworthy"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: passionate",
+"correct_answer":"Dedicated",
+"incorrect_answers":[
+"Outstanding",
+"Energetic",
+"Explain things very clearly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: notable",
+"correct_answer":"Outstanding",
+"incorrect_answers":[
+"Dedicated",
+"Energetic",
+"Explain things very clearly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: tireless",
+"correct_answer":"Energetic",
+"incorrect_answers":[
+"Dedicated",
+"Outstanding",
+"Explain things very clearly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: facilitate real understanding",
+"correct_answer":"Explain things very clearly",
+"incorrect_answers":[
+"Dedicated",
+"Outstanding",
+"Energetic"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: motivate",
+"correct_answer":"Uninspiring",
+"incorrect_answers":[
+"Characteristics",
+"Kind",
+"Explain things very clearly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: qualities",
+"correct_answer":"Characteristics",
+"incorrect_answers":[
+"Uninspiring",
+"Kind",
+"Explain things very clearly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: compassionate",
+"correct_answer":"Kind",
+"incorrect_answers":[
+"Uninspiring",
+"Characteristics",
+"Explain things very clearly"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Humorous",
+"incorrect_answers":[
+"Compassionate",
+"Kind",
+"Affectionate"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Boring",
+"incorrect_answers":[
+"Authoritarian",
+"Strict",
+"Tough"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Passionate",
+"incorrect_answers":[
+"Tireless",
+"Energetic",
+"Active"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Energetic",
+"incorrect_answers":[
+"Funny",
+"Witty",
+"Humorous"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: preserve",
+"correct_answer":"Maintain",
+"incorrect_answers":[
+"Situated in",
+"Renown",
+"Striking"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: eye-catching",
+"correct_answer":"Striking",
+"incorrect_answers":[
+"Situated in",
+"Renown",
+"Maintain"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: symbolise",
+"correct_answer":"Represent",
+"incorrect_answers":[
+"Design",
+"Spectacular",
+"Exterior"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: style",
+"correct_answer":"Design",
+"incorrect_answers":[
+"Represent",
+"Spectacular",
+"Exterior"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: stunning",
+"correct_answer":"Spectacular",
+"incorrect_answers":[
+"Represent",
+"Design",
+"Exterior"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: interior",
+"correct_answer":"Exterior",
+"incorrect_answers":[
+"Represent",
+"Design",
+"Spectacular"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: national heritage",
+"correct_answer":"Historical culture",
+"incorrect_answers":[
+"Represent",
+"Spectacular",
+"Exterior"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: innovative",
+"correct_answer":"Traditional",
+"incorrect_answers":[
+"Represent",
+"Spectacular",
+"Exterior"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Common",
+"incorrect_answers":[
+"Renown",
+"Famous",
+"Popular"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Outstanding",
+"incorrect_answers":[
+"Panoramic",
+"Spectacular",
+"Breathtaking"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: exercise",
+"correct_answer":"Workout",
+"incorrect_answers":[
+"Plants",
+"Relax",
+"Pond"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: flora",
+"correct_answer":"Plants",
+"incorrect_answers":[
+"Workout",
+"Relax",
+"Pond"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: unwind",
+"correct_answer":"Relax",
+"incorrect_answers":[
+"Workout",
+"Plants",
+"Pond"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: lake",
+"correct_answer":"Pond",
+"incorrect_answers":[
+"Workout",
+"Plants",
+"Relax"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: every now and again",
+"correct_answer":"Once in a while",
+"incorrect_answers":[
+"Animals",
+"Seat",
+"Vehicle fumes"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: fauna",
+"correct_answer":"Animals",
+"incorrect_answers":[
+"Once in a while",
+"Seat",
+"Vehicle fumes"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: bench",
+"correct_answer":"Seat",
+"incorrect_answers":[
+"Once in a while",
+"Animals",
+"Vehicle fumes"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: fresh air",
+"correct_answer":"Vehicle fumes",
+"incorrect_answers":[
+"Once in a while",
+"Animals",
+"Seat"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Distant",
+"incorrect_answers":[
+"Local",
+"Nearby",
+"Close"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Chill out",
+"incorrect_answers":[
+"Exercise",
+"Workout",
+"Train"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Fauna",
+"incorrect_answers":[
+"Flora",
+"Plants",
+"Flowers"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Fountain",
+"incorrect_answers":[
+"Pond",
+"Lake",
+"Pool"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Seat",
+"incorrect_answers":[
+"Walking track",
+"Exercise equipment",
+"Dumbbell"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: sculpture",
+"correct_answer":"Statue",
+"incorrect_answers":[
+"Insight into the past",
+"Show",
+"Generally speaking"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: historical reminder",
+"correct_answer":"Insight into the past",
+"incorrect_answers":[
+"Statue",
+"Show",
+"Generally speaking"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: depict",
+"correct_answer":"Show",
+"incorrect_answers":[
+"Statue",
+"Insight into the past",
+"Generally speaking"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: by and large",
+"correct_answer":"Generally speaking",
+"incorrect_answers":[
+"Statue",
+"Insight into the past",
+"Show"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: original masterpiece",
+"correct_answer":"Print",
+"incorrect_answers":[
+"Generally speaking",
+"Show",
+"Insight into the past"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Artefacts",
+"incorrect_answers":[
+"Historical reminder",
+"Insight into the past",
+"Historical awareness"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Local",
+"incorrect_answers":[
+"Foreign",
+"International",
+"Abroad"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Symbolise",
+"incorrect_answers":[
+"Depict",
+"Show",
+"Portray"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Portrait",
+"incorrect_answers":[
+"Oil",
+"Water colour",
+"Pencils"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Often",
+"incorrect_answers":[
+"Now and again",
+"Once in a while",
+"From time to time"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Dreary",
+"incorrect_answers":[
+"Fascinating",
+"Interesting",
+"Captivating"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: ubiquitous",
+"correct_answer":"Everywhere",
+"incorrect_answers":[
+"Got my attention",
+"Stay top of mind",
+"Increase sales"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: caught my eye",
+"correct_answer":"Got my attention",
+"incorrect_answers":[
+"Everywhere",
+"Stay top of mind",
+"Increase sales"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: memorable",
+"correct_answer":"Stay top of mind",
+"incorrect_answers":[
+"Everywhere",
+"Got my attention",
+"Increase sales"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: create demand",
+"correct_answer":"Increase sales",
+"incorrect_answers":[
+"Everywhere",
+"Got my attention",
+"Stay top of mind"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: fighting",
+"correct_answer":"Competing",
+"incorrect_answers":[
+"False",
+"Annoying",
+"Many people"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: misleading",
+"correct_answer":"False",
+"incorrect_answers":[
+"Competing",
+"Annoying",
+"Many people"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: tedious",
+"correct_answer":"Annoying",
+"incorrect_answers":[
+"Competing",
+"False",
+"Many people"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: a wide audience",
+"correct_answer":"Many people",
+"incorrect_answers":[
+"Competing",
+"False",
+"Annoying"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: raise public awareness",
+"correct_answer":"Inform people",
+"incorrect_answers":[
+"Online advertising",
+"Dangerous",
+"Entertaining"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: pop-up ads",
+"correct_answer":"Online advertising",
+"incorrect_answers":[
+"Inform people",
+"Dangerous",
+"Entertaining"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: harmful",
+"correct_answer":"Dangerous",
+"incorrect_answers":[
+"Inform people",
+"Online advertising",
+"Entertaining"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: humorous",
+"correct_answer":"Entertaining",
+"incorrect_answers":[
+"Inform people",
+"Online advertising",
+"Dangerous"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: humorous",
+"correct_answer":"Annoying",
+"incorrect_answers":[
+"Entertaining",
+"Inform people",
+"Online advertising"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Nowhere",
+"incorrect_answers":[
+"Ubiquitous",
+"Everywhere",
+"All-over"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Annoying",
+"incorrect_answers":[
+"Humorous",
+"Amusing",
+"Entertaining"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Reach a wide audience",
+"incorrect_answers":[
+"Create demand",
+"Increase sales",
+"Progress"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Misleading",
+"incorrect_answers":[
+"Got my attention",
+"Catch my eye",
+"Captured my attention"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Manipulate",
+"incorrect_answers":[
+"Harmful",
+"Dangerous",
+"Negative"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Fight for our attention",
+"incorrect_answers":[
+"Raise public awareness",
+"Inform",
+"Important announcements"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Billboards",
+"incorrect_answers":[
+"Pop-up ads",
+"Online advertising",
+"Internet advertising"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Be informative",
+"incorrect_answers":[
+"Create demand",
+"Increase sales",
+"Progress"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Social media",
+"incorrect_answers":[
+"Tune",
+"Jingle",
+"Melody"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Time wasting",
+"incorrect_answers":[
+"False advertising",
+"Misinformation",
+"Misleading"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: well-crafted",
+"correct_answer":"Well-written",
+"incorrect_answers":[
+"Antagonist",
+"Book worm",
+"Plot"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: protagonist",
+"correct_answer":"Antagonist",
+"incorrect_answers":[
+"Well-written",
+"Book worm",
+"Plot"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: avid reader",
+"correct_answer":"Book worm",
+"incorrect_answers":[
+"Well-written",
+"Antagonist",
+"Plot"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: storyline",
+"correct_answer":"Plot",
+"incorrect_answers":[
+"Well-written",
+"Antagonist",
+"Book worm"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: a highly recommended book",
+"correct_answer":"A bestseller",
+"incorrect_answers":[
+"Fascinating",
+"Good way to unwind",
+"Non-fiction"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: engrossing",
+"correct_answer":"Fascinating",
+"incorrect_answers":[
+"A bestseller",
+"Good way to unwind",
+"Non-fiction"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: relaxing",
+"correct_answer":"Good way to unwind",
+"incorrect_answers":[
+"A bestseller",
+"Fascinating",
+"Non-fiction"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to an antonym: fiction",
+"correct_answer":"Non-fiction",
+"incorrect_answers":[
+"A bestseller",
+"Fascinating",
+"Good way to unwind"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: provide a window to the world",
+"correct_answer":"Good way to broaden your knowledge",
+"incorrect_answers":[
+"Good way to unwind",
+"A bestseller",
+"Fascinating"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Self-help",
+"incorrect_answers":[
+"Fantasy",
+"Historical novel",
+"Fairy tales"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Publisher",
+"incorrect_answers":[
+"Author",
+"Writer",
+"Novelist"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Not my cup of tea",
+"incorrect_answers":[
+"A page turner",
+"Very readable",
+"Couldn’t put it down"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Boring",
+"incorrect_answers":[
+"Engrossing",
+"Fascinating",
+"Entertaining"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Theme",
+"incorrect_answers":[
+"Storyline",
+"Plot",
+"Scenario"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Antagonist",
+"incorrect_answers":[
+"Protagonist",
+"Main character",
+"Central character"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Heavy going",
+"incorrect_answers":[
+"Relaxing",
+"Good way to unwind",
+"Chill out"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Inspiring",
+"incorrect_answers":[
+"Broaden your knowledge",
+"Window to the world",
+"Other worlds and cultures"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Plot",
+"incorrect_answers":[
+"Avid reader",
+"Book worm",
+"Book lover"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Hero",
+"incorrect_answers":[
+"Villain",
+"Antagonist",
+"Opponent"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: keep in touch",
+"correct_answer":"Contact each other",
+"incorrect_answers":[
+"Non-verbal communication",
+"Organize",
+"Junk mail"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: body language",
+"correct_answer":"Non-verbal communication",
+"incorrect_answers":[
+"Contact each other",
+"Organize",
+"Junk mail"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: arrange",
+"correct_answer":"Organize",
+"incorrect_answers":[
+"Non-verbal communication",
+"Contact each other",
+"Junk mail"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: spam",
+"correct_answer":"Junk mail",
+"incorrect_answers":[
+"Non-verbal communication",
+"Contact each other",
+"Organize"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: mobile",
+"correct_answer":"Portable",
+"incorrect_answers":[
+"Cost effective",
+"Completely changed",
+"Ask questions"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: revolutionized",
+"correct_answer":"Completely changed",
+"incorrect_answers":[
+"Portable",
+"Cost effective",
+"Ask questions"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: clarify",
+"correct_answer":"Ask questions",
+"incorrect_answers":[
+"Portable",
+"Cost effective",
+"Completely changed"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: view",
+"correct_answer":"Opinion",
+"incorrect_answers":[
+"Long distance face-to face communication",
+"Cost effective",
+"Completely changed"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: video conferencing",
+"correct_answer":"Long distance face-to face communication",
+"incorrect_answers":[
+"Opinion",
+"Cost effective",
+"Completely changed"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Email",
+"incorrect_answers":[
+"Phone",
+"Video call",
+"Online call"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Project your voice",
+"incorrect_answers":[
+"Clarify",
+"Ask questions",
+"Provide immediate feedback"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Immediacy",
+"incorrect_answers":[
+"Lack of privacy",
+"Identity theft",
+"Paparazzi"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Intonation",
+"incorrect_answers":[
+"Body language",
+"Non-verbal communication",
+"Gestures"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Identity theft",
+"incorrect_answers":[
+"Junk mail",
+"Spam",
+"E-mail"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Immediacy",
+"incorrect_answers":[
+"Portable",
+"Mobile",
+"Transportable"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Pricey",
+"incorrect_answers":[
+"Inexpensive",
+"Cost effective",
+"Cheap"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Junk mail",
+"incorrect_answers":[
+"Viruses",
+"Phishing",
+"Scam"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Lack of privacy",
+"incorrect_answers":[
+"Harmful",
+"Unsuitable",
+"Negative"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Gossip",
+"incorrect_answers":[
+"Views",
+"Opinions",
+"Belief"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Mind their own business",
+"incorrect_answers":[
+"Complain a lot",
+"Nosy",
+"Don’t mind their own business"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Generous",
+"incorrect_answers":[
+"Sociable",
+"Gregarious",
+"Spend time with"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: unsuitable",
+"correct_answer":"Harmful",
+"incorrect_answers":[
+"Phishing",
+"Ground-breaking",
+"City center"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: viruses",
+"correct_answer":"Phishing",
+"incorrect_answers":[
+"Harmful",
+"Ground-breaking",
+"City center"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Tiring",
+"incorrect_answers":[
+"Relaxing",
+"Good way to unwind",
+"Have a great time"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Empty",
+"incorrect_answers":[
+"Informative",
+"Educational",
+"Educative"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Unsociable",
+"incorrect_answers":[
+"Socialize",
+"Meet new friend",
+"Gregarious"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Choose the odd word/s out",
+"correct_answer":"Five-storey building",
+"incorrect_answers":[
+"High-rise apartment",
+"Skyscrapers",
+"Tower"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: innovative",
+"correct_answer":"Ground-breaking",
+"incorrect_answers":[
+"City center",
+"Sightseeing spot",
+"Premiere"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: commercial center",
+"correct_answer":"City center",
+"incorrect_answers":[
+"Ground-breaking",
+"Sightseeing spot",
+"Premiere"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: tourist attraction",
+"correct_answer":"Sightseeing spot",
+"incorrect_answers":[
+"City center",
+"Ground-breaking",
+"Premiere"
+],
+"category": "Speaking"
+},
+{
+"difficulty": "-",
+"question":"Match the word to a synonym: opening night",
+"correct_answer":"Premiere",
+"incorrect_answers":[
+"City center",
+"Ground-breaking",
+"Sightseeing spot"
+],
+"category": "Speaking"
 }
 ]`
 
 export const store = JSON.parse(tests)
 
 export const categories = [
+    {value: 'Speaking', name: 'Speaking'},
+    {value: 'Secondary Language', name: 'Secondary Language'},
     {value: 'Foreign Languages', name: 'Foreign Languages'},
     {value: 'Discourse Analysis', name: 'Discourse Analysis'},
     {value: 'Writing and Reading', name: 'Writing and Reading'},
